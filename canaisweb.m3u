@@ -795,9 +795,6 @@ tvg-logo="" group-title=""
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df7c0177a0c044fe0eefb3016a3ff52a.jpg" group-title="NEWS",CANAL RURAL
-https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/chunklist_w1985160598_b1685000_sleng.m3u8
-
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a9342ed0db711b912d1bef3ab86586f9.jpg" group-title="NEWS",TERRA VIVA
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w444746557.m3u8
@@ -811,12 +808,15 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w940977813.m3u8
 https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w1158222302.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="NEWS",CANAL RURAL
+https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+
+
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-XpHPNCGr5ZU/YSJx4CIhybI/AAAAAAAAFKM/WsfSMVkg32QrMpQDKdCf5y2t-XsGRRdoACLcBGAsYHQ/s0/TV%2BMILAGRO%2BBRASIL.png" group-title="NEWS", MILAGRO
 https://srv5.zcast.com.br/tvmilagro/tvmilagro/chunklist_w363747208.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="NEWS",CANAL RURAL
-https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
 ##################################### 
 #EXTINF:0,# NEWS ESPANHOL #
