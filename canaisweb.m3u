@@ -814,6 +814,10 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w1158222302.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-XpHPNCGr5ZU/YSJx4CIhybI/AAAAAAAAFKM/WsfSMVkg32QrMpQDKdCf5y2t-XsGRRdoACLcBGAsYHQ/s0/TV%2BMILAGRO%2BBRASIL.png" group-title="NEWS", MILAGRO
 https://srv5.zcast.com.br/tvmilagro/tvmilagro/chunklist_w363747208.m3u8
 
+
+#EXTINF:0 tvg-logo="" group-title="NEWS",CANAL RURAL
+https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
 ##################################### 
 #EXTINF:0,# NEWS ESPANHOL #
 
@@ -880,6 +884,12 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8723549258a42a5f239e16317cee4371.jpg" group-title="NEWS",BLOOMBERG
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+
+
+#EXTINF:0 tvg-logo="" group-title="NEWS",WEATHER CHANNEL
+https://weather.newscdn.org/exOeZipwZI-f3jernVn4qQ==,1631051784/1253851229/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:0 tvg-logo="" group-title="NEWS",TV5 MONDE
@@ -959,27 +969,22 @@ https://novo.bitstreaming.info:1936/8030/8030/chunklist_w944032026.m3u8
 
 
 
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/775da338d2d26bef54d0537d28580367.webp" group-title="Educa Doc",CNB
+https://livefocamundo.com:8081/tvcnb/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/965ea388c91bb303d5621e2b4044cfde.webp" group-title="Educa Doc",TEBEO 
 https://edge-live-ger1.ovstream.com/hls/11/144p.m3u8?token=live_11_e2ba1c525fa1a1464c4d564929a5e881
 
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a8555f35883ae30a5e8b8f281a995ef4.jpg" group-title="Educa Doc",KCEPA
-https://59f2354c05961.streamlock.net:1443/kcepatv/_definst_/kcepatv/chunklist_w1995324113.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png" group-title="Educa Doc",HISTORYLAB
 https://5929b138b139d.streamlock.net/HistoryLab/livestream/chunklist_w942386265.m3u8
 
 
-##########################  ESPORTES ##############
-#EXTINF:0 tvg-logo="" group-title="",# ESPORTES #
-
-#EXTINF:0 group-title="ESPORTES",WHATS 41.99188.4160 COMENTÁRIO
-https://evpp.mm.uol.com.br/band/bandnewsfm_ctb/chunklist_w286107755.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="ESPORTES",SHOW DE BOLA
-https://videodj.fm5.com.br:19360/showdebola/showdebola.m3u8
+#########################  ESPORTES  #########################
+#EXTINF:0 tvg-logo="" group-title="",## ESPORTES ##
 
 
 #EXTINF:0 tvg-logo="" group-title="ESPORTES",GOL BRASIL
@@ -990,16 +995,26 @@ https://stmv5.samcast.com.br/caroline3961/caroline3961/chunklist_w2076930074.m3u
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w121772060.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/938f98bd94d9770d49bd8c68de61c068.jpg" group-title="ESPORTES",RSNEWS
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/938f98bd94d9770d49bd8c68de61c068.jpg" group-title="ESPORTES",RSNEWS 1
+https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/chunklist_w1684681908.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/938f98bd94d9770d49bd8c68de61c068.jpg" group-title="ESPORTES",RSNEWS 2
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist_w507879113.m3u8
 
 
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/938f98bd94d9770d49bd8c68de61c068.jpg" group-title="ESPORTES",RSNEWS 3
+https://cdn-rafael-9362.ciclano.io:1443/rafael-9362/rafael-9362/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-RgN-X3eAXqk/X48hYNd-tlI/AAAAAAAADdQ/v_ahjmeLYu4A_Qx9a9CffQZqeSRF8VspgCLcBGAsYHQ/s0/TV%2BADQS.png"group-title="ESPORTES",TVADQS
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-RgN-X3eAXqk/X48hYNd-tlI/AAAAAAAADdQ/v_ahjmeLYu4A_Qx9a9CffQZqeSRF8VspgCLcBGAsYHQ/s0/TV%2BADQS.png"group-title="ESPORTES",TV ADQS
 https://stmv1.srvif.com/adqstv/adqstv/chunklist_w1293506251.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2ca781620fe7f3258d8e6d03bf0cd73c.jpg" group-title="ESPORTES",TVADO
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2ca781620fe7f3258d8e6d03bf0cd73c.jpg" group-title="ESPORTES",TV ADO
 https://5c483b9d1019c.streamlock.net/tvado/tvado/chunklist_w1437361299.m3u8
 
 
@@ -1019,6 +1034,13 @@ https://dcunilive263-lh.akamaihd.net/i/dclive_1@352220/index_150_av-p.m3u8?sd=10
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
 
 
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",REAL MADRI SP
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1631118327~acl=%2f*~data=hdntl~hmac=2e224606e7a881f3e08a546624e6a2497612b782799bc8569cc089e30321e83c
+
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",REAL MADRI ING
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1631118327~acl=%2f*~data=hdntl~hmac=2e224606e7a881f3e08a546624e6a2497612b782799bc8569cc089e30321e83c
+
                
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="ESPORTES",REDBULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
@@ -1028,21 +1050,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1726693761_b1296000_sleng.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/070b1875112063aaab9e5a33c7939685.jpg" group-title="ESPORTES",AUTOMOTOhttps://1.bp.blogspot.com/-cs9HgtSTF3w/X8-2pKQla0I/AAAAAAAAD7I/7WY5QHD2HpQT2psWmxPskQvcjqT9qrEGgCLcBGAsYHQ/s0/MOTOR%2BTREND.png
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/070b1875112063aaab9e5a33c7939685.jpg" group-title="ESPORTES",AUTOMOTO
+https://1.bp.blogspot.com/-cs9HgtSTF3w/X8-2pKQla0I/AAAAAAAAD7I/7WY5QHD2HpQT2psWmxPskQvcjqT9qrEGgCLcBGAsYHQ/s0/MOTOR%2BTREND.png
 http://100automoto.tv:1935/bgtv1/Stream1/chunklist.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="ESPORTES",MOTOR TREND
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgDJKah8SPbY2amQM2ElEFDyk8sJxQ%2fYVF73jC0qke8E52VxFUAPhiDgbyJLCN2OiBffM6Ac0QMtvA%3d%3d
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/895c7ba6376e57efcfabcc14d291b339.jpg" group-title="ESPORTES",DUBAI RACING
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42f5997ddaa17d2f51e6dfc25551ae94.png" group-title="ESPORTES",TVWAU
-https://nn.geo.joj.sk/live/hls/wau-540.m3u8
-
 
 
 #######################  MUSICAL ########################
