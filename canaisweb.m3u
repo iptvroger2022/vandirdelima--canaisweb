@@ -904,6 +904,11 @@ https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="",# EDUCA E DOC #
 
 
+#EXTINF:0 tvg-logo="" group-title="Educa Doc",TV ESCOLA
+https://edge-es-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(S_bKxSGiDaCPv9X8yxkPqQ)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGAVgBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuAfecBVa16Et9eMjlLC13Rq6Cwwi8mycU0Iwr-66QiAe98vgBCT-AiPs61W_9bjrtb8ATEJw-JsxpVNlotY)'t(wDM)b(pbCqvGJQQWqY9cAtI-9-O9bngy67xc2Xu8ug)))/live_540_index.m3u8
+
+
+
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Bw-eF1xIcXI/XSDTesUtj6I/AAAAAAAABTo/BNFF8mttDMI7jt2WtZa9lU3yEJWGa6JCACPcBGAYYCw/s320/Screenshot_2019-07-06-13-44-18.png" group-title="Educa Doc",TVFUTURA CE
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1222635818.m3u8
 
@@ -1128,6 +1133,6 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w1740438
 https://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w379076962.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="MUSICA",teste
-https://www.youtube.com/embed/live_stream?channel=UCUmEPYxmnyQDeRUcFkslmQw&autoplay=1
+
+
 
