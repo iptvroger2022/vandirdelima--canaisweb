@@ -1039,25 +1039,13 @@ https://dcunilive263-lh.akamaihd.net/i/dclive_1@352220/index_150_av-p.m3u8?sd=10
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:0 tvg-logo="" group-title="ESPORTES",REAL MADRI SP
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1631118327~acl=%2f*~data=hdntl~hmac=2e224606e7a881f3e08a546624e6a2497612b782799bc8569cc089e30321e83c
-
-
-#EXTINF:0 tvg-logo="" group-title="ESPORTES",REAL MADRI ING
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1631118327~acl=%2f*~data=hdntl~hmac=2e224606e7a881f3e08a546624e6a2497612b782799bc8569cc089e30321e83c
-
-               
+              
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="ESPORTES",REDBULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-9NbN05n1vvo/XcmNjNDdZAI/AAAAAAAACPM/Lk-B9aE75YUqIH7FC6v6yksAYpBhDeT4QCLcBGAsYHQ/s320/Screenshot_2019-11-11-13-30-41.png" group-title="ESPORTES",TV GARAGE
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1726693761_b1296000_sleng.m3u8
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/070b1875112063aaab9e5a33c7939685.jpg" group-title="ESPORTES",AUTOMOTO
-https://1.bp.blogspot.com/-cs9HgtSTF3w/X8-2pKQla0I/AAAAAAAAD7I/7WY5QHD2HpQT2psWmxPskQvcjqT9qrEGgCLcBGAsYHQ/s0/MOTOR%2BTREND.png
-http://100automoto.tv:1935/bgtv1/Stream1/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/895c7ba6376e57efcfabcc14d291b339.jpg" group-title="ESPORTES",DUBAI RACING
