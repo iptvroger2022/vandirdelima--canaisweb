@@ -600,7 +600,6 @@ http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w565111683.m3u8
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/chunklist_w112024383.m3u8
 
 
-
 #EXTINF:0 tvg-logo="" group-title="",### REDES ABERTAS ### 
 ########################################################## 
 
@@ -1039,7 +1038,7 @@ https://dcunilive263-lh.akamaihd.net/i/dclive_1@352220/index_150_av-p.m3u8?sd=10
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
 
 
-              
+
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="ESPORTES",REDBULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
@@ -1050,6 +1049,22 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1726693761_b1296000_
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/895c7ba6376e57efcfabcc14d291b339.jpg" group-title="ESPORTES",DUBAI RACING
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+
+#EXTINF:0 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/06/tvtuga-logo.png" group-title="ESPORTES",STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+ 
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",TELEROMAGNA             
+http://livetr.teleromagna.it/teleromagna/live/live/teleromagna480/chunks.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",BEK SPORTS
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2010/04/canale-7-200x141.png" group title="ESPORTES",CANALE 7
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
 
 #######################  MUSICAL ########################
