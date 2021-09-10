@@ -424,6 +424,11 @@ https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w12771960
 #################  VARIEDADES  ####################
 #EXTINF:0 tvg-logo="" group-title="",# VARIEDADES #
 
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",SULANCA
+https://srv3.zcast.com.br/severino6254/severino6254/chunklist_w1044038956.m3u8
+
+
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES",RECORDAÇÕES
 https://srv4.zcast.com.br/tvphyladelphyaweb/tvphyladelphyaweb/chunklist_w94906191.m3u8
 
@@ -1079,41 +1084,27 @@ https://evpp.mm.uol.com.br/band/bandnewsfm_ctb/chunklist_w286107755.m3u8
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="MUSICA",LFM
+https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w846223479_b1600000.m3u8
+
+
+
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/452689c6ae486a72a8271d2de86ab666.jpg" group-title="MUSICA",CMC 
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/452689c6ae486a72a8271d2de86ab666.jpg" group-title="MUSICA",CMC Country
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_
+com/live_1/CMCU-92/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",TVMUSIC 
+https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
 
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/32cbb1b4bc1f615b2e28ea9d9825a0a1.jpg" group-title="MUSICA",KRONE HIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/00550c7b7eee6db32fd996dc54518b75.jpg" group-title="MUSICA",CDTV
-http://stmv1.caxiashost.com.br/caxiashost/caxiashost/chunklist_w1090463670.m3u8
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5081ee01b6a6d0b57910baf19696da0a.png" group-title="MUSICA",RÁDIO M20
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6973c1242bc777c5bfd3ee19bc81f3a4.png" group-title="MUSICA",TV538
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
-
-
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-bjFUcK5-GHQ/XNen2xjP_XI/AAAAAAAAA1g/7pLqnXwy3XEx1JOd4WPUKgEfsu3scKEYQCLcBGAs/s320/Screenshot_2019-05-12-01-50-14.png" group-title="MUSICA",FOX MIX
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cc9236691ac566b68598714b27afe769.jpg" group-title="MUSICA",RÁDIO 51
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-l2yIvO6RHf4/YA2758jIxDI/AAAAAAAAEMk/2Szq35HfwIg0LYpdtlKx9oB59ZOFoIk6wCLcBGAsYHQ/s0/WHAM%2BTV.png" group-title="MUSICA",WHAM 
-https://srv5.zcast.com.br/andre4369/andre4369/chunklist_w28839351.m3u8
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/67cebad8d46fc668e21b0ae8387ae2cd.png" group-title="MUSICA",ROCKTV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w1740438959_b1600000.m3u8?publisher=83L
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0c65bafaced938497a2a4caf0306c9d3.jpg" group-title="MUSICA",RETRO MUSIC
@@ -1128,8 +1119,25 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w903674320.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/67cebad8d46fc668e21b0ae8387ae2cd.png" group-title="MUSICA",ROCKTV
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w1740438959_b1600000.m3u8?publisher=83
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-bjFUcK5-GHQ/XNen2xjP_XI/AAAAAAAAA1g/7pLqnXwy3XEx1JOd4WPUKgEfsu3scKEYQCLcBGAs/s320/Screenshot_2019-05-12-01-50-14.png" group-title="MUSICA",FOX MIX
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/32cbb1b4bc1f615b2e28ea9d9825a0a1.jpg" group-title="MUSICA",KRONE HIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/00550c7b7eee6db32fd996dc54518b75.jpg" group-title="MUSICA",CDTV
+http://stmv1.caxiashost.com.br/caxiashost/caxiashost/chunklist_w1090463670.m3u8
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5081ee01b6a6d0b57910baf19696da0a.png" group-title="MUSICA",RÁDIO M20
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-l2yIvO6RHf4/YA2758jIxDI/AAAAAAAAEMk/2Szq35HfwIg0LYpdtlKx9oB59ZOFoIk6wCLcBGAsYHQ/s0/WHAM%2BTV.png" group-title="MUSICA",WHAM 
+https://srv5.zcast.com.br/andre4369/andre4369/chunklist_w28839351.m3u8
+
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9a2f6d2e1222f1be5507bf3639cae337.jpg" group-title="MUSICA",ALVORADA SERTANEJA
