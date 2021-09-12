@@ -1165,14 +1165,11 @@ https://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w3790
 http://stm9.srvstm.com:13544//;stream.mp3
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/8997d0ec8d0ab68890814ddb3b414ad6.jpg" group-title="MUSICA",ITALODISCO 80
-https://igor.torontocast.com/rdmixitalodisco80s
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/7d6e629fb1db0abdc1bfe1e01ee29509.jpg" group-title="MUSICA",REGGAE
-https://ssl.xcast.com.br:12824//;stream.mp3
-
-
+#EXTINF:0 tvg-logo="" group-title="MUSICA",
 
 
 
