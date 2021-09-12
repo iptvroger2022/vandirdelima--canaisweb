@@ -201,6 +201,10 @@ https://stmv1.srvstm.com/classique/classique/chunklist_w697686736.m3u8
 https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w2007396000.m3u8
 
 
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png"group-title="FILMES SÉRIES",CLASSIQUE NOIR
+https://stmv1.srvif.com/classiquen/classiquen/chunklist_w916001681.m3u8
+
+
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png"group-title="FILMES SÉRIES",CLASSIQUE WESTERN
 https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 
@@ -326,6 +330,9 @@ https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbi
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1807326387.m3u8
 
 
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-BysZBlK2G5o/XtbFWt8jSbI/AAAAAAAAC5M/_A_0m2y1Oo8WkJT8J5DdveOjLPRoBM_SgCPcBGAYYCw/s0/Screenshot_2020-06-02-18-28-37.png" group-title="FILMES SÉRIES", MANCHETE 2 
+https://stmv1.srvif.com/penasd/penasd/chunklist_w1994239603.m3u8
+
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-379R0JQ3Pgs/YEj2OgqAJ_I/AAAAAAAAEYA/ct4jpQtyRoUs1br8DhEqg_TnGMxnZUAxwCLcBGAsYHQ/s0/WEB%2BTV%2BCINE.png" group-title="FILMES SÉRIES",TVCINE
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w409729964.m3u8
@@ -374,7 +381,6 @@ https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 
 
 
-
 ###################  FILMES e VARIEDADES ############
 #EXTINF:0 tvg-logo="" group-title="",# FILMES E VARIEDADES #
 
@@ -419,6 +425,7 @@ https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/chunklist_w14054903
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-JwZlc2K1-vw/XqeJPjzZWqI/AAAAAAAACqU/SQ01_WsB9wQQmRpVaC1EMa1PPcy6LSrugCLcBGAsYHQ/s320/Screenshot_2020-04-27-22-35-28.png"group-title="FILMES SÉRIES",LATINASAT
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w1277196027.m3u8
+
 
 
 #################  VARIEDADES  ####################
@@ -1090,16 +1097,26 @@ https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w846223479
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/452689c6ae486a72a8271d2de86ab666.jpg" group-title="MUSICA",CMC 
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/452689c6ae486a72a8271d2de86ab666.jpg" group-title="MUSICA",CMC Country
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_
-com/live_1/CMCU-92/chunklist.m3u8
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
 
 
 #EXTINF:0 tvg-logo="" group-title="MUSICA",TVMUSIC 
 https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",CONTACT
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-qF9tklzGkfI/XQfBA3CnQaI/AAAAAAAABD0/XhhHQno9RzA88X86L8KOEtc_YCNOQ-02ACLcBGAs/s320/Screenshot_2019-06-17-13-29-49.png" group-title="MUSICA",CAROLINA
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8?nimblesessionid=221500823
 
 
 
@@ -1142,6 +1159,18 @@ https://srv5.zcast.com.br/andre4369/andre4369/chunklist_w28839351.m3u8
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9a2f6d2e1222f1be5507bf3639cae337.jpg" group-title="MUSICA",ALVORADA SERTANEJA
 https://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w379076962.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/60bfd8dcd44e834be6ee4bd39f9e8b59.png" group-title="MUSICA",FLASHBACK 80
+http://stm9.srvstm.com:13544//;stream.mp3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/8997d0ec8d0ab68890814ddb3b414ad6.jpg" group-title="MUSICA",ITALODISCO 80
+https://igor.torontocast.com/rdmixitalodisco80s
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/7d6e629fb1db0abdc1bfe1e01ee29509.jpg" group-title="MUSICA",REGGAE
+https://ssl.xcast.com.br:12824//;stream.mp3
 
 
 
