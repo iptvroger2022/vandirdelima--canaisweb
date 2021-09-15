@@ -1091,6 +1091,10 @@ https://evpp.mm.uol.com.br/band/bandnewsfm_ctb/chunklist_w286107755.m3u8
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8?sd=10&rebase=on
 
 
+#EXTINF:0 tvg-logo="" group-title="MUSICA",ITALIANÍSSIMO
+https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w44146542.m3u8
+
+
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-bjFUcK5-GHQ/XNen2xjP_XI/AAAAAAAAA1g/7pLqnXwy3XEx1JOd4WPUKgEfsu3scKEYQCLcBGAs/s320/Screenshot_2019-05-12-01-50-14.png" group-title="MUSICA",FOX MIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
 
@@ -1205,6 +1209,10 @@ https://ssl.xcast.com.br:6864/stream/;stream.mp3
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/6bfd302dfb2a99639f8fec96e3b554f9.png" group-title="MUSICA",SUPERHITS
 https://s35.maxcast.com.br:8074/live
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",CLUB SOUNDZ
+https://manager.conceptradio.fr:1185/stream
 
 
 #EXTINF:0 tvg-logo="" group-title="MUSICA",Q104.3 FM
