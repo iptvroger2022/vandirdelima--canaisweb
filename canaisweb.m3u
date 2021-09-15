@@ -1087,6 +1087,27 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 https://evpp.mm.uol.com.br/band/bandnewsfm_ctb/chunklist_w286107755.m3u8
 
 
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-bjFUcK5-GHQ/XNen2xjP_XI/AAAAAAAAA1g/7pLqnXwy3XEx1JOd4WPUKgEfsu3scKEYQCLcBGAs/s320/Screenshot_2019-05-12-01-50-14.png" group-title="MUSICA",FOX MIX
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/32cbb1b4bc1f615b2e28ea9d9825a0a1.jpg" group-title="MUSICA",KRONE HIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/00550c7b7eee6db32fd996dc54518b75.jpg" group-title="MUSICA",CDTV
+http://stmv1.caxiashost.com.br/caxiashost/caxiashost/chunklist_w1090463670.m3u8
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5081ee01b6a6d0b57910baf19696da0a.png" group-title="MUSICA",RÁDIO M20
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-l2yIvO6RHf4/YA2758jIxDI/AAAAAAAAEMk/2Szq35HfwIg0LYpdtlKx9oB59ZOFoIk6wCLcBGAsYHQ/s0/WHAM%2BTV.png" group-title="MUSICA",WHAM 
+https://srv5.zcast.com.br/andre4369/andre4369/chunklist_w28839351.m3u8
+
+
+
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6a40aa246447dc02d1c71b6bf437506d.png" tvg-logo="" group-title="MUSICA",RÁDIO CAPITAL
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
@@ -1136,40 +1157,156 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w903674320.m3u8
 
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-bjFUcK5-GHQ/XNen2xjP_XI/AAAAAAAAA1g/7pLqnXwy3XEx1JOd4WPUKgEfsu3scKEYQCLcBGAs/s320/Screenshot_2019-05-12-01-50-14.png" group-title="MUSICA",FOX MIX
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/32cbb1b4bc1f615b2e28ea9d9825a0a1.jpg" group-title="MUSICA",KRONE HIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/00550c7b7eee6db32fd996dc54518b75.jpg" group-title="MUSICA",CDTV
-http://stmv1.caxiashost.com.br/caxiashost/caxiashost/chunklist_w1090463670.m3u8
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5081ee01b6a6d0b57910baf19696da0a.png" group-title="MUSICA",RÁDIO M20
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-l2yIvO6RHf4/YA2758jIxDI/AAAAAAAAEMk/2Szq35HfwIg0LYpdtlKx9oB59ZOFoIk6wCLcBGAsYHQ/s0/WHAM%2BTV.png" group-title="MUSICA",WHAM 
-https://srv5.zcast.com.br/andre4369/andre4369/chunklist_w28839351.m3u8
-
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9a2f6d2e1222f1be5507bf3639cae337.jpg" group-title="MUSICA",ALVORADA SERTANEJA
 https://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w379076962.m3u8
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/60bfd8dcd44e834be6ee4bd39f9e8b59.png" group-title="MUSICA",FLASHBACK 80
+##################### RÁDIOS ###################
+#EXTINF:0 tvg-logo="" group-title="MUSICA",RÁDIOS
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/0b9808ecc06ad567130fa140d377be78.jpg" group-title="MUSICA",STUDIO SOUTO 70
+https://centova5.transmissaodigital.com:20013/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="http://stm18.srvstm.com:6096/;stream.mp3" group-title="MUSICA",DANCEBEM 70,80,90
+http://stm18.srvstm.com:6096/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/a78bfdb9fa317986235e295345f8a11c.jpg" group-title="MUSICA",TOP 80
+https://s4.radioforge.com:7669//;stream.mp3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/60bfd8dcd44e834be6ee4bd39f9e8b59.png" group-title="MUSICA",FLASHBACK
 http://stm9.srvstm.com:13544//;stream.mp3
 
 
-
-#EXTINF:0 tvg-logo="" group-title="MUSICA",
-
-
-#EXTINF:0 tvg-logo="" group-title="MUSICA",
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d5d3058b361a90ca6692f7b20e7f67df.png" group-title="MUSICA",DISOKLUB 70a2000
+http://hts06.kshost.com.br:11900/;stream.mp3
 
 
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",EURODANCE
+https://daydeeeurodance.stream.laut.fm/daydeeeurodance?t302=2021-09-15_00-46-04&uuid=9fa08e97-6a81-48e4-a333-1728e7252ef3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/eaab7148ba2deb9c592d20c535e24dd5.jpg" group-title="MUSICA",MUSIC 2000
+http://209.133.210.170:8190//;stream.mp3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/186055cbf0a0efa02faceaa0c6ba83a8.jpg" group-title="MUSICA",MEGAHITS
+https://ssl.xcast.com.br:6864/stream/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/6bfd302dfb2a99639f8fec96e3b554f9.png" group-title="MUSICA",SUPERHITS
+https://s35.maxcast.com.br:8074/live
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",Q104,3 FM
+https://n0ca-e2.revma.ihrhls.com/zc1465?rj-ttl=5&rj-tok=AAABe-abjfEAzdGrEAhKuYhz1A
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/ad8b05586d50a3a4905fd3ee89cdf61b.png" group-title="MUSICA",ROUTE66 ROCK
+https://servidor32.brlogic.com:8056/live
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",PENHASCO ROCK
+https://node-32.zeno.fm/da0ucxzk638uv?rj-ttl=5&rj-tok=AAABe-aSLQcA9etgVa7qIRTb3g
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/4135812648b2554b8459910d528c0c41.jpg" group-title="MUSICA",BLUES ATHENS
+http://live.bluesradio.gr:8352//;stream.mp3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/c420b5f3fc5157a2f4f14fbfffe0c107.jpg" group-title="MUSICA",TRINCA METAL
+https://node-09.zeno.fm/437aqf400f8uv?rj-ttl=5&rj-tok=AAABe-baY5AAZM5Yygt3M9R9Kw
+
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",181FM HARDROCK
+https://listen.181fm.com/181-hardrock_128k.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",ROCKFEUR
+http://rockfeuer.stream.laut.fm/rockfeuer?t302=2021-09-15_02-26-01&uuid=88494e50-f48e-4644-80f8-8b9fc92ce23d
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d8bedc468b6656b66031c7747d551db3.png" group-title="MUSICA",MEANZROCK
+http://199.195.194.94:8103/stream/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",BRUTALMETAL
+http://209.159.150.242:8014/;stream/1
+
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/42342b9bea950ed250b34ac805196b9d.png" group-title="MUSICA",METALMIX
+https://ais-sa2.cdnstream1.com/1987_128.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",METAL INVASION
+https://radio.metal-invasion.fr/radio/8000/stream.mp3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/684a95e68b0462a77181063bbf55ed53.jpg" group-title="MUSICA",181FM COUNTRY
+https://listen.181fm.com/181-90scountry_128k.mp3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/e1b5f32ee15abeb232e2e3655a8e353e.jpg" group-title="MUSICA",K-JOE 106,1FM
+https://crystalout.surfernetwork.com:8001/KJOE-FM_MP3
+
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/33771dabb78091bcb0aa264ffab7dda8.jpg" group-title="MUSICA",JOVEM GUARDA
+https://player.srvsh.com.br/proxy/6966
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/bb784200cc21c1467a2cc2543a920914.jpg" group-title="MUSICA",JOVEM GUARDA
+http://srv1.cordeiroplasticos.com.br:7022//;stream.mp3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/43af6a570c729eef58c3071f9bdaf64d.jpg" group-title="MUSICA",JOVEM GUARDA 70
+https://centova5.transmissaodigital.com:20021/;stream.mp3
+
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/2faac656fe71aa6fafba582c5b3b573d.png" group-title="MUSICA",VIVA O SAMBA
+https://servidor33.brlogic.com:8020/live
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/cd8550018014e8ae219a4dd4bdc3ef50.jpg" group-title="MUSICA",CIDADE SAMBA
+http://stm1.hoststreaming.com.br:7018/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",MAIS FORRÓ
+http://142.54.168.242:8627/index.html/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",SÓ FORRÓ
+https://node-09.zeno.fm/437aqf400f8uv?rj-ttl=5&rj-tok=AAABe-baY5AAZM5Yygt3M9R9Kw
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/7189bf051102b48385b00f88c146d261.jpg" group-title="MUSICA",CAIPIRA RAIZ
+https://ssl.xcast.com.br:9030//;stream.mp3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1bfacd007e0602c855c2bc9bce9b7a19.jpg" group-title="MUSICA",SERTANEJA RAIZ
+http://cast.midiaip.com.br:8330//;stream.mp3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/513c331eda6b8181541279109d9b153a.jpg" group-title="MUSICA",TRADIÇÃO GAUCHO
+https://ssl.ahtvox.com.br:7020/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",SOM GAUCHO
+https://player.ifantasy.com.br/proxy/7058/
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",ITÁLIA
+https://player.ifantasy.com.br/proxy/7058/
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",ITÁLIA
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8?sd=10&rebase=on
 
