@@ -1087,6 +1087,14 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 https://evpp.mm.uol.com.br/band/bandnewsfm_ctb/chunklist_w286107755.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="MUSICA",ITÁLIA1
+https://player.ifantasy.com.br/proxy/7058/
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",ITÁLIA2
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8?sd=10&rebase=on
+
+
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-bjFUcK5-GHQ/XNen2xjP_XI/AAAAAAAAA1g/7pLqnXwy3XEx1JOd4WPUKgEfsu3scKEYQCLcBGAs/s320/Screenshot_2019-05-12-01-50-14.png" group-title="MUSICA",FOX MIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
 
@@ -1164,13 +1172,13 @@ https://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w3790
 
 
 ##################### RÁDIOS ###################
-#EXTINF:0 tvg-logo="" group-title="MUSICA",RÁDIOS
+#EXTINF:0 tvg-logo="" group-title="MUSICA",#### RÁDIOS####
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/0b9808ecc06ad567130fa140d377be78.jpg" group-title="MUSICA",STUDIO SOUTO 70
 https://centova5.transmissaodigital.com:20013/;stream.mp3
 
 
-#EXTINF:0 tvg-logo="http://stm18.srvstm.com:6096/;stream.mp3" group-title="MUSICA",DANCEBEM 70,80,90
+#EXTINF:0 tvg-logo="http://stm18.srvstm.com:6096/;stream.mp3" group-title="MUSICA",DANCEBEM 70 A 90
 http://stm18.srvstm.com:6096/;stream.mp3
 
 
@@ -1182,7 +1190,7 @@ https://s4.radioforge.com:7669//;stream.mp3
 http://stm9.srvstm.com:13544//;stream.mp3
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d5d3058b361a90ca6692f7b20e7f67df.png" group-title="MUSICA",DISOKLUB 70a2000
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d5d3058b361a90ca6692f7b20e7f67df.png" group-title="MUSICA",DISCOKLUB 70a2000
 http://hts06.kshost.com.br:11900/;stream.mp3
 
 
@@ -1203,8 +1211,12 @@ https://ssl.xcast.com.br:6864/stream/;stream.mp3
 https://s35.maxcast.com.br:8074/live
 
 
-#EXTINF:0 tvg-logo="" group-title="MUSICA",Q104,3 FM
+#EXTINF:0 tvg-logo="" group-title="MUSICA",Q104.3 FM
 https://n0ca-e2.revma.ihrhls.com/zc1465?rj-ttl=5&rj-tok=AAABe-abjfEAzdGrEAhKuYhz1A
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/4135812648b2554b8459910d528c0c41.jpg" group-title="MUSICA",BLUES ATHENS
+http://live.bluesradio.gr:8352//;stream.mp3
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/ad8b05586d50a3a4905fd3ee89cdf61b.png" group-title="MUSICA",ROUTE66 ROCK
@@ -1213,14 +1225,6 @@ https://servidor32.brlogic.com:8056/live
 
 #EXTINF:0 tvg-logo="" group-title="MUSICA",PENHASCO ROCK
 https://node-32.zeno.fm/da0ucxzk638uv?rj-ttl=5&rj-tok=AAABe-aSLQcA9etgVa7qIRTb3g
-
-
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/4135812648b2554b8459910d528c0c41.jpg" group-title="MUSICA",BLUES ATHENS
-http://live.bluesradio.gr:8352//;stream.mp3
-
-
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/c420b5f3fc5157a2f4f14fbfffe0c107.jpg" group-title="MUSICA",TRINCA METAL
-https://node-09.zeno.fm/437aqf400f8uv?rj-ttl=5&rj-tok=AAABe-baY5AAZM5Yygt3M9R9Kw
 
 
 
@@ -1253,7 +1257,7 @@ https://radio.metal-invasion.fr/radio/8000/stream.mp3
 https://listen.181fm.com/181-90scountry_128k.mp3
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/e1b5f32ee15abeb232e2e3655a8e353e.jpg" group-title="MUSICA",K-JOE 106,1FM
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/e1b5f32ee15abeb232e2e3655a8e353e.jpg" group-title="MUSICA",K-JOE 106.1FM
 https://crystalout.surfernetwork.com:8001/KJOE-FM_MP3
 
 
@@ -1264,11 +1268,6 @@ https://player.srvsh.com.br/proxy/6966
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/bb784200cc21c1467a2cc2543a920914.jpg" group-title="MUSICA",JOVEM GUARDA
 http://srv1.cordeiroplasticos.com.br:7022//;stream.mp3
-
-
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/43af6a570c729eef58c3071f9bdaf64d.jpg" group-title="MUSICA",JOVEM GUARDA 70
-https://centova5.transmissaodigital.com:20021/;stream.mp3
-
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/2faac656fe71aa6fafba582c5b3b573d.png" group-title="MUSICA",VIVA O SAMBA
@@ -1303,10 +1302,5 @@ https://ssl.ahtvox.com.br:7020/;stream.mp3
 https://player.ifantasy.com.br/proxy/7058/
 
 
-#EXTINF:0 tvg-logo="" group-title="MUSICA",ITÁLIA
-https://player.ifantasy.com.br/proxy/7058/
 
-
-#EXTINF:0 tvg-logo="" group-title="MUSICA",ITÁLIA
-https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8?sd=10&rebase=on
 
