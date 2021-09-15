@@ -1087,11 +1087,7 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 https://evpp.mm.uol.com.br/band/bandnewsfm_ctb/chunklist_w286107755.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="MUSICA",ITÁLIA1
-https://player.ifantasy.com.br/proxy/7058/
-
-
-#EXTINF:0 tvg-logo="" group-title="MUSICA",ITÁLIA2
+#EXTINF:0 tvg-logo="" group-title="MUSICA",RÁDIO ITÁLIA
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8?sd=10&rebase=on
 
 
