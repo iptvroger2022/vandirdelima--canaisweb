@@ -3,7 +3,7 @@
 #EXTM3U
 
 ############### CONTATOS  ###############
-#EXTINF:0 tvg-logo=""group-title="",## CONTATO ##
+#EXTINF:0 tvg-logo=""group-title="",#### CONTATO ####
 
 #EXTINF:0 group-title="CONTATO",FAÇA CONTATO AGORA
 http://los.cdnstream.com/1101_128
@@ -36,16 +36,14 @@ http://199.195.194.94:8103/stream/;stream.mp3
 http://199.195.194.140:8300//;stream.mp3
 
 
-#EXTINF:0 group-title="CONTATO",CLIQUE E OUÇA
-https://servidor16-3.brlogic.com:7614/live
-
-
-#EXTINF:0 group-title="CONTATO",RÁDIOS NOS LINK
+#EXTINF:0 group-title="CONTATO",Vender como Afiliados
 http://streaming15.hstbr.net:8288/autodj
 
+#EXTINF:0 group-title="CONTATO",vandirdelima@gmail.com
+https://servidor16-3.brlogic.com:7614/live
 
 ###################### CARTOONS  #####################
-#EXTINF:0 tvg-logo=""group-title="",## CARTOONS ##
+#EXTINF:0 tvg-logo=""group-title="",#### CARTOONS ####
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0Iq6wbVRaAg/YFDNyFtWiqI/AAAAAAAAEZk/N-oqR72a8Qsc5_0zN7DpoBalbUuienn-gCLcBGAsYHQ/s0/JETSONS%2BTV.png" group-title="CARTOON",JETSONS
@@ -86,7 +84,7 @@ https://azxtv.com/hls/stream.m3u8
 
 
 ##################### FILMES SÉRIES DESENHOS  ###############
-#EXTINF:0 tvg-logo="" group-title="",## FILMES E SÉRIES ##
+#EXTINF:0 tvg-logo="" group-title="",#### FILMES E SÉRIES ####
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0jaBPWbTOkw/YGymcpKy8EI/AAAAAAAAEgQ/ZUD_ZGLpxZo7SWA4LCv418dEeZu5IY_ewCLcBGAsYHQ/s0/WHAM%2BTV%2BCLASSIC.png" group-title="FILMES SÉRIES",WHAM  
@@ -283,7 +281,7 @@ https://stmv1.srvstm.com/tvserie3/tvserie3/chunklist_w2003656677.m3u8
 
 
 ############## FILMES SÉRIES DESENHOS   #################
-#EXTINF:0 tvg-logo=""group-title="",# FILMES SÉRIES DESENHOS #
+#EXTINF:0 tvg-logo=""group-title="",#### FILMES SÉRIES DESENHOS ####
 
 
 
@@ -382,7 +380,7 @@ https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 
 
 ###################  FILMES e VARIEDADES ############
-#EXTINF:0 tvg-logo="" group-title="",# FILMES E VARIEDADES #
+#EXTINF:0 tvg-logo="" group-title="",#### FILMES E VARIEDADES ####
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="FILMES SÉRIES",CENTRALTV 
@@ -429,7 +427,7 @@ https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w12771960
 
 
 #################  VARIEDADES  ####################
-#EXTINF:0 tvg-logo="" group-title="",# VARIEDADES #
+#EXTINF:0 tvg-logo="" group-title="",#### VARIEDADES ####
 
 
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES",SULANCA
@@ -612,7 +610,7 @@ http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w565111683.m3u8
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/chunklist_w112024383.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="",### REDES ABERTAS ### 
+#EXTINF:0 tvg-logo="" group-title="",#### REDES ABERTAS #### 
 ########################################################## 
 
 
@@ -673,7 +671,7 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-b.m3u8?sd=10&re
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",### GOSPEL ###
+#EXTINF:0 tvg-logo="" group-title="",#### GOSPEL ####
 ##########################################################
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" group-title="GOSPEL",REDEFAMILIA
@@ -745,7 +743,7 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_
 
 ###################### NEWS NOTICIAS ###################
 
-#EXTINF:0,### NOTICIAS RADIOS ###
+#EXTINF:0,#### NOTICIAS RADIOS ####
 
 tvg-logo="" group-title=""
 
@@ -774,7 +772,7 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 ####################################
 
-#EXTINF:0, ### NOTICIAS PORTUGUES ###  
+#EXTINF:0, #### NOTICIAS PORTUGUES ####  
 tvg-logo="" group-title=""
 
 
@@ -796,8 +794,8 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 
-######################### 
-#EXTINF:0,# NOTICIAS RURAIS #
+###################################################### 
+#EXTINF:0,#### NOTICIAS RURAIS ####
  
 tvg-logo="" group-title=""
 
@@ -830,7 +828,7 @@ https://srv5.zcast.com.br/tvmilagro/tvmilagro/chunklist_w363747208.m3u8
 
 
 ##################################### 
-#EXTINF:0,# NEWS ESPANHOL #
+#EXTINF:0,#### NEWS ESPANHOL ####
 
 tvg-logo="" group-title=""
 
@@ -867,7 +865,7 @@ https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 
 
 ######################### 
-#EXTINF:0 tvg-logo="" group-title="",# NEWS INGLES #
+#EXTINF:0 tvg-logo="" group-title="",#### NEWS INGLES ####
 
 
 
@@ -912,7 +910,7 @@ https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
 
 ####################### DOCUMENTÁRIOS ####################
-#EXTINF:0 tvg-logo="" group-title="",# EDUCA E DOC #
+#EXTINF:0 tvg-logo="" group-title="",#### EDUCA DOC ####
 
 
 #EXTINF:0 tvg-logo="" group-title="Educa Doc",TV ESCOLA
@@ -1000,7 +998,7 @@ https://5929b138b139d.streamlock.net/HistoryLab/livestream/chunklist_w942386265.
 
 
 #########################  ESPORTES  #########################
-#EXTINF:0 tvg-logo="" group-title="",## ESPORTES ##
+#EXTINF:0 tvg-logo="" group-title="",#### ESPORTES ####
 
 
 #EXTINF:0 tvg-logo="" group-title="ESPORTES",GOL BRASIL
@@ -1080,7 +1078,7 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
 
 #######################  MUSICAL TV ########################
-#EXTINF:0 tvg-logo="" group-title="",# MUSICAS #
+#EXTINF:0 tvg-logo="" group-title="",#### TV MUSICAS ####
 
 
 
