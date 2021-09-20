@@ -84,7 +84,7 @@ https://azxtv.com/hls/stream.m3u8
 
 
 ##################### FILMES SÉRIES DESENHOS  ###############
-#EXTINF:0 tvg-logo="" group-title="",#### FILMES E SÉRIES ####
+#EXTINF:0 tvg-logo="" group-title="",## FILMES E SÉRIES ##
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0jaBPWbTOkw/YGymcpKy8EI/AAAAAAAAEgQ/ZUD_ZGLpxZo7SWA4LCv418dEeZu5IY_ewCLcBGAsYHQ/s0/WHAM%2BTV%2BCLASSIC.png" group-title="FILMES SÉRIES",WHAM  
@@ -281,7 +281,7 @@ https://stmv1.srvstm.com/tvserie3/tvserie3/chunklist_w2003656677.m3u8
 
 
 ############## FILMES SÉRIES DESENHOS   #################
-#EXTINF:0 tvg-logo=""group-title="",#### FILMES SÉRIES DESENHOS ####
+#EXTINF:0 tvg-logo=""group-title="",## FILMES SÉRIES DESENHOS ##
 
 
 
@@ -380,7 +380,7 @@ https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 
 
 ###################  FILMES e VARIEDADES ############
-#EXTINF:0 tvg-logo="" group-title="",#### FILMES E VARIEDADES ####
+#EXTINF:0 tvg-logo="" group-title="",## FILMES E VARIEDADES ##
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="FILMES SÉRIES",CENTRALTV 
@@ -610,7 +610,7 @@ http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w565111683.m3u8
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/chunklist_w112024383.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="",#### REDES ABERTAS #### 
+#EXTINF:0 tvg-logo="" group-title="",#### REDES #### 
 ########################################################## 
 
 
@@ -743,7 +743,7 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_
 
 ###################### NEWS NOTICIAS ###################
 
-#EXTINF:0,#### NOTICIAS RADIOS ####
+#EXTINF:0,## NOTICIAS RADIOS ##
 
 tvg-logo="" group-title=""
 
@@ -772,7 +772,7 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 ####################################
 
-#EXTINF:0, #### NOTICIAS PORTUGUES ####  
+#EXTINF:0, ## NOTICIAS PORTUGUES ##  
 tvg-logo="" group-title=""
 
 
@@ -795,7 +795,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 ###################################################### 
-#EXTINF:0,#### NOTICIAS RURAIS ####
+#EXTINF:0,## NOTICIAS RURAIS ##
  
 tvg-logo="" group-title=""
 
@@ -828,7 +828,7 @@ https://srv5.zcast.com.br/tvmilagro/tvmilagro/chunklist_w363747208.m3u8
 
 
 ##################################### 
-#EXTINF:0,#### NEWS ESPANHOL ####
+#EXTINF:0,## NEWS ESPANHOL ##
 
 tvg-logo="" group-title=""
 
@@ -865,7 +865,7 @@ https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 
 
 ######################### 
-#EXTINF:0 tvg-logo="" group-title="",#### NEWS INGLES ####
+#EXTINF:0 tvg-logo="" group-title="",## NEWS INGLES ##
 
 
 
@@ -1077,8 +1077,8 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
 
-#######################  MUSICAL TV ########################
-#EXTINF:0 tvg-logo="" group-title="",#### TV MUSICAS ####
+#######################  MUSICAL  ########################
+#EXTINF:0 tvg-logo="" group-title="",#### MÚSICAS ####
 
 
 
@@ -1176,10 +1176,43 @@ https://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w3790
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",#### RÁDIOS ####
 
 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",NOVABRASIL FM
+https://20823.live.streamtheworld.com/NOVA_CAMPINASAAC.aac
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",STUDIO SOUTO
+https://centova5.transmissaodigital.com:20032/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",USP FM
+http://flow.emm.usp.br:8007/radiousp-128.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",80 NACIONAL
+http://stm21.srvstm.com:17830//;stream.mp3
+
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",OURO VERDE
+https://servidor18.brlogic.com:7484/live
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CULTURA FM
+http://midia.cmais.com.br/assets/audio/default/INST_A_Banda_de_Joseph_To_1293739508.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RÁDIO SENADO
+https://www12.senado.leg.br/radio/@@audio/75298b61-3208-4437-8d99-8dd078d35cfd
+
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/25058466cc8e137b9f38771b8fa4f174.jpg" group-title="RÁDIOS",BPM BRASIL
+https://player.xcast.com.br/proxy/9594
+
+
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",SCALA INSTR
 https://player-ssl.kshost.com.br:9710/live/;stream.mp3
-
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOFT INSTR
@@ -1212,6 +1245,10 @@ http://s3.voscast.com:10018/;stream/1
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",100CREATEST CLASS
 https://giorgia.radiobellissima.it/radio/8140/radio.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CLASSIC 100.9FM
+https://media-ice.musicradio.com/ClassicFMMP3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",LA PODEROSA
@@ -1254,8 +1291,25 @@ https://wglt-ice.streamguys1.com/highway309-mp3
 https://streamingv2.shoutcast.com/WUNKSouthernSoulBluesRadio
 
 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",REGGAE ROOTS
+https://listen.181fm.com/181-reggae_128k.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CACOTEO REGGAE
+https://ais-edge08-live365-dal02.cdnstream.com/a64799
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CONEXÃO REGGAE
+https://s23.maxcast.com.br:8118/live
+
+
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/4135812648b2554b8459910d528c0c41.jpg" group-title="RÁDIOS",BLUES ATHENS
 http://live.bluesradio.gr:8352//;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",DISCOTAPE
+http://stm27.xcast.com.br:10120/;stream.mp3
+
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/186055cbf0a0efa02faceaa0c6ba83a8.jpg" group-title="RÁDIOS",MEGAHITS
@@ -1274,9 +1328,6 @@ https://manager.conceptradio.fr:1185/stream
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",EURODANCE
 https://daydeeeurodance.stream.laut.fm/daydeeeurodance?t302=2021-09-15_00-46-04&uuid=9fa08e97-6a81-48e4-a333-1728e7252ef3
 
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",DISCOTAPE
-http://stm27.xcast.com.br:10120/;stream.mp3
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/60bfd8dcd44e834be6ee4bd39f9e8b59.png" group-title="RÁDIOS",FLASHBACK
@@ -1364,6 +1415,10 @@ https://ais-sa2.cdnstream1.com/1987_128.mp3
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",METAL INVASION
 https://radio.metal-invasion.fr/radio/8000/stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",METAL SINFÔNICO
+https://stream.vagalume.fm/hls/1477592024431906/aac.m3u8
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/684a95e68b0462a77181063bbf55ed53.jpg" group-title="RÁDIOS",181FM COUNTRY
