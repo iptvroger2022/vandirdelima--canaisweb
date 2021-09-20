@@ -1277,6 +1277,10 @@ https://manager.conceptradio.fr:1185/stream
 https://daydeeeurodance.stream.laut.fm/daydeeeurodance?t302=2021-09-15_00-46-04&uuid=9fa08e97-6a81-48e4-a333-1728e7252ef3
 
 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",DISCOTAPE
+http://stm27.xcast.com.br:10120/;stream.mp3
+
+
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/60bfd8dcd44e834be6ee4bd39f9e8b59.png" group-title="RÁDIOS",FLASHBACK
 http://stm9.srvstm.com:13544//;stream.mp3
 
@@ -1332,10 +1336,6 @@ http://stm9.xcast.com.br:11850/;stream.mp3
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOMA FM
 https://ice1.somafm.com/folkfwd-128-mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",DISCOTAPE
-http://stm27.xcast.com.br:10120/;stream.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",PENHASCO ROCK
