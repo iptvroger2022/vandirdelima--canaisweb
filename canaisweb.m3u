@@ -2371,7 +2371,6 @@ https://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w3790
 
 
 
-
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",OURO VERDE
 https://servidor18.brlogic.com:7484/live
 
@@ -2447,6 +2446,10 @@ http://station.radionanet.com:6012/1
 https://centova.svdns.com.br:19373/stream/1//;stream.mp3
 
 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",THE BREEZE
+https://streamingv2.shoutcast.com/TheBreez
+
+
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",BEAUTIFUL INSTR
 http://s3.voscast.com:10038//;stream.mp3
 
@@ -2457,6 +2460,12 @@ https://node-07.zeno.fm/qk8z1ub6d3quv?rj-ttl=5&rj-tok=AAABfAFCsaUA15q1kc045gnpCw
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",SONGCAST
 http://www.songcastradio.com:9026/;stream/1
+
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",LA PODEROSA
+https://node-15.zeno.fm/bb6gebkqbxquv?rj-ttl=5&rj-tok=AAABfAFfB70AhqSXQ_UOSuUxfQ
+
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",FAUSTEK CLASS
@@ -2475,10 +2484,6 @@ https://giorgia.radiobellissima.it/radio/8140/radio.mp3
 https://media-ice.musicradio.com/ClassicFMMP3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",LA PODEROSA
-https://node-15.zeno.fm/bb6gebkqbxquv?rj-ttl=5&rj-tok=AAABfAFfB70AhqSXQ_UOSuUxfQ
-
-
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",100CREATEST JAZZ
 http://mpc.mediacp.eu:8566/stream/;stream.mp3
 
@@ -2487,32 +2492,26 @@ http://mpc.mediacp.eu:8566/stream/;stream.mp3
 https://radio2.vip-radios.fm:18039/stream-192kmp3-BaySmoothJazz
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",THE BREEZE
-https://streamingv2.shoutcast.com/TheBreez
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/4135812648b2554b8459910d528c0c41.jpg" group-title="RÁDIOS",BLUES ATHENS
+http://live.bluesradio.gr:8352//;stream.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",AMERICAN ROAD
-https://c5.radioboss.fm:18224/stream
 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",WUNK SOUTHERN FM
+https://streamingv2.shoutcast.com/WUNKSouthernSoulBluesRadio
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",61 BLUES
-http://hts06.kshost.com.br:10182/live/;stream.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",BIGBAND LAND
 https://pureplay.cdnstream1.com/6004_128.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RUN ROCK
-https://ssl.xcast.com.br:13206///;stream.mp3
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",61 BLUES
+http://hts06.kshost.com.br:10182/live/;stream.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",CLT BLUES
 https://wglt-ice.streamguys1.com/highway309-mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",WUNK SOUTHERN
-https://streamingv2.shoutcast.com/WUNKSouthernSoulBluesRadio
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",REGGAE ROOTS
@@ -2527,15 +2526,6 @@ https://ais-edge08-live365-dal02.cdnstream.com/a64799
 https://s23.maxcast.com.br:8118/live
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/4135812648b2554b8459910d528c0c41.jpg" group-title="RÁDIOS",BLUES ATHENS
-http://live.bluesradio.gr:8352//;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",DISCOTAPE
-http://stm27.xcast.com.br:10120/;stream.mp3
-
-
-
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/186055cbf0a0efa02faceaa0c6ba83a8.jpg" group-title="RÁDIOS",MEGAHITS
 https://ssl.xcast.com.br:6864/stream/;stream.mp3
 
@@ -2544,13 +2534,18 @@ https://ssl.xcast.com.br:6864/stream/;stream.mp3
 https://s35.maxcast.com.br:8074/live
 
 
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",EURODANCE
+https://daydeeeurodance.stream.laut.fm/daydeeeurodance?t302=2021-09-15_00-46-04&uuid=9fa08e97-6a81-48e4-a333-1728e7252ef3
+
+
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",CLUB SOUNDZ
 https://manager.conceptradio.fr:1185/stream
 
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",EURODANCE
-https://daydeeeurodance.stream.laut.fm/daydeeeurodance?t302=2021-09-15_00-46-04&uuid=9fa08e97-6a81-48e4-a333-1728e7252ef3
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",DISCOTAPE
+http://stm27.xcast.com.br:10120/;stream.mp3
 
 
 
@@ -2589,7 +2584,7 @@ https://servidor32.brlogic.com:8056/live
 
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",THATS70s 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",THATS 70sFM 
 http://los.cdnstream.com/1101_128
 
 
@@ -2602,13 +2597,20 @@ https://listen.181fm.com/181-buzz_128k.mp3
 https://www.autodj.club:8000/stream
 
 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOMA FM
+https://ice1.somafm.com/folkfwd-128-mp3
+
+
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",THE ROCKERS
 http://stm9.xcast.com.br:11850/;stream.mp3
 
 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RUN ROCK
+https://ssl.xcast.com.br:13206///;stream.mp3
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOMA FM
-https://ice1.somafm.com/folkfwd-128-mp3
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",AMERICAN ROAD
+https://c5.radioboss.fm:18224/stream
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",PENHASCO ROCK
