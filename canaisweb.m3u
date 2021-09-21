@@ -289,6 +289,16 @@ https://stmv1.srvstm.com/tvserie3/tvserie3/chunklist_w2003656677.m3u8
 
 
 
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-TGSGVdZZOoc/X9WNLXJ_o7I/AAAAAAAAD-M/cX7eVto2L-E9ZSeHh0Z4QCPPkN9eFx1ugCLcBGAsYHQ/s0/TV%2BNAZA.png" group-title="FILMES SÉRIES", NAZA
+https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-ZGSocJJ8kf8/X6YHG_neQlI/AAAAAAAADvI/00vBzY_oZl4-wZ_VdZWMJx-9iywUmagnQCPcBGAYYCw/s0/TV%2BRECON%2BSAT.png" group-title="FILMES SÉRIES",RECON 
+https://stmv1.srvif.com/13082021/13082021/chunklist_w337079092.m3u8
+
+
+
+
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-cNYfHKZXUiU/YDFVyBs_nMI/AAAAAAAAEUI/c4PmAc-0Lw45ZzPUjx3nTp-WSDbkRCmYgCLcBGAsYHQ/s0/SUMMER%2BTV.png"group-title="",SUMMER
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1922265557.m3u8
 
@@ -366,15 +376,6 @@ https://srv3.zcast.com.br/betelhostbr/betelhostbr/chunklist_w672987754.m3u8
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/--HpZrGPFA2Y/Xy8w7cTPJqI/AAAAAAAADJM/atRY8Wkn14ggxv4lt1tHV-KZi7hfGRFkQCLcBGAsYHQ/s320/Screenshot_2020-08-08-20-06-59.png" group-title="FILMES SÉRIES", POMBAL
 https://stmv1.srvif.com/tvpombal/tvpombal/chunklist_w1731209505.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-TGSGVdZZOoc/X9WNLXJ_o7I/AAAAAAAAD-M/cX7eVto2L-E9ZSeHh0Z4QCPPkN9eFx1ugCLcBGAsYHQ/s0/TV%2BNAZA.png" group-title="FILMES SÉRIES", NAZA
-https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-ZGSocJJ8kf8/X6YHG_neQlI/AAAAAAAADvI/00vBzY_oZl4-wZ_VdZWMJx-9iywUmagnQCPcBGAYYCw/s0/TV%2BRECON%2BSAT.png" group-title="FILMES SÉRIES",RECON 
-https://stmv1.srvif.com/13082021/13082021/chunklist_w337079092.m3u8
 
 
 
