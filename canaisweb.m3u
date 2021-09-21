@@ -1215,20 +1215,20 @@ https://servidor18.brlogic.com:7484/live
 http://srv1.braudio.com.br:7008/;stream.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",STSOUTO MPB
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ST.SOUTO MPB
 https://centova5.transmissaodigital.com:20025/;stream.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",STSOUTO R.CARLOS
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ST.SOUTO R.CARLOS
 https://centova5.transmissaodigital.com:20032/;stream.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",STSOUTO BRASIL
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ST.SOUTO VERSÃO BR
 https://centova5.transmissaodigital.com:20043/;stream.mp3
 
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",STSOUTO BREGAHITS
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ST.SOUTO BREGAHITS
 https://centova5.transmissaodigital.com:20010/;stream.mp3
 
 
@@ -1237,11 +1237,11 @@ https://centova5.transmissaodigital.com:20010/;stream.mp3
 http://cast.midiaip.com.br:6006/1/;stream.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",80 NACIONAL
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",NACIONAL 80
 http://stm21.srvstm.com:17830//;stream.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",JP BOSSA NOVA
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",JP.BOSSA NOVA
 http://6d9a.webradio.upx.net.br:9974/stream
 
 
@@ -1300,7 +1300,7 @@ http://live.bluesradio.gr:8352//;stream.mp3
 
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",WUNK SOUTHERN FM
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",W.SOUTHERN FM
 https://streamingv2.shoutcast.com/WUNKSouthernSoulBluesRadio
 
 
