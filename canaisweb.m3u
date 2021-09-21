@@ -1396,10 +1396,6 @@ https://listen.181fm.com/181-buzz_128k.mp3
 https://www.autodj.club:8000/stream
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOMA FM
-https://ice1.somafm.com/folkfwd-128-mp3
-
-
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",THE ROCKERS
 http://stm9.xcast.com.br:11850/;stream.mp3
 
