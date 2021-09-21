@@ -2488,6 +2488,11 @@ https://media-ice.musicradio.com/ClassicFMMP3
 http://mpc.mediacp.eu:8566/stream/;stream.mp3
 
 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",BIGBAND LAND
+https://pureplay.cdnstream1.com/6004_128.mp3
+
+
+
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",BAYSMOOTH JAZZ
 https://radio2.vip-radios.fm:18039/stream-192kmp3-BaySmoothJazz
 
@@ -2500,10 +2505,6 @@ http://live.bluesradio.gr:8352//;stream.mp3
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",WUNK SOUTHERN FM
 https://streamingv2.shoutcast.com/WUNKSouthernSoulBluesRadio
 
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",BIGBAND LAND
-https://pureplay.cdnstream1.com/6004_128.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",61 BLUES
