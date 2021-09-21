@@ -1211,10 +1211,6 @@ https://streamingv2.shoutcast.com/TheBreez
 https://servidor18.brlogic.com:7484/live
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CULTURA FM
-http://midia.cmais.com.br/assets/audio/default/INST_A_Banda_de_Joseph_To_1293739508.mp3
-
-
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",SÓ MPB
 http://srv1.braudio.com.br:7008/;stream.mp3
 
