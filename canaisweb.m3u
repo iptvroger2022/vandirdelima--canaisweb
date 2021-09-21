@@ -1215,6 +1215,10 @@ https://servidor18.brlogic.com:7484/live
 http://srv1.braudio.com.br:7008/;stream.mp3
 
 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ESTRADA55 MPB
+http://paineldj5.com.br:12825/stream
+
+
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",STSOUTO MPB
 https://centova5.transmissaodigital.com:20025/;stream.mp3
 
@@ -1469,10 +1473,6 @@ https://servidor33.brlogic.com:8020/live
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/cd8550018014e8ae219a4dd4bdc3ef50.jpg" group-title="RÁDIOS",CIDADE SAMBA
 http://stm1.hoststreaming.com.br:7018/;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ESTRADA55 MPB
-http://paineldj5.com.br:12825/stream
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",MAIS FORRÓ
