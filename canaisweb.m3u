@@ -2370,8 +2370,15 @@ https://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w3790
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",#### RÁDIOS ####
 
 
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/25058466cc8e137b9f38771b8fa4f174.jpg" group-title="RÁDIOS",BPM FM 
+https://player.xcast.com.br/proxy/9594
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",OURO VERDE
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",BREEZE FM
+https://streamingv2.shoutcast.com/TheBreez
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",OUROVERDE FM
 https://servidor18.brlogic.com:7484/live
 
 
@@ -2386,10 +2393,6 @@ https://www12.senado.leg.br/radio/@@audio/75298b61-3208-4437-8d99-8dd078d35cfd
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",USP FM
 http://flow.emm.usp.br:8007/radiousp-128.mp3
 
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",MPB FM96.3
-https://player-ssl.kshost.com.br:11828/live/;stream.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",SÓ MPB
@@ -2422,10 +2425,6 @@ http://cast.midiaip.com.br:6006/1/;stream.mp3
 http://stm21.srvstm.com:17830//;stream.mp3
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/25058466cc8e137b9f38771b8fa4f174.jpg" group-title="RÁDIOS",BPM BRASIL
-https://player.xcast.com.br/proxy/9594
-
-
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",JP BOSSA NOVA
 http://6d9a.webradio.upx.net.br:9974/stream
 
@@ -2444,10 +2443,6 @@ http://station.radionanet.com:6012/1
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",GOLD INSTR
 https://centova.svdns.com.br:19373/stream/1//;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",THE BREEZE
-https://streamingv2.shoutcast.com/TheBreez
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",BEAUTIFUL INSTR
