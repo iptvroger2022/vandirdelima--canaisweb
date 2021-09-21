@@ -87,7 +87,7 @@ https://azxtv.com/hls/stream.m3u8
 #EXTINF:0 tvg-logo="" group-title="",## FILMES E SÉRIES ##
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0jaBPWbTOkw/YGymcpKy8EI/AAAAAAAAEgQ/ZUD_ZGLpxZo7SWA4LCv418dEeZu5IY_ewCLcBGAsYHQ/s0/WHAM%2BTV%2BCLASSIC.png" group-title="FILMES SÉRIES",WHAM  
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0jaBPWbTOkw/YGymcpKy8EI/AAAAAAAAEgQ/ZUD_ZGLpxZo7SWA4LCv418dEeZu5IY_ewCLcBGAsYHQ/s0/WHAM%2BTV%2BCLASSIC.png" group-title="FILMES SÉRIES",WTVC  
 https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w394307751.m3u8
 
 
@@ -167,8 +167,8 @@ https://01.paineldevideo.com/encaucafm/encaucafm/chunklist_w101528585.m3u8
 https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0 tvg-logo="https://www.locomotiontv.com.br/assets/img/logo-cghost.png" group-title="FILMES SÉRIES",GHOSTTV
-https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w500798363.m3u8
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINE PIX
+https://stmv1.srvif.com/cinepix/cinepix/chunklist_w1910848225.m3u8
 
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png"group-title="FILMES SÉRIES",GOSPEL MOVIES
@@ -376,6 +376,15 @@ https://stmv1.srvif.com/13082021/13082021/chunklist_w337079092.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-bniJEmVA3VM/X4-Xu1VskAI/AAAAAAAADeI/T0cAEwfg8D4scEThW9lqfsu0vfdwfBpOQCLcBGAsYHQ/s0/SEVEN%2BTV.png" group-title="FILMES SÉRIES",SEVEN 
 https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
+
+
+#EXTINF:0 tvg-logo=""group-title="FILMES SÉRIES",TV CAICO
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
+
+
+
+#EXTINF:0 tvg-logo=""group-title="FILMES SÉRIES",REDE WEB
+https://serv3.videovox.pw/alexandre8915/alexandre8915/chunklist_w937069272.m3u8
 
 
 
@@ -1349,9 +1358,6 @@ https://01.paineldevideo.com/encaucafm/encaucafm/chunklist_w101528585.m3u8
 https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0 tvg-logo="https://www.locomotiontv.com.br/assets/img/logo-cghost.png" group-title="FILMES SÉRIES",GHOSTTV
-https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w500798363.m3u8
-
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png"group-title="FILMES SÉRIES",GOSPEL MOVIES
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w555909951.m3u8
@@ -2162,6 +2168,12 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1c26b4cdbcf3b9cd879d19abb48085b0.jpg" group-title="Educa Doc",MUNDIAL
 https://novo.bitstreaming.info:1936/8030/8030/chunklist_w944032026.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://www.locomotiontv.com.br/assets/img/logo-cghost.png" group-title="Educa Doc",GHOSTTV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w500798363.m3u8
 
 
 
