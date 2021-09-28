@@ -810,6 +810,13 @@ https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="NEWS",TVI 24
+https://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDIxIDU6MjE6NTMgUE0maGFzaF92YWx1ZT01S2V4Tkd5dlQzRGNWWkJsM0M2L2FBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGFkNzZiNWItMTA5ZC00OTY2LTg0MTQtMjczOWM5MzhiOGRk
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Tv5DC9ePuzU/YI7n8pZELlI/AAAAAAAAEnQ/sVx4B2SPpOM1sW5Ebccd1kM6QW58IVXHwCLcBGAsYHQ/s0/TV%2BBRICS.png" group-title="NEWS",BRICS
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
+
 
 ###################################################### 
 #EXTINF:0,## NOTICIAS RURAIS ##
@@ -923,9 +930,6 @@ https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_
 
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Tv5DC9ePuzU/YI7n8pZELlI/AAAAAAAAEnQ/sVx4B2SPpOM1sW5Ebccd1kM6QW58IVXHwCLcBGAsYHQ/s0/TV%2BBRICS.png" group-title="NEWS",BRICS
-https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
-
 ####################### DOCUMENTÁRIOS ####################
 #EXTINF:0 tvg-logo="" group-title="",#### EDUCA DOC ####
 
@@ -993,11 +997,6 @@ https://596639ebdd89b.streamlock.net/8124/8124/chunklist_w376188062.m3u8
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/58399bd0987147a2d4380e3a8cdbee1c.png" group-title="Educa Doc",TVIDEONEWS
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w1955343572.m3u8
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1c26b4cdbcf3b9cd879d19abb48085b0.jpg" group-title="Educa Doc",MUNDIAL
-https://novo.bitstreaming.info:1936/8030/8030/chunklist_w944032026.m3u8
-
 
 
 
