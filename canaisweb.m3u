@@ -46,17 +46,16 @@ https://servidor16-3.brlogic.com:7614/live
 #EXTINF:0 tvg-logo=""group-title="",#### CARTOONS ####
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0Iq6wbVRaAg/YFDNyFtWiqI/AAAAAAAAEZk/N-oqR72a8Qsc5_0zN7DpoBalbUuienn-gCLcBGAsYHQ/s0/JETSONS%2BTV.png" group-title="CARTOON",JETSONS
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w279459319.m3u8
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0Iq6wbVRaAg/YFDNyFtWiqI/AAAAAAAAEZk/N-oqR72a8Qsc5_0zN7DpoBalbUuienn-gCLcBGAsYHQ/s0/JETSONS%2BTV.png" group-title="CARTOON",JETSONS 2
-https://stmv1.srvstm.com/jetsontv2/jetsontv2/chunklist_w1550510636.m3u8
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-6Q_s4tbCd7M/XryzwCYcJGI/AAAAAAAACyk/cMTBHT_RNWA2Um6gcRlrh2RSf9v0KxJAwCLcBGAsYHQ/s320/Screenshot_2020-05-13-23-48-42.png"group-title="CARTOON",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w318448940.m3u8
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-6Q_s4tbCd7M/XryzwCYcJGI/AAAAAAAACyk/cMTBHT_RNWA2Um6gcRlrh2RSf9v0KxJAwCLcBGAsYHQ/s320/Screenshot_2020-05-13-23-48-42.png"group-title="CARTOON",RETRO CARTOON 2
-https://stmv1.srvstm.com/cartoonr2/cartoonr2/chunklist_w1063753173.m3u8
+https://stmv1.srvif.com/retrotv2/retrotv2/chunklist_w1246852173.m3u8
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0Iq6wbVRaAg/YFDNyFtWiqI/AAAAAAAAEZk/N-oqR72a8Qsc5_0zN7DpoBalbUuienn-gCLcBGAsYHQ/s0/JETSONS%2BTV.png" group-title="CARTOON",JETSONS
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w279459319.m3u8
 
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-LTqIzRhhBYE/XQAGxT5AB3I/AAAAAAAABB0/Uih_3IGEJtIyTisWutKyU_qbn75_rW0rACPcBGAYYCw/s320/Screenshot_2019-06-11-16-51-42.png"group-title="CARTOON",KURIAKOS KIDS
@@ -276,9 +275,6 @@ https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/
 https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w40724679.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-w43wGnoTyGk/YCLF2uzS16I/AAAAAAAAEP0/xJguFMvzNZQQvYI_pU9CLJAovuCkUBeIwCLcBGAsYHQ/s0/GUERRA%252C%2BSOMBRA%2BE%2B%25C3%2581GUA%2BFRESCA.png" group-title="FILMES SÉRIES",HOGANSHEROES 2
-https://stmv1.srvstm.com/tvserie5/tvserie5/chunklist_w727320483.m3u8
-
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-_YURHwLOTdY/X_sfomVkvHI/AAAAAAAAEHs/LSMWc19qjxUylwoEcI4YINE2YBHGsMC5wCLcBGAsYHQ/s0/CHIPS.png" group-title="FILMES SÉRIES",CHIPS
 https://stmv1.srvstm.com/tvserie4/tvserie4/chunklist_w98016178.m3u8
@@ -300,6 +296,9 @@ https://stmv1.srvstm.com/tvserie3/tvserie3/chunklist_w2003656677.m3u8
 #EXTINF:0 tvg-logo=""group-title="",## FILMES SÉRIES DESENHOS ##
 
 
+#EXTINF:0 tvg-logo=""group-title="FILMES SÉRIES",GOTV
+https://stmv3.voxtvhd.com.br/canaltvgo/canaltvgo/chunklist_w844267700.m3u8
+
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-TGSGVdZZOoc/X9WNLXJ_o7I/AAAAAAAAD-M/cX7eVto2L-E9ZSeHh0Z4QCPPkN9eFx1ugCLcBGAsYHQ/s0/TV%2BNAZA.png" group-title="FILMES SÉRIES", NAZA
 https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
@@ -307,8 +306,6 @@ https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-ZGSocJJ8kf8/X6YHG_neQlI/AAAAAAAADvI/00vBzY_oZl4-wZ_VdZWMJx-9iywUmagnQCPcBGAYYCw/s0/TV%2BRECON%2BSAT.png" group-title="FILMES SÉRIES",RECON 
 https://stmv1.srvif.com/13082021/13082021/chunklist_w337079092.m3u8
-
-
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-cNYfHKZXUiU/YDFVyBs_nMI/AAAAAAAAEUI/c4PmAc-0Lw45ZzPUjx3nTp-WSDbkRCmYgCLcBGAsYHQ/s0/SUMMER%2BTV.png"group-title="",SUMMER
