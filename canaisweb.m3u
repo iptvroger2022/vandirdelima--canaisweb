@@ -62,15 +62,13 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w279459319.m3u8
 http://c2.manasat.com:1935/kkids/kkids2/chunklist_w550177744.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s320/Screenshot_2019-06-21-15-12-44.png"group-title="CARTOON",GOSPEL CARTOON
-https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w490781403.m3u8
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="CARTOON",ANIME 
 https://stmv1.srvif.com/animetv/animetv/chunklist_w617070452.m3u8
 
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="CARTOON",ANIME2 
-http://stmv1.srvstm.com/animetv2/animetv2/chunklist_w575011696.m3u8
 
 
 #EXTINF:0 tvg-logo="https://www.locomotiontv.com.br/assets/img/logo-animestation.png" group-title="CARTOON",ANIME STATION
@@ -185,12 +183,7 @@ https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png"group-title="FILMES SÉRIES",GOSPEL MOVIES
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w555909951.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png"group-title="FILMES SÉRIES",GOSPEL MOVIES 2
-https://stmv1.srvstm.com/gospelf2/gospelf2/chunklist_w513938187.m3u8
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
 
 
 
