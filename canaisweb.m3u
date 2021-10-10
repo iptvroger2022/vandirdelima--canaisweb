@@ -103,9 +103,8 @@ https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w176620302.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-ZDqIyRawEis/YRbBCehTvbI/AAAAAAAAFFs/IbAhutT00bgqa7F5-DUAAQz4T8rjuJ4ZQCLcBGAsYHQ/s0/TV%2BMIX.png" group-title="FILMES SÉRIES",TVMIX
-https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
-
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-1lRRmfoFjqw/YJLdfKPVFjI/AAAAAAAAEos/RKs26haVlcU4N1pH8JUyadk71S7IECBVgCLcBGAsYHQ/s0/TV%2BNOVA%2BPLAY%2B2.png" group-title="FILMES SÉRIES",NOVAPLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1844357822.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-k66qb3VyvQA/YNy-nDXXYxI/AAAAAAAAE9E/RMQx0drWeHY73b7GQPDREwglewFUv93cACLcBGAsYHQ/s0/CHANNEL%2B1.png" group-title="FILMES SÉRIES",CHANNEL 1
@@ -119,9 +118,6 @@ https://stmv1.srvstm.com/webradiocidade/webradiocidade/chunklist_w1407966166.m3u
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/s320/Screenshot_2020-06-24-22-22-55.png"group-title="FILMES SÉRIES",ARAGUAIA  
 https://video01.kshost.com.br:4443/mayra5349/mayra5349/chunklist_w569039780.m3u8
 
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-1lRRmfoFjqw/YJLdfKPVFjI/AAAAAAAAEos/RKs26haVlcU4N1pH8JUyadk71S7IECBVgCLcBGAsYHQ/s0/TV%2BNOVA%2BPLAY%2B2.png" group-title="FILMES SÉRIES",NOVAPLAY
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1844357822.m3u8
 
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-jGLoFHYizBU/XvP9YTPEZuI/AAAAAAAADDA/3zgVhWsfXv4v5pIKW5O0-1-NdMEYv9kZQCLcBGAsYHQ/s320/2020-06-24%2B22.12.15.png" group-title="FILMES SÉRIES",TVSUL 
