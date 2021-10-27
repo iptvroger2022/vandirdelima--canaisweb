@@ -784,6 +784,11 @@ tvg-logo="" group-title=""
 https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index_2.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="NEWS",TV JOVEM PAN 2
+https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index_1.m3u8?siteid=431392&pgid=1414778&live=0&ab=2&pgdomain=com.jovempan.panflix&ctd=-1&uid=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDgyMzI1NzUwNTExOmFuZHJvaWQ6OGEwOGJkZTMxOGM1NTM3ZDI3MzExYSIsImV4cCI6MTYzNTk2ODc5MSwiZmlkIjoiZjRqSWh2SUdTY1dza1oxZUp3cVV6dyIsInByb2plY3ROdW1iZXIiOjQ4MjMyNTc1MDUxMX0.AB2LPV8wRAIgSx6CXO7V55oEbuEthrqPNocK2LHOgyOzqDdbVbgzekcCIDB9bazX2ztLwwFLdhH6AQXAmZEtRk0n22PT3h6SoL1O&appname=Panflix&buid=com.jovempan.panflix&srl=https://play.google.com/store/apps/details&id=com.jovempan.panflix&bk-ml=1
+
+
+
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b560b8e90359b5fea4b59226d138ad5c.jpg" group-title="NEWS",SIM RECOD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w345217922.m3u8
 
