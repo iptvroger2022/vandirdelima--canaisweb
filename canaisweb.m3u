@@ -183,7 +183,7 @@ https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-V-kyGlOJJLo/YHnZ5_DOhCI/AAAAAAAAEi8/mvmOxMXf5LEW-bgCqDgQhLI3vOOXo2aagCLcBGAsYHQ/s0/TV%2BPLANALTO%2BNORTE.png" group-title="FILMES SÉRIES",PLANALTO NORTE
-https://5cf4a2c2512a2.streamlock.net/tvplanalto/tvplanalto/chunklist_w792027382.m3u8
+https://video01.logicahost.com.br/tvplanalto/tvplanalto/chunklist_w1879163375.m3u8
 
 
 
@@ -195,22 +195,20 @@ http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w201324044.m3u8
 https://hls.brasilstream.com.br/live/tvmon/tvmon/mono.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-UGp4n9RcbAU/YJF8S57BT4I/AAAAAAAAEn8/E4PpbX6McaQnbAbEkTuvM-kWnRsBomSZgCLcBGAsYHQ/s0/RSC%2BTV.png" group-title="FILMES SÉRIES",RSC 
-http://177.11.96.110:9080/hls/sictv.m3u8
-
-
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Dz8hWPkHzyU/XWAeyKtSHxI/AAAAAAAABjQ/GQCk1qkykk8I3dfqTtUOSNGTgI9cji-vwCLcBGAs/s320/Screenshot_2019-08-23-14-11-58.png" group-title="FILMES SÉRIES",ISTV 
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-UGp4n9RcbAU/YJF8S57BT4I/AAAAAAAAEn8/E4PpbX6McaQnbAbEkTuvM-kWnRsBomSZgCLcBGAsYHQ/s0/RSC%2BTV.png" group-title="FILMES SÉRIES",RSC 
+http://177.11.96.110:9080/hls/sictv.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-d-mnTNCYp_I/X77N431tLcI/AAAAAAAAD28/BGqvxaVveZQtW-eArJwOuarVS2YEQ5kZACLcBGAsYHQ/s0/BONS%2BTEMPOS%2BTV.png" group-title="FILMES SÉRIES",BONS TEMPOS
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w186200016.m3u8
 
 
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-O9xPhhAkObY/YCqovUBzrNI/AAAAAAAAER4/j4zK6NH34C0Nua8ZlUCoM-euYgSPb9CWQCLcBGAsYHQ/s0/TV%2BCHANNEL%2BNETWORK.png" group-title="FILMES SÉRIES",TV CHANNEL
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w186200016.m3u8
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV CHANNEL
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1577710403.m3u8
 
 
 
@@ -221,6 +219,11 @@ https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1200207689.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-4xp1gU3tjII/X48iBWlUAHI/AAAAAAAADdY/9j_lUbTaghAkS7SfWtRS6BV5bdJai09TACLcBGAsYHQ/s0/TV%2BVALE%2BDAS%2BARTES.png" group-title="FILMES SÉRIES", VALARTES
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w1644279289.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-cNYfHKZXUiU/YDFVyBs_nMI/AAAAAAAAEUI/c4PmAc-0Lw45ZzPUjx3nTp-WSDbkRCmYgCLcBGAsYHQ/s0/SUMMER%2BTV.png" group-title="FILMES SÉRIES",SUMMER
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1922265557.m3u8
 
 
 
@@ -263,6 +266,36 @@ https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8
 
 
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV ALIANÇA
+https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-TGSGVdZZOoc/X9WNLXJ_o7I/AAAAAAAAD-M/cX7eVto2L-E9ZSeHh0Z4QCPPkN9eFx1ugCLcBGAsYHQ/s0/TV%2BNAZA.png" group-title="FILMES SÉRIES", NAZA
+https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
+
+
+
+#EXTINF:0 tvg-logo=""group-title="FILMES SÉRIES",TV CAICO
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
+
+
+
+#EXTINF:0 tvg-logo=""group-title="FILMES SÉRIES",GOTV
+https://stmv3.voxtvhd.com.br/canaltvgo/canaltvgo/chunklist_w844267700.m3u8
+
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",INTERIOR TV
+https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/chunklist_w1930307077.m3u8
+
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BLITS TV
+https://video01.logicahost.com.br/blitstv/blitstv/chunklist_w1682531966.m3u8
+
+
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",QDMAIS
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b978000.m3u8
 
@@ -272,41 +305,6 @@ https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b9780
 https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
 
 
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-TGSGVdZZOoc/X9WNLXJ_o7I/AAAAAAAAD-M/cX7eVto2L-E9ZSeHh0Z4QCPPkN9eFx1ugCLcBGAsYHQ/s0/TV%2BNAZA.png" group-title="FILMES SÉRIES", NAZA
-https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-ZGSocJJ8kf8/X6YHG_neQlI/AAAAAAAADvI/00vBzY_oZl4-wZ_VdZWMJx-9iywUmagnQCPcBGAYYCw/s0/TV%2BRECON%2BSAT.png" group-title="FILMES SÉRIES",RECON 
-https://stmv1.srvif.com/13082021/13082021/chunklist_w337079092.m3u8
-
-
-#EXTINF:0 tvg-logo=""group-title="FILMES SÉRIES",TV CAICO
-https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
-
-
-
-#EXTINF:0 tvg-logo=""group-title="FILMES SÉRIES",REDE WEB
-https://serv3.videovox.pw/alexandre8915/alexandre8915/chunklist_w937069272.m3u8
-
-
-#EXTINF:0 tvg-logo=""group-title="FILMES SÉRIES",GOTV
-https://stmv3.voxtvhd.com.br/canaltvgo/canaltvgo/chunklist_w844267700.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",QTAL CHANNEL
-https://video01.logicahost.com.br/qtalchannel/qtalchannel/chunklist_w1118629964.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",INTERIOR TV
-https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/chunklist_w1930307077.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-cNYfHKZXUiU/YDFVyBs_nMI/AAAAAAAAEUI/c4PmAc-0Lw45ZzPUjx3nTp-WSDbkRCmYgCLcBGAsYHQ/s0/SUMMER%2BTV.png" group-title="FILMES SÉRIES",SUMMER
-https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1922265557.m3u8
-
-
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-PiyFwhywwQM/XhjHNxYD4SI/AAAAAAAACWY/SNj6eLf_65sT3fBzTRlXJgPvg0BfkVjjACLcBGAsYHQ/s320/Screenshot_2020-01-10-15-46-42.png" group-title="FILMES SÉRIES",MAISBR 
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w955663795.m3u8
 
@@ -314,10 +312,6 @@ https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w955663795.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-SYIWbHG-aSM/XrRRU-iRKmI/AAAAAAAACuE/tQg0pyXxD_oCo342xc8PRomOmVEmCV2NACLcBGAsYHQ/s320/Screenshot_2020-05-07-15-10-19.png" group-title="FILMES SÉRIES",UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1138149130.m3u8
 
-
-
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-SWmUnnu8OR0/XuvglYFH-GI/AAAAAAAADBo/sJl61PITyb0eDDO6qjeyH_3PRytTzwvLACLcBGAsYHQ/s320/2020-06-18%2B18.42.11.png" group-title="FILMES SÉRIES",TVSV
-http://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w332450357.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.coLm/-1FNIsoc9cWk/YCFMQdNbMyI/AAAAAAAAEPg/XxZ05jL57_I5_uf1HR4O5yo3aJwTLfHlwCLcBGAsYHQ/s0/DEMAIS%2BTV.png" group-title="FILMES SÉRIES",D+TV
@@ -382,6 +376,14 @@ https://srv3.zcast.com.br/betelhostbr/betelhostbr/chunklist_w672987754.m3u8
 https://stmv1.srvif.com/tvpombal/tvpombal/chunklist_w1731209505.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AW TV
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b3128000.m3u8
+
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SUL BAHIA
+https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
+
 
 #################  VARIEDADES  ####################
 #EXTINF:0 tvg-logo="" group-title="",#### VARIEDADES ####
@@ -424,10 +426,6 @@ https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w878393336.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-LD36niJFGDE/YC6XNzyao8I/AAAAAAAAETQ/pUqePw9UBN4Rhi7Q-yfti0GaOeWzAB9CACLcBGAsYHQ/s0/TV%2BWTJMINAS.png" group-title="FILMES SÉRIES",WTJ MINAS
 https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/chunklist_w1405490315.m3u8
-
-
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-JwZlc2K1-vw/XqeJPjzZWqI/AAAAAAAACqU/SQ01_WsB9wQQmRpVaC1EMa1PPcy6LSrugCLcBGAsYHQ/s320/Screenshot_2020-04-27-22-35-28.png"group-title="FILMES SÉRIES",LATINASAT
-https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w1277196027.m3u8
 
 
 
