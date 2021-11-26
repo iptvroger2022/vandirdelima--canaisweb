@@ -271,6 +271,11 @@ https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8
 #EXTINF:0 tvg-logo="" group-title="",## FILMES E VARIEDADES ##
 
 
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-cNYfHKZXUiU/YDFVyBs_nMI/AAAAAAAAEUI/c4PmAc-0Lw45ZzPUjx3nTp-WSDbkRCmYgCLcBGAsYHQ/s0/SUMMER%2BTV.png" group-title="FILMES SÉRIES",SUMMER
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1922265557.m3u8
+
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINELIFE CLASSIC
 https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
 
@@ -317,8 +322,9 @@ https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u
 
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-cNYfHKZXUiU/YDFVyBs_nMI/AAAAAAAAEUI/c4PmAc-0Lw45ZzPUjx3nTp-WSDbkRCmYgCLcBGAsYHQ/s0/SUMMER%2BTV.png" group-title="FILMES SÉRIES",SUMMER
-https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1922265557.m3u8
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",PPZ TV
+https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-faI3sYffT0w/Xrh_hrkuOcI/AAAAAAAACvE/3mt6BIKei_EHg9lOQetZU9Kk9kH2SJsMwCLcBGAsYHQ/s320/2020-05-10%2B19.21.05.png"group-title="FILMES SÉRIES",CTV 
