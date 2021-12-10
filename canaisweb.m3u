@@ -277,12 +277,11 @@ https://video01.logicahost.com.br/tvplanalto/tvplanalto/chunklist_w1879163375.m3
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w700286621.m3u8
 
 
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV CEI
 https://stmv3.samcast.com.br/eduardo7982/eduardo7982/chunklist_w462813575.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV CW
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLUBWEB
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w365439755.m3u8
 
 
@@ -353,8 +352,6 @@ https://stmv1.srvif.com/tvpombal/tvpombal/chunklist_w1731209505.m3u8
 https://cdn.jmvstream.com/w/AVJ-10557/playlist/chunklist.m3u8
 
 
-
-
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-faI3sYffT0w/Xrh_hrkuOcI/AAAAAAAACvE/3mt6BIKei_EHg9lOQetZU9Kk9kH2SJsMwCLcBGAsYHQ/s320/2020-05-10%2B19.21.05.png"group-title="FILMES SÉRIES",CTV 
 https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1945765975.m3u8
 
@@ -387,11 +384,6 @@ https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/chunklist_w19303070
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",Q TAL
 https://video01.logicahost.com.br/qtalchannel/qtalchannel/chunklist_w1118629964.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",REDE QDM
-https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/chunklist_w242460704.m3u8
-
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SVmkbKwWILA/XXpn6tIEuDI/AAAAAAAABz0/jyRMvdB8L6Av2CinwIqYkG4XBUZ1A3IDgCLcBGAsYHQ/s320/Screenshot_2019-09-12-12-42-47.png"group-title="FILMES SÉRIES",TVCARIOCA
