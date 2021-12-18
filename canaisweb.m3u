@@ -100,17 +100,13 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1844357822.m3u8
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Oaf7DjBen8g/YMzCZ9xvH4I/AAAAAAAAE4U/ePqEZi8K_eg923ANCPB40v9SSq61K-4cwCLcBGAsYHQ/s0/WEB%2BTV%2BCIDADE.png" group-title="FILMES SÉRIES",CIDADE
-https://stmv1.srvstm.com/webradiocidade/webradiocidade/chunklist_w1407966166.m3u8
-
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-jGLoFHYizBU/XvP9YTPEZuI/AAAAAAAADDA/3zgVhWsfXv4v5pIKW5O0-1-NdMEYv9kZQCLcBGAsYHQ/s320/2020-06-24%2B22.12.15.png" group-title="FILMES SÉRIES",TVSUL 
-https://novo.bitstreaming.info:1936/8032/8032/chunklist_w1130929551.m3u8
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-iTOUKoUci9I/X5cvdMCkp7I/AAAAAAAADlM/KCREVuF2XBsXIZaSiu9zsVFpYNmr-dEeQCLcBGAsYHQ/s0/IMPERIAL%2BTV.png" group-title="FILMES SÉRIES",IMPERIAL 
 https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w109907013.m3u8
-
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b6989c697a1327a22d41bf4ff435320b.jpg" group-title="FILMES SÉRIES",VILA 
@@ -118,7 +114,7 @@ https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1219598114.m3u8
 
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLC TV 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLCTV 
 https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
 
 
@@ -157,12 +153,20 @@ https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1116467602.m3u8
 
 
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png"group-title="FILMES SÉRIES",GOSPEL MOVIES
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
-
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV GUAREI
+https://iblups.com/e_twg
 
 
 ################# FILMES SÉRIES CLÁSSICOS  ###############
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV GLN
+https://srv2.zcast.com.br/glnfilmes/glnfilmes/chunklist_w1099290131.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AWTV
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b978000.m3u8
+
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png"group-title="FILMES SÉRIES", PROGRESSO
 https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w1322332651.m3u8
@@ -182,14 +186,8 @@ https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w2007396000.m3u8
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 
 
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV GLN
-https://srv2.zcast.com.br/glnfilmes/glnfilmes/chunklist_w1099290131.m3u8
-
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AWTV
-https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b1596000.m3u8
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CANAL 29
+https://video01.logicahost.com.br/canal29/canal29/chunklist_w605695588.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV CLÁSSICOS
@@ -683,6 +681,7 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-b.m3u8?sd=10&re
 #EXTINF:0 tvg-logo="" group-title="",#### GOSPEL ####
 ##########################################################
 
+
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" group-title="GOSPEL",REDEFAMILIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
 
@@ -737,6 +736,11 @@ https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklis
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-BTHi9LZxpgg/X2vM784WIBI/AAAAAAAADUw/F98CPPNMKtgb3VYKNDr4wykT7td7sN6RACLcBGAsYHQ/s0/CINE%2BKURIAKOS.pn" group-title="GOSPEL",KURIAKOS CINE
 http://c2.manasat.com:1935/kcine/kcine2/chunklist_w1927748429.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png"group-title="FILMES SÉRIES",GOSPEL MOVIES
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-ARbaU97HuNg/X26OyqQxYSI/AAAAAAAADWM/J4AHZWMJ7LkhY9b8uBm3SlgFFovQfzw3QCLcBGAsYHQ/s0/KURIAKOS%2BTV.pn%E2%80%8Bg"group-title="GOSPEL",KURIAKOS
