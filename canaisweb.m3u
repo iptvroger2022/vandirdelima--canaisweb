@@ -123,15 +123,6 @@ https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
 https://streaming03.zas.media:1936/lasstv/lasstv/chunklist_w1409507967.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-M2W-tZ1KMDk/YJAQaKmK7sI/AAAAAAAAEnw/KdAxaX-7alYmv6GoJu7caoo6JRY28Y10gCLcBGAsYHQ/s0/TV%2BOS%25C3%2593RIO%2BNEWS.png" group-title="FILMES SÉRIES", OSÓRIO 
-https://stmv1.srvstm.com/demo2573/demo2573/chunklist_w740718702.m3u8
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-ckirl2VN_OE/Xri6dSjz0LI/AAAAAAAACw4/oyhiS4sArjoMUNx93YggKMqQIFeSH6wkwCPcBGAYYCw/s320/2020-05-10%2B22.22.57.png"group-title="FILMES SÉRIES",NB WEBTV
-https://5d82644094cc0.streamlock.net/8026/8026/chunklist_w1093843362.m3u8
-
-
-
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-ELV1e2LJlYU/YCaxFOrmHvI/AAAAAAAAERE/sBOPPVuvQIw0dobCP2RoBxux_0f-iiRRgCLcBGAsYHQ/s0/TELA%2BVIVA%2BTV.png" group-title="FILMES SÉRIES",TELA VIVA
 https://srv6.zcast.com.br/telavivatv/telavivatv/chunklist_w1098269168.m3u8
 
@@ -151,10 +142,6 @@ https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tvaguaboa.com.br/banners/04092019115122.jpg" group-title="FILMES SÉRIES", AGUA BOA
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1116467602.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV GUAREI
-https://iblups.com/e_twg
 
 
 ################# FILMES SÉRIES CLÁSSICOS  ###############
