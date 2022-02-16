@@ -1,4 +1,4 @@
-#LISTA IPTV GRÁTIS, CANAIS DE FILMES SÉRIES E DESENHOS COM ACESSO LIVRE# #vandirdelima@gmail.com #
+.#LISTA IPTV GRÁTIS, CANAIS DE FILMES SÉRIES E DESENHOS COM ACESSO LIVRE# #vandirdelima@gmail.com #
 
 
 #EXTM3U
@@ -246,15 +246,6 @@ https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w955663795.m3u8
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1138149130.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-bkIyVXLI-CE/YJQQSnIrCBI/AAAAAAAAEo8/Jq71Otdn8-Moc543hw77s7hvS5ss1kMiwCLcBGAsYHQ/s0/BS%2BTV.png" group-title="FILMES SÉRIES",BSTV
-https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w484750067.m3u8
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7513d543c8cf7945825a92d76a858f26.jpg" group-title="FILMES SÉRIES",TVSOL
-http://streaming03.zas.media:1935/tvsol/tvsol/chunklist_w61744308.m3u8
-
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ALIANÇA
 https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
 
@@ -272,13 +263,6 @@ https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w365439755.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-379R0JQ3Pgs/YEj2OgqAJ_I/AAAAAAAAEYA/ct4jpQtyRoUs1br8DhEqg_TnGMxnZUAxwCLcBGAsYHQ/s0/WEB%2BTV%2BCINE.png" group-title="FILMES SÉRIES",TVCINE
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w409729964.m3u8
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-V-qCt3v8rkE/YJlxCWOtKWI/AAAAAAAAEp0/RObhAY1JhjI5x-HVHqHZ2HdWfDdmaPc_gCLcBGAsYHQ/s0/SAT%2BTV%2BWEB.png" group-title="FILMES SÉRIES",SATTV
-https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
-
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TOKYO
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w48351920.m3u8
@@ -286,6 +270,39 @@ https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w48351920.m3u8
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/--HpZrGPFA2Y/Xy8w7cTPJqI/AAAAAAAADJM/atRY8Wkn14ggxv4lt1tHV-KZi7hfGRFkQCLcBGAsYHQ/s320/Screenshot_2020-08-08-20-06-59.png" group-title="FILMES SÉRIES", POMBAL
 https://stmv1.srvif.com/tvpombal/tvpombal/chunklist_w1731209505.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TVCEI
+https://stmv3.samcast.com.br/eduardo7982/eduardo7982/chunklist_w462813575.m3u8
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-_xw25w-iAXw/YIBTS5j4hZI/AAAAAAAAEkA/oS1tUpa12IgUYNwHMfwnFNqtdc36z3-0QCLcBGAsYHQ/s0/TV%2BFAZETA%2BBAHIA.png" group-title="FILMES SÉRIES",NOVA GAZETA
+http://video02.kshost.com.br/sueli3485/sueli3485/chunklist_w1485362132.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV BRASIL
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",FM HITS
+https://stmv1.srvsh.com.br/gilberto5815/gilberto5815/chunklist_w244507502.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-bkIyVXLI-CE/YJQQSnIrCBI/AAAAAAAAEo8/Jq71Otdn8-Moc543hw77s7hvS5ss1kMiwCLcBGAsYHQ/s0/BS%2BTV.png" group-title="FILMES SÉRIES",BSTV
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w484750067.m3u8
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7513d543c8cf7945825a92d76a858f26.jpg" group-title="FILMES SÉRIES",TVSOL
+http://streaming03.zas.media:1935/tvsol/tvsol/chunklist_w61744308.m3u8
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-379R0JQ3Pgs/YEj2OgqAJ_I/AAAAAAAAEYA/ct4jpQtyRoUs1br8DhEqg_TnGMxnZUAxwCLcBGAsYHQ/s0/WEB%2BTV%2BCINE.png" group-title="FILMES SÉRIES",TVCINE
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w409729964.m3u8
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-V-qCt3v8rkE/YJlxCWOtKWI/AAAAAAAAEp0/RObhAY1JhjI5x-HVHqHZ2HdWfDdmaPc_gCLcBGAsYHQ/s0/SAT%2BTV%2BWEB.png" group-title="FILMES SÉRIES",SATTV
+https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
 
 
 
@@ -313,26 +330,12 @@ https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbi
 https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TVCEI
-https://stmv3.samcast.com.br/eduardo7982/eduardo7982/chunklist_w462813575.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-_xw25w-iAXw/YIBTS5j4hZI/AAAAAAAAEkA/oS1tUpa12IgUYNwHMfwnFNqtdc36z3-0QCLcBGAsYHQ/s0/TV%2BFAZETA%2BBAHIA.png" group-title="FILMES SÉRIES",NOVA GAZETA
-http://video02.kshost.com.br/sueli3485/sueli3485/chunklist_w1485362132.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV BRASIL
-https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",FM HITS
-https://stmv1.srvsh.com.br/gilberto5815/gilberto5815/chunklist_w244507502.m3u8
-
-
-
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.coLm/-1FNIsoc9cWk/YCFMQdNbMyI/AAAAAAAAEPg/XxZ05jL57_I5_uf1HR4O5yo3aJwTLfHlwCLcBGAsYHQ/s0/DEMAIS%2BTV.png" group-title="FILMES SÉRIES",D+TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1031390030.m3u8
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SVmkbKwWILA/XXpn6tIEuDI/AAAAAAAABz0/jyRMvdB8L6Av2CinwIqYkG4XBUZ1A3IDgCLcBGAsYHQ/s320/Screenshot_2019-09-12-12-42-47.png"group-title="FILMES SÉRIES",TVCARIOCA
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w908998487.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LATINA SAT
@@ -354,10 +357,6 @@ https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1906819755.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-WRIKFzmeSTM/YC_YhgEa99I/AAAAAAAAET0/UL5FVqoLxBADwmPU-i3a9sjrGUNfotIeQCLcBGAsYHQ/s0/TV%2BJUNDIA%25C3%258D%2BHOJE.png" group-title="FILMES SÉRIES", JUNDIAÍ
 https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w878393336.m3u8
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SVmkbKwWILA/XXpn6tIEuDI/AAAAAAAABz0/jyRMvdB8L6Av2CinwIqYkG4XBUZ1A3IDgCLcBGAsYHQ/s320/Screenshot_2019-09-12-12-42-47.png"group-title="FILMES SÉRIES",TVCARIOCA
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w908998487.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/efcb8e80e7fb0b65bdcd3bcba64595e5.jpg" group-title="FILMES SÉRIES",ITUTV
