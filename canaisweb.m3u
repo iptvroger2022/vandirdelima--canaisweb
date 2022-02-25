@@ -232,6 +232,10 @@ https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8
 https://stmv3.samcast.com.br/eduardo7982/eduardo7982/chunklist_w462813575.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SAJTV
+https://stmv1.srvif.com/tvrevista/tvrevista/chunklist_w1543990302.m3u8
+
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ALIANÇA
 https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
 
@@ -378,20 +382,8 @@ https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/chunklist_w19303070
 https://stmv1.srvif.com/tvriogrande/tvriogrande/chunklist_w1806433696.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",REVISTA SAJ
-https://stmv1.srvif.com/tvrevista/tvrevista/chunklist_w1543990302.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BLITS
 https://video01.logicahost.com.br/blitstv/blitstv/chunklist_w1682531966.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",QTAL
-https://video01.logicahost.com.br/qtalchannel/qtalchannel/chunklist_w1118629964.m3u8
-
-
-#EXTINF:0 tvg-logo=""group-title="FILMES SÉRIES",TV CAICO
-https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
 
 
 #################  VARIEDADES  ####################
