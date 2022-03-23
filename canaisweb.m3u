@@ -84,10 +84,6 @@ https://srv6.zcast.com.br/anitv/anitv/chunklist_w1181585102.m3u8
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
 
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/s320/Screenshot_2020-06-24-22-22-55.png" group-title="FILMES SÉRIES",LONDRINA 
-https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
-
-
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-1lRRmfoFjqw/YJLdfKPVFjI/AAAAAAAAEos/RKs26haVlcU4N1pH8JUyadk71S7IECBVgCLcBGAsYHQ/s0/TV%2BNOVA%2BPLAY%2B2.png" group-title="FILMES SÉRIES",NOVAPLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1212094222.m3u8
 
@@ -162,9 +158,13 @@ https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w2007396000.m3u8
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CANAL29
+https://video01.logicahost.com.br/canal29/canal29/chunklist_w2069581327.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AWTV
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/chunklist_w1757047876.m3u8
+
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLÁSSICOS
@@ -234,7 +234,11 @@ https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",RUNTIME
-https://stream.ads.ottera.tv/cl/c3c988e5-16c7-4b63-9621-1c9f4c95177c/848x480_1249600_1_false.m3u8
+https://stream.ads.ottera.tv/cl/e9a36716-6637-4a2c-8662-472441b912b6/1920x1080_4716800_3_false.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",RUNTIME2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=665&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=942c8fce10766f09a963e2d44494c7a0&app_bundle=com.ammo.runtime&app_store.tvl=https%3A%2F%2Fwww.runmo.runtime&app_store.tvl=https%3A%2F%2Fwww. 2Fdevices&app_domain=runtime.tv&app_name=runtime&
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",DHT TV
