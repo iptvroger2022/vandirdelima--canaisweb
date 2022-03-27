@@ -84,6 +84,11 @@ https://srv6.zcast.com.br/anitv/anitv/chunklist_w1181585102.m3u8
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
 
 
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",RUNTIME2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=665&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=942c8fce10766f09a963e2d44494c7a0&app_bundle=com.ammo.runtime&app_store.tvl=https%3A%2F%2Fwww.runmo.runtime&app_store.tvl=https%3A%2F%2Fwww. 2Fdevices&app_domain=runtime.tv&app_name=runtime&
+
+
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-1lRRmfoFjqw/YJLdfKPVFjI/AAAAAAAAEos/RKs26haVlcU4N1pH8JUyadk71S7IECBVgCLcBGAsYHQ/s0/TV%2BNOVA%2BPLAY%2B2.png" group-title="FILMES SÉRIES",NOVAPLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1212094222.m3u8
 
@@ -232,17 +237,6 @@ https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8
 ###################  FILMES e VARIEDADES ############
 #EXTINF:0 tvg-logo="" group-title="",## FILMES E VARIEDADES ##
 
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",RUNTIME
-https://stream.ads.ottera.tv/cl/e9a36716-6637-4a2c-8662-472441b912b6/1920x1080_4716800_3_false.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",RUNTIME2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=665&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=942c8fce10766f09a963e2d44494c7a0&app_bundle=com.ammo.runtime&app_store.tvl=https%3A%2F%2Fwww.runmo.runtime&app_store.tvl=https%3A%2F%2Fwww. 2Fdevices&app_domain=runtime.tv&app_name=runtime&
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TVCEI
-https://stmv3.samcast.com.br/eduardo7982/eduardo7982/chunklist_w462813575.m3u8
 
 
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Dz8hWPkHzyU/XWAeyKtSHxI/AAAAAAAABjQ/GQCk1qkykk8I3dfqTtUOSNGTgI9cji-vwCLcBGAs/s320/Screenshot_2019-08-23-14-11-58.png" group-title="FILMES SÉRIES",ISTV 
@@ -427,12 +421,6 @@ https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w484750067.m3u8
 http://streaming03.zas.media:1935/tvsol/tvsol/chunklist_w61744308.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",QDM
-https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/chunklist_w1906141549.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LAGOS
-https://video01.kshost.com.br:4443/marcos1646/marcos1646/chunklist_w941803673.m3u8
 
 #################  VARIEDADES  ####################
 #EXTINF:0 tvg-logo="" group-title="",#### VARIEDADES ####
@@ -688,10 +676,6 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-b.m3u8?sd=10&re
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" group-title="GOSPEL",REDEFAMILIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
 
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-qT0GaR9zoNU/YDUhGRZ_ceI/AAAAAAAAEVg/WHtIm_w1blMXmCVC1nvij1zqPhURn8fXACLcBGAsYHQ/s0/LIFE%2BCHANNEL%2BBRASIL.png" group-title="GOSPEL",LIFE CHANNEL
-https://hls.brasilstream.com.br/live/lifechannel/lifechannel/tracks-v1a1/mono.m3u8?token=4365564105550557000
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Enl7AUQBwxU/XlQOGaJ0MuI/AAAAAAAACg0/2Md-i_i8HcQW9yE1IEbU7cB100y_3ifzQCLcBGAsYHQ/s320/2020-02-24%2B14.51.15.png" group-title="GOSPEL",CNT
