@@ -165,8 +165,14 @@ https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjo
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AWTV
 https://video01.logicahost.com.br/awtv/awtv/chunklist_w1215498019.m3u8
 
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",GUAREI
 https://cdnhd.iblups.com/hls/RPrdrU2Ikr.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",FRONTEIRA
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w1487374814.m3u8
+
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LIBERDADE
