@@ -255,24 +255,6 @@ https://stmv1.srvif.com/tvskids/tvskids/chunklist_w1541221778.m3u8
 https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/chunklist_w1371719505.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AGENTE 86
-https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w554878438.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TRES PATETAS
-https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w414854403.m3u8
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-w43wGnoTyGk/YCLF2uzS16I/AAAAAAAAEP0/xJguFMvzNZQQvYI_pU9CLJAovuCkUBeIwCLcBGAsYHQ/s0/GUERRA%252C%2BSOMBRA%2BE%2B%25C3%2581GUA%2BFRESCA.png" group-title="FILMES SÉRIES",HOGANSHEROES
-https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w983909720.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-_YURHwLOTdY/X_sfomVkvHI/AAAAAAAAEHs/LSMWc19qjxUylwoEcI4YINE2YBHGsMC5wCLcBGAsYHQ/s0/CHIPS.png" group-title="FILMES SÉRIES",CHIPS
-https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8
-
-
-
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2wJWDKQtd4w/X5Hf-KMMXBI/AAAAAAAADgk/eGIma0JURzI_xqRcCYPGykmQ3wifE5KQgCLcBGAsYHQ/s0/AS%2BPANTERAS.png"group-title="FILMES SÉRIES",AS PANTERAS 
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
 
@@ -285,6 +267,26 @@ https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-T4ejZp3RbpE/X49JM5K2hdI/AAAAAAAADd8/2PvwOy_mnS09HXIcaC2sGLmSVpVVtvGOQCLcBGAsYHQ/s0/STAR%2BTREK.png" group-title="FILMES SÉRIES",STAR TREK
 https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-_YURHwLOTdY/X_sfomVkvHI/AAAAAAAAEHs/LSMWc19qjxUylwoEcI4YINE2YBHGsMC5wCLcBGAsYHQ/s0/CHIPS.png" group-title="FILMES SÉRIES",CHIPS
+https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-w43wGnoTyGk/YCLF2uzS16I/AAAAAAAAEP0/xJguFMvzNZQQvYI_pU9CLJAovuCkUBeIwCLcBGAsYHQ/s0/GUERRA%252C%2BSOMBRA%2BE%2B%25C3%2581GUA%2BFRESCA.png" group-title="FILMES SÉRIES",HOGANSHEROES
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w983909720.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TRES PATETAS
+https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w414854403.m3u8
+
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AGENTE 86
+https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w554878438.m3u8
 
 
 
