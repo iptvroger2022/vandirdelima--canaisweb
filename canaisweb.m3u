@@ -173,12 +173,6 @@ https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLASSIQUE 2
 https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w227761684.m3u8
 
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLASSIQUE 3
-https://stmv2.srvsh.com.br/classiquetv2/classiquetv2/chunklist_w1050087003.m3u8
-
-
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png"group-title="FILMES SÉRIES",CLASSIQUE WESTERN
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 
@@ -187,17 +181,12 @@ https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 https://stmv1.srvif.com/classeries/classeries/chunklist_w1452294912.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLASSIQUE SÉRIES 2
-https://stmv2.srvsh.com.br/classeries2/classeries2/chunklist_w529808113.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CANAL29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLÁSSICOS
-https://stmv1.srvstm.com/jorgeandresilva9323/jorgeandresilva9323/chunklist_w818977480.m3u8
-
+https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-d-mnTNCYp_I/X77N431tLcI/AAAAAAAAD28/BGqvxaVveZQtW-eArJwOuarVS2YEQ5kZACLcBGAsYHQ/s0/BONS%2BTEMPOS%2BTV.png" group-title="FILMES SÉRIES",BONS TEMPOS
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w186200016.m3u8
