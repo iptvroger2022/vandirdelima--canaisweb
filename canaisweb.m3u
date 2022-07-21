@@ -50,9 +50,6 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w10101747.m3u8
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w279459319.m3u8
 
 
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-LTqIzRhhBYE/XQAGxT5AB3I/AAAAAAAABB0/Uih_3IGEJtIyTisWutKyU_qbn75_rW0rACPcBGAYYCw/s320/Screenshot_2019-06-11-16-51-42.png"group-title="ANITOON",KURIAKOS KIDS
-http://c2.manasat.com:1935/kkids/kkids2/chunklist_w550177744.m3u8
-
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s320/Screenshot_2019-06-21-15-12-44.png"group-title="ANITOON",GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 
@@ -61,16 +58,13 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="ANITOON",ANIME 
 https://stmv1.srvif.com/animetv/animetv/chunklist_w617070452.m3u8
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-hUrlcUVBcpg/YQbWA_HcQvI/AAAAAAAAFC0/qSWfyuwlK748_xOAL6cFFgqMv4EGfA5QgCLcBGAsYHQ/s0/ANIME%2BZONE%2BTV.png" group-title="ANITOON",AZTV 
-https://azxtv.com/hls/stream.m3u8
-
 
 #EXTINF:0 tvg-logo="" group-title="ANITOON",CONTV
 https://contvanime-plex-ingest.cinedigm.com/masterR1080p.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="ANITOON",ANITV
-https://srv6.zcast.com.br/anitv/anitv/chunklist_w1181585102.m3u8
+https://tv01.livemustv.com.br/livemustv1358/livemustv1358/chunklist_w469658989.m3u8
 
 
 
