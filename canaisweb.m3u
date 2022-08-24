@@ -217,7 +217,7 @@ https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w554878438.m3u8
 
 
 
-###################  FILMES e VARIEDADES ############
+############## FILMES e VARIEDADES ############
 #EXTINF:0 tvg-logo="" group-title="",## FILMES E VARIEDADES ##
 
 
@@ -266,9 +266,9 @@ https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",YELLOW
 https://serv3.videovox.pw/gilferson4004/gilferson4004/chunklist_w1951483569.m3u8
 
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",RBC
 https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist_w553269129.m3u8
-
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",REVISTA
@@ -294,10 +294,6 @@ https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV BRASIL
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
 
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-SVmkbKwWILA/XXpn6tIEuDI/AAAAAAAABz0/jyRMvdB8L6Av2CinwIqYkG4XBUZ1A3IDgCLcBGAsYHQ/s320/Screenshot_2019-09-12-12-42-47.png"group-title="FILMES SÉRIES",TVCARIOCA
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w908998487.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-uFUJMSnjUKA/YNioqLvHZYI/AAAAAAAAE74/4NyA0_hMLNElHVxQMWUTitdFb3W5MbbzACLcBGAsYHQ/s0/TV%2BRIO%2BGRANDE.png" group-title="FILMES SÉRIES",RIO GRANDE
