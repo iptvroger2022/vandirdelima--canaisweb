@@ -268,6 +268,9 @@ https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8
 https://serv3.videovox.pw/gilferson4004/gilferson4004/chunklist_w1951483569.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ECOVALE
+https://livefocamundo.com:8081/tvecovale/index.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",RBC
 https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist_w553269129.m3u8
 
@@ -516,22 +519,20 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_
 tvg-logo="" group-title=""
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/dc129b6a50cb452edee945b0ad7889f6.jpg" group-title="NEWS",RÁDIO BANDNEWS PR
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/dc129b6a50cb452edee945b0ad7889f6.jpg" group-title="NOTICIAS",RÁDIO BANDNEWS PR
 https://evpp.mm.uol.com.br/band/bandnewsfm_ctb/chunklist_w286107755.m3u8
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/dc129b6a50cb452edee945b0ad7889f6.jpg" group-title="NEWS",RÁDIO BANDNEWS DF
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/dc129b6a50cb452edee945b0ad7889f6.jpg" group-title="NOTICIAS",RÁDIO BANDNEWS DF
 https://evpp.mm.uol.com.br/band/bandnewsfm_bsb/chunklist_w674184229.m3u8
 
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-2b0o-ziG7Qo/XVHrk5uoQoI/AAAAAAAABcI/qYUhjDpal0Q6g40qOFePGvFSS7KRDqRSgCLcBGAs/s320/Screenshot_2019-08-12-19-26-37.png" group-title="NEWS",RÁDIO CBN RJ
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-2b0o-ziG7Qo/XVHrk5uoQoI/AAAAAAAABcI/qYUhjDpal0Q6g40qOFePGvFSS7KRDqRSgCLcBGAs/s320/Screenshot_2019-08-12-19-26-37.png" group-title="NOTICIAS",RÁDIO CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-8ZTPPlzhS8E/XVCi_meH-tI/AAAAAAAABbM/7u58s6JLppg4jNYyTl6MIKx3pFbev9y4gCLcBGAs/s320/Screenshot_2019-08-11-20-16-21.png"group-title="NEWS",RÁDIO CBN SP
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-8ZTPPlzhS8E/XVCi_meH-tI/AAAAAAAABbM/7u58s6JLppg4jNYyTl6MIKx3pFbev9y4gCLcBGAs/s320/Screenshot_2019-08-11-20-16-21.png"group-title="NOTICIAS",RÁDIO CBN SP
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-
-
 
 ####################################
 
