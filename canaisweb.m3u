@@ -35,23 +35,23 @@ http://streaming15.hstbr.net:8288/autodj
 https://servidor16-3.brlogic.com:7614/live
 
 ###################### CARTOONS  #####################
-#EXTINF:0 tvg-logo=""group-title="",#### ANITOON ####
+#EXTINF:0 tvg-logo=""group-title="",#### ANIMECARTOON ####
 
 
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-6Q_s4tbCd7M/XryzwCYcJGI/AAAAAAAACyk/cMTBHT_RNWA2Um6gcRlrh2RSf9v0KxJAwCLcBGAsYHQ/s320/Screenshot_2020-05-13-23-48-42.png"group-title="ANITOON",RETRO CARTOON
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-6Q_s4tbCd7M/XryzwCYcJGI/AAAAAAAACyk/cMTBHT_RNWA2Um6gcRlrh2RSf9v0KxJAwCLcBGAsYHQ/s320/Screenshot_2020-05-13-23-48-42.png"group-title="ANIMECARTOON",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w318448940.m3u8
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0Iq6wbVRaAg/YFDNyFtWiqI/AAAAAAAAEZk/N-oqR72a8Qsc5_0zN7DpoBalbUuienn-gCLcBGAsYHQ/s0/JETSONS%2BTV.png" group-title="ANITOON",JETSONS
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0Iq6wbVRaAg/YFDNyFtWiqI/AAAAAAAAEZk/N-oqR72a8Qsc5_0zN7DpoBalbUuienn-gCLcBGAsYHQ/s0/JETSONS%2BTV.png" group-title="ANIMECARTOON",JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w279459319.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s320/Screenshot_2019-06-21-15-12-44.png"group-title="ANITOON",GOSPEL CARTOON
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s320/Screenshot_2019-06-21-15-12-44.png"group-title="ANIMECARTOON",GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="ANITOON",ANIME 
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="ANIMECARTOON",ANIME 
 https://stmv1.srvif.com/animetv/animetv/chunklist_w617070452.m3u8
 
 
@@ -59,7 +59,7 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w617070452.m3u8
 https://contvanime-plex-ingest.cinedigm.com/masterR1080p.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="ANITOON",ANITV
+#EXTINF:0 tvg-logo="" group-title="ANIMECARTOON",ANITV
 https://tv01.livemustv.com.br/livemustv1358/livemustv1358/chunklist_w469658989.m3u8
 
 
@@ -201,10 +201,6 @@ https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
 
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BRSUPER
-https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-lKMka-gm-Tw/X5tuToPtoLI/AAAAAAAADow/kULmTt_ZgZ8Z-ypKXVxJKDGs2msf4TNdgCPcBGAYYCw/s0/VINTAGE%2BTV.png" group-title="FILMES SÉRIES",VINTAGE
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
@@ -222,9 +218,13 @@ https://srv5.zcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 
 
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BRSUPER
+https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:0 tvg-logo="http://www.tvaguaboa.com.br/banners/04092019115122.jpg" group-title="FILMES SÉRIES", AGUA BOA
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1116467602.m3u8
-
 
 
 
@@ -302,11 +302,6 @@ https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w365439755.m3u8
 https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV BRASIL
-https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
-
-
-
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-uFUJMSnjUKA/YNioqLvHZYI/AAAAAAAAE74/4NyA0_hMLNElHVxQMWUTitdFb3W5MbbzACLcBGAsYHQ/s0/TV%2BRIO%2BGRANDE.png" group-title="FILMES SÉRIES",RIO GRANDE
 https://stmv1.srvif.com/tvriogrande/tvriogrande/chunklist_w1806433696.m3u8
 
@@ -367,14 +362,6 @@ https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w1429083257.m3u8
 
 
 
-#EXTINF:0 tvg-logo="" group-title="VARIEDADES",YEEAAH
-https://srv3.zcast.com.br/yeeaah/yeeaah/chunklist.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="VARIEDADES",NBN
-https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8
-
-
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/454924e01d06c3bc20131e8514187305.webp" group-title="VARIEDADES",CONECT 
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
@@ -395,10 +382,7 @@ https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w19783287
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-NbjRJ7K8mxY/XsYJwvTsQsI/AAAAAAAAC00/76XEiNF_BbM3THN86GMokTFo4IZHsFQQwCLcBGAsYHQ/s320/Screenshot_2020-05-21-01-51-54.png" group-title="VARIEDADES", SERTÃOPETRO
 https://59f1cbe63db89.streamlock.net:1443/sertao/_definst_/sertao/chunklist_w1854323685.m3u8
 
-
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-7zRm61qCePw/XqczErUhIFI/AAAAAAAACpw/GfZe3LRHJKgbi0k0jMlily8nydj_WtP4QCPcBGAYYCw/s320/2020-04-27%2B16.20.38.png" group-title="VARIEDADES", CENTROSUL 
-https://novo.bitstreaming.info:1936/tvcentrosultvstation/tvcentrosultvstation/chunklist_w211495654.m3u8
-
+L
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-R7MUaLTBuV0/XsYA4yqgH4I/AAAAAAAAC0o/W3b9oCbMJz4Y6kj2b8xjgcVCPzDEEo73ACLcBGAsYHQ/s320/Screenshot_2020-05-21-01-14-40.png" group-title="VARIEDADES",SERTÃOTV 
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w2076598673.m3u8
@@ -413,17 +397,9 @@ https://59f2354c05961.streamlock.net:1443/tvmarrg/_definst_/tvmarrg/chunklist_w8
 
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2b51a02ccbbfcd95f531d2bec137d6dc.png" group-title="VARIEDADES",MASTERTV PR
+L#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2b51a02ccbbfcd95f531d2bec137d6dc.png" group-title="VARIEDADES",MASTERTV PR
 http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w1883670134.m3u8
 
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bbcb82ee8d099a445d3721fdce02c6c.png" group-title="VARIEDADES",TRTV PR
-https://novo.bitstreaming.info:1936/8132/8132/chunklist_w465561010.m3u8
-
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/356eff7139d36ea60f5952cac203f51c.jpg" group-title="VARIEDADES",CANAL10 PR
-http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w565111683.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES",QUEENS UNITED
@@ -431,7 +407,7 @@ https://cdn.connectbr.com.br/Queens/video.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="",#### REDES #### 
-########################################################## 
+#############################################
 
 
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-yGl00jP5wz0/XT8olJHsfEI/AAAAAAAABX0/VIWzge0KCcsdJqaJ3CLerYsfvMLsQPx4ACPcBGAYYCw/s320/Screenshot_2019-07-29-13-59-18.png" group-title="VARIEDADES",TVERS 
@@ -454,12 +430,10 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1912280323.
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-BKfI-bOVnLU/YMauM95S37I/AAAAAAAAE28/EnMb8zR4NaoLcp75HLEGmfDZwkCfvMfUACPcBGAYYCw/s200/SBT.png" group-title="VARIEDADES",SBT GO
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w393840868_b1000000.m3u8
-
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8ce8f1a9e2406d2acde94e2ac5d0f671.png" group-title="VARIEDADES",CIDADE VERDE SBT PI
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w193816281.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="VARIEDADES", RECORD SC
 https://caikron.com.br:19360/floripa/floripa.m3u8
@@ -470,7 +444,7 @@ https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatro
 
 
 #EXTINF:0 tvg-logo="" group-title="",#### GOSPEL ####
-##########################################################
+#################################################
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" group-title="GOSPEL",REDEFAMILIA
