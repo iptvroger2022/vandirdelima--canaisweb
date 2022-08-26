@@ -316,13 +316,19 @@ https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
 https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1906819755.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a6085796633d9278fccb8ca555250aef.jpg" group-title="FILMES SÉRIES", GALEGA 
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
-
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-LD36niJFGDE/YC6XNzyao8I/AAAAAAAAETQ/pUqePw9UBN4Rhi7Q-yfti0GaOeWzAB9CACLcBGAsYHQ/s0/TV%2BWTJMINAS.png" group-title="FILMES SÉRIES",WTJ MINAS
 https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/chunklist_w1405490315.m3u8
+
+
+
+################ VARIEDADES  ####################
+#EXTINF:0 tvg-logo="" group-title="",#### VARIEDADES ####
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0048ba30afe4808a9a7ed1722c22b994.png" group-title="VARIEDADES", MON 
+https://srv1.zcast.com.br/tvmon/tvmon/chunklist_w1603955057.m3u8
 
 
 
@@ -335,17 +341,12 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1031390030.m3u
 https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w484750067.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7513d543c8cf7945825a92d76a858f26.jpg" group-title="FILMES SÉRIES",TVSOL
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7513d543c8cf7945825a92d76a858f26.jpg" group-title="VARIEDADES",TVSOL
 http://streaming03.zas.media:1935/tvsol/tvsol/chunklist_w61744308.m3u8
 
 
-
-################ VARIEDADES  ####################
-#EXTINF:0 tvg-logo="" group-title="",#### VARIEDADES ####
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0048ba30afe4808a9a7ed1722c22b994.png" group-title="VARIEDADES", MON 
-https://srv1.zcast.com.br/tvmon/tvmon/chunklist_w1603955057.m3u8
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a6085796633d9278fccb8ca555250aef.jpg" group-title="FILMES SÉRIES", GALEGA 
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-bOP0ELVkc0Y/X69TUpRNJOI/AAAAAAAAD0E/1yYuZbIpMQkk5q-K3ACFvg9g503-lmxBACLcBGAsYHQ/s0/MASTER%2BSHOW%2BTV.png" group-title="VARIEDADES",MASTERSHOW
