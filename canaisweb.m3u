@@ -407,8 +407,8 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w1883670134.m3u8
 https://cdn.connectbr.com.br/Queens/video.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="",#### REDES #### 
-#############################################
+#EXTINF:0 tvg-logo="" group-title="",#### REDES#### 
+#########################################
 
 
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-yGl00jP5wz0/XT8olJHsfEI/AAAAAAAABX0/VIWzge0KCcsdJqaJ3CLerYsfvMLsQPx4ACPcBGAYYCw/s320/Screenshot_2019-07-29-13-59-18.png" group-title="VARIEDADES",TVERS 
@@ -425,6 +425,9 @@ http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b3559796c3af8698f1de6163c34454cb.jpg" group-title="VARIEDADES",CATVE PR
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1912280323.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",CULTURA (GUARÁ)
+https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w488754077.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="VARIEDADES",BAND PA
@@ -518,6 +521,12 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:0, ## NOTICIAS PORTUGUES ##  
 tvg-logo="" group-title=""
 
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",REDE SUL
+https://livefocamundo.com:8081/redesul/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",LUZILANDIA
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b560b8e90359b5fea4b59226d138ad5c.jpg" group-title="NOTICIAS",SIM RECOD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w345217922.m3u8
@@ -525,6 +534,8 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w345217922.m3u8
 
 #EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="NOTICIAS", CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",EURONEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
@@ -534,7 +545,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
 
 
-###################################################### 
+############################################
 #EXTINF:0,## NOTICIAS RURAIS ##
  
 tvg-logo="" group-title=""
@@ -609,7 +620,7 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 
-####################### DOCUMENTÁRIOS ####################
+############### DOCUMENTÁRIOS ##############
 #EXTINF:0 tvg-logo="" group-title="",#### EDUCA DOC ####
 
 
@@ -679,7 +690,7 @@ https://livefocamundo.com:8081/tvcnb/tracks-v1a1/mono.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
-#########################  ESPORTES  #########################
+############## ESPORTES  ################
 #EXTINF:0 tvg-logo="" group-title="",#### ESPORTES ####
 
 
@@ -730,7 +741,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1726693761_b1296000_
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
 
-#######################  MUSICAL  ########################
+##############  MUSICAL  ########################
 #EXTINF:0 tvg-logo="" group-title="",#### MÚSICAS ####
 
 
