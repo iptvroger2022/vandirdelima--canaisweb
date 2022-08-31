@@ -345,6 +345,8 @@ https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w484750067.m3u8
 http://streaming03.zas.media:1935/tvsol/tvsol/chunklist_w61744308.m3u8
 
 
+
+
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a6085796633d9278fccb8ca555250aef.jpg" group-title="FILMES SÉRIES", GALEGA 
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 
@@ -393,12 +395,18 @@ https://cdn.connectbr.com.br/Queens/video.m3u8
 #########################################
 
 
+
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-yGl00jP5wz0/XT8olJHsfEI/AAAAAAAABX0/VIWzge0KCcsdJqaJ3CLerYsfvMLsQPx4ACPcBGAYYCw/s320/Screenshot_2019-07-29-13-59-18.png" group-title="VARIEDADES",TVERS 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w200098464.m3u8
 
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-fo1KsdlRY2E/XikSRCEaeXI/AAAAAAAACaQ/80pAlRKaecMy3LXgEVqLFhAMIjFMNaCHACLcBGAsYHQ/s320/2020-01-23%2B00.22.57.png" group-title="",TVEBH 
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-fo1KsdlRY2E/XikSRCEaeXI/AAAAAAAACaQ/80pAlRKaecMy3LXgEVqLFhAMIjFMNaCHACLcBGAsYHQ/s320/2020-01-23%2B00.22.57.png" group-title="VARIEDADES",TVEBH 
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" group-title="VARIEDADES",REDEFAMILIA
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-AyvQ_GWHHRk/XidTZEc01uI/AAAAAAAACYk/7NPVArAhge0ehksYnONeuvCPQ7dDh8oDACLcBGAsYHQ/s320/Screenshot_2020-01-21-16-36-15.png" group-title="VARIEDADES", PARANÁ TURISMO
@@ -429,13 +437,11 @@ https://caikron.com.br:19360/floripa/floripa.m3u8
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
 
 
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-XR6Q2CVUGpY/XP8vFvvb_JI/AAAAAAAABBc/NSr20PLxk6gG0w-Hc6iYY-Akdl_UjczFACPcBGAYYCw/s320/Screenshot_2019-06-11-00-52-56.png" group-title="VARIEDADES",TVCI LITORAL PR
+https://5e837408ea907.streamlock.net:1936/tvci/tvci/chunklist_w1823141722.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="",#### GOSPEL ####
 #################################################
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" group-title="GOSPEL",REDEFAMILIA
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
-
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Enl7AUQBwxU/XlQOGaJ0MuI/AAAAAAAACg0/2Md-i_i8HcQW9yE1IEbU7cB100y_3ifzQCLcBGAsYHQ/s320/2020-02-24%2B14.51.15.png" group-title="GOSPEL",CNT
@@ -452,16 +458,10 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_1335d542-
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-IYnzuTCiWbY/YP9kQRwqA9I/AAAAAAAAFBY/rGXwHPPLks8Vj5bCwCyGNI7pGS_UBn4ZwCLcBGAsYHQ/s0/TV%2BCONFIEGO%2BGOSPEL.png" group-title="GOSPEL", CONFIEGO
-https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w1447960862.m3u8
-
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-4tlx75RBcj4/YFDQ2ZeMJVI/AAAAAAAAEZo/OQCgzrl5RzYwCQjCqDMhK-lsgV3y6PlYACLcBGAsYHQ/s0/AISH%2BTV%2BBRASIL.png" group-title="GOSPEL",XPLUS 
 https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w389366152.m3u8
 
-
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-XR6Q2CVUGpY/XP8vFvvb_JI/AAAAAAAABBc/NSr20PLxk6gG0w-Hc6iYY-Akdl_UjczFACPcBGAYYCw/s320/Screenshot_2019-06-11-00-52-56.png" group-title="GOSPEL",TVCI LITORAL PR
-https://5e837408ea907.streamlock.net:1936/tvci/tvci/chunklist_w1823141722.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-53AZAPOU02s/X_CUYPId-BI/AAAAAAAAEFQ/sRGx_Fxm_6UMfT6kAuHbv4WnLvREc3mAACLcBGAsYHQ/s0/TV%2BGERMANA.png" group-title="GOSPEL", GERMANA
@@ -472,9 +472,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklis
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5cfae87cb8a191172ff08ff1b13c3c05.jpg" group-title="GOSPEL",GOSPEL MUSIC
 https://stmv6.srvstm.com/gmusic/gmusic/chunklist_w1118991287.m3u8
 
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/464274e45b80e0f3e1a8cb2c90d6fec3.png" group-title="GOSPEL",TOP MIX
-https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w176600793.m3u8
 
 ##################NOTICIAS ###################
 
