@@ -211,6 +211,10 @@ https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",UNITV
+https://stmv1.srvif.com/unifm/unifm/chunklist_w782229202.m3u8
+
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",XTREME
 https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/chunklist_w478706324.m3u8
 
@@ -442,8 +446,18 @@ https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatro
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES",RECORD MG 
 https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
 
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",REDETV PB
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w821258124_b1125950.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",TV CEARÁ
+https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
+
+
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-XR6Q2CVUGpY/XP8vFvvb_JI/AAAAAAAABBc/NSr20PLxk6gG0w-Hc6iYY-Akdl_UjczFACPcBGAYYCw/s320/Screenshot_2019-06-11-00-52-56.png" group-title="VARIEDADES",TVCI LITORAL PR
 https://5e837408ea907.streamlock.net:1936/tvci/tvci/chunklist_w1823141722.m3u8
+
 
 
 ##################NOTICIAS ###################
