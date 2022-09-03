@@ -180,6 +180,12 @@ https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w414854403.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AGENTE 86
 https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w554878438.m3u8
 
+
+
+#EXTINF:0 tvg-logo="https://www.locomotiontv.com.br/assets/img/logo-cghost.png" group-title="FILMES SÉRIES",GHOSTTV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w500798363.m3u8
+
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLÁSSICOS
 https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
 
@@ -668,11 +674,6 @@ https://v8.ciclano.io:1443/tvvotorantim/_definst_/tvvotorantim/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="DOCUMENTÁRIOS",PORTUGAL
 https://alanza.iptv2022.com/ASSIME_PORTUGAL_TV/mono.m3u8
-
-
-#EXTINF:0 tvg-logo="https://www.locomotiontv.com.br/assets/img/logo-cghost.png" group-title="DOCUMENTÁRIOS",GHOSTTV
-https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w500798363.m3u8
-
 
 
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/775da338d2d26bef54d0537d28580367.webp" group-title="DOCUMENTÁRIOS",CNB
