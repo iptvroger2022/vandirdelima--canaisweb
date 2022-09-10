@@ -227,6 +227,9 @@ https://srv5.zcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="",## FILMES E VARIEDADES ##
 
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SONATA
+https://stmv1.srvstm.com/tiago4617/tiago4617/chunklist_w1451480741.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BRSUPER
 https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
