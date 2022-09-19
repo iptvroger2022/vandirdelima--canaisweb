@@ -1,6 +1,7 @@
 #LISTA IPTV GRÁTIS, CANAIS DE FILMES SÉRIES E DESENHOS COM ACESSO LIVRE# #vandirdelima@gmail.com #
 
 
+
 #EXTM3U
 
 ############### CONTATOS  ###############
@@ -506,7 +507,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 
-#EXTINF:0 tvg-logo="" group-title="NOTICIAS",EURONEWS
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",EURONEWS POR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 
 
@@ -544,11 +545,9 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w1158222302.m3u8
 https://srv5.zcast.com.br/tvmilagro/tvmilagro/chunklist_w363747208.m3u8
 
 
+############################################
+#EXTINF:0,## NOTICIAS INTERNACIONAIS ##
 
-##################################### 
-#EXTINF:0,## NOTICIAS ESPANHOL ##
-
-tvg-logo="" group-title=""
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a492cc7ef638fb2911e0c045d4930186.jpg" group-title="NOTICIAS",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
@@ -569,10 +568,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/88b31fb327e6c171af2862bcf03d78e4.png" group-title="NOTICIAS",DW ing
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
-######################### 
-#EXTINF:0 tvg-logo="" group-title="",## NOTICIAS INGLES ##
-
-
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",DEMAND AFRICA
 https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-demand-africa-oando/CDN/1920x1080_5055600/index.m3u8
@@ -582,6 +577,9 @@ https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b885dddf8d0e990d24c4a3fae05c4194.png" group-title="NOTICIAS",NHK Ing
 https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 
+
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",RTDOC Ing
+https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-HukihvtCSF4/Xa44b3MUTJI/AAAAAAAACK0/kqvcXUq9AtQZmTIZ7ykCqLjbpIOvRTglwCLcBGAsYHQ/s320/Screenshot_2019-10-21-19-49-29.png"  group-title="NOTICIAS",ALJAZEERA Ing
@@ -594,7 +592,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="",#### GOSPEL ####
-#################################################
+#############################################
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Enl7AUQBwxU/XlQOGaJ0MuI/AAAAAAAACg0/2Md-i_i8HcQW9yE1IEbU7cB100y_3ifzQCLcBGAsYHQ/s320/2020-02-24%2B14.51.15.png" group-title="GOSPEL",CNT
