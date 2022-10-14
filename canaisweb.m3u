@@ -785,7 +785,15 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w44146542.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="",MUSIC TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1679103036.m3u8
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",TOP LATINO
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="",CANELA HITS
+https://stream.ads.ottera.tv/cl/0ff722af-1ecc-407b-8f10-49ce044ce0ad/854x480_1355200_2_f.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="",BLAST
 https://video01.logicahost.com.br/blast/blast/chunklist_w853003416.m3u8
@@ -876,12 +884,67 @@ https://edge2.tikilive.com/unrestricted_tikilive/57785/amlst:dnwgXOywj4D7/playli
 #EXTINF:0 tvg-logo="" group-title="MUSICA",THE COUNTRY
 https://cdn.tcncountry.net/scte35_aws/tracks-v1a1/mono.m3u8
 
+
+########################################################
 ##################### MUSICAL RÁDIOS ###################
+########################################################
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",#### RÁDIOS ####
+
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/25058466cc8e137b9f38771b8fa4f174.jpg" group-title="RÁDIOS",BPM FM 
 https://player.xcast.com.br/proxy/9594
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RÁDIO HERTZ
+https://ssl.rbcast.com:6704//;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",NOVA BRASIL
+https://18193.live.streamtheworld.com/NOVABRASIL_SPAAC_SC
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SÓ MPB
+http://srv1.braudio.com.br:7008/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",MPB FM
+https://stream-28.zeno.fm/81xnm788e3quv?zs=jzT5zaH-SYCnensnzIIHxw
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",MARINHA MPB
+https://f40.fabricahost.com.br/radiomarinha?f=1665754065N151cr7sX0Juwn7CIqkALF01cQc49TF81oYEKjmF0jiM=&r=aHR0cHM6Ly93d3cuY3hyYWRpby5jb20uYnIv
+
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",80 NACIONAL
+http://stm21.srvstm.com:17830//;stream.mp3
+
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOUTO MPB
+https://centova5.transmissaodigital.com:20025/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOUTO R.CARLOS
+https://centova5.transmissaodigital.com:20032/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/33771dabb78091bcb0aa264ffab7dda8.jpg" group-title="RÁDIOS",JOVEM GUARDA
+https://player.srvsh.com.br/proxy/6966
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/bb784200cc21c1467a2cc2543a920914.jpg" group-title="RÁDIOS",JOVEM GUARDA
+http://srv1.cordeiroplasticos.com.br:7022//;stream.mp3
+
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOUTO VERSÃO BR
+https://centova5.transmissaodigital.com:20043/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOUTO BREGAHITS
+https://centova5.transmissaodigital.com:20010/;stream.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",BREEZE FM
@@ -890,48 +953,6 @@ https://streamingv2.shoutcast.com/TheBreez
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",OUROVERDE FM
 https://servidor18.brlogic.com:7484/live
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SÓ MPB
-http://srv1.braudio.com.br:7008/;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ST.SOUTO MPB
-https://centova5.transmissaodigital.com:20025/;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ST.SOUTO R.CARLOS
-https://centova5.transmissaodigital.com:20032/;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ST.SOUTO VERSÃO BR
-https://centova5.transmissaodigital.com:20043/;stream.mp3
-
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ST.SOUTO BREGAHITS
-https://centova5.transmissaodigital.com:20010/;stream.mp3
-
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOM DO BRASIL
-http://cast.midiaip.com.br:6006/1/;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",NACIONAL 80
-http://stm21.srvstm.com:17830//;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",JP.BOSSA NOVA
-http://6d9a.webradio.upx.net.br:9974/stream
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",BOSSA JAZZ BR
-https://centova5.transmissaodigital.com:20104//;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SCALA INSTR
-https://player-ssl.kshost.com.br:9710/live/;stream.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOFT INSTR
@@ -970,6 +991,14 @@ http://mpc.mediacp.eu:8566/stream/;stream.mp3
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",BIGBAND LAND
 https://pureplay.cdnstream1.com/6004_128.mp3
 
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",JP.BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",BOSSA JAZZ BR
+https://centova5.transmissaodigital.com:20104//;stream.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",BAYSMOOTH JAZZ
@@ -1197,12 +1226,8 @@ https://crystalout.surfernetwork.com:8001/KJOE-FM_MP3
 
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/33771dabb78091bcb0aa264ffab7dda8.jpg" group-title="RÁDIOS",JOVEM GUARDA
-https://player.srvsh.com.br/proxy/6966
-
-
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/bb784200cc21c1467a2cc2543a920914.jpg" group-title="RÁDIOS",JOVEM GUARDA
-http://srv1.cordeiroplasticos.com.br:7022//;stream.mp3
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SAMBA FM
+https://hts01.kshost.com.br:8428/live
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/2faac656fe71aa6fafba582c5b3b573d.png" group-title="RÁDIOS",VIVA O SAMBA
@@ -1221,22 +1246,80 @@ http://142.54.168.242:8627/index.html/;stream.mp3
 https://node-09.zeno.fm/437aqf400f8uv?rj-ttl=5&rj-tok=AAABe-baY5AAZM5Yygt3M9R9Kw
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/7189bf051102b48385b00f88c146d261.jpg" group-title="RÁDIOS",CAIPIRA RAIZ
-https://ssl.xcast.com.br:9030//;stream.mp3
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",FORRÓ TRADICIONAL
+https://forrotradicional.com.br/radio/8000/mp3
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1bfacd007e0602c855c2bc9bce9b7a19.jpg" group-title="RÁDIOS",SERTANEJA RAIZ
-http://cast.midiaip.com.br:8330//;stream.mp3
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RECANTO CAIPIRA
+https://player.srvstm.com/proxy/8086
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/513c331eda6b8181541279109d9b153a.jpg" group-title="RÁDIOS",TRADIÇÃO GAUCHO
-https://ssl.ahtvox.com.br:7020/;stream.mp3
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",VIOLA CAIPIRA
+https://hts03.kshost.com.br:8544/live
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOM GAUCHO
-https://player.ifantasy.com.br/proxy/7058/
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",VIOLA VIVA
+https://stream-29.zeno.fm/nagn2kpe9s8uv?zs=bF4csWKCR2qItAwg196upQ
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CASA CAIPIRAS
+https://8758.brasilstream.com.br/stream
+
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RAIZ FM
+http://svrstream1.svreua.com:8172/stream
+
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SERTANEJA RAIZ VERDADE
+https://stream-59.zeno.fm/1h06g4th31zuv?zs=azu-V_kNRSy3Eclbl-MYrQ
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SERTANEJA RAIZ
+http://station.radionanet.com:8330/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",PRATA FM 90
+http://euroticast5.euroti.com.br:8118//;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SERTANEJO 80-90
+https://stream-29.zeno.fm/d1vqtdewqbruv?zs=N7A1Gy58TdGhWhizu7xTEQ&rj-ttl=5&rj-tok=AAABeZowg2kAAAbVuH3bPpjuoQ
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SERTANEJA 80-90
+https://centova5.transmissaodigital.com:20036/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",MODA SERTANEJA 90
+https://live.hunter.fm/modasertaneja_normal
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",MODÃO
+https://centova5.transmissaodigital.com:20024/stream/;stream.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",PÁTRIA GAUCHA
 https://servidor16-3.brlogic.com:7614/live
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",FUNDODAGROTA
+https://hts07.kshost.com.br:11036/live
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RÁDIO BAGUAL
+https://s35.maxcast.com.br:8734/live
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RÁDIO CHIMARRÃO
+https://ssl.dfstreaming.com:7014/stream/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RÁDIOSUL
+http://paineldj4.com.br:8820/stream/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ART GAUCHA
+https://player.meuvox.com.br/proxy/7002
 
