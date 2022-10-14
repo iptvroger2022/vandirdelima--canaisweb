@@ -1110,11 +1110,6 @@ https://centova5.transmissaodigital.com:20013/;stream.mp3
 https://sonicpanel.oficialserver.com/9968//;stream.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",OLDIES 70
-https://1-oldies.stream.laut.fm/1-oldies?t302=2021-09-20_04-32-19&uuid=2aca1c23-a951-4fd5-8995-3a55fce534a3
-
-
-
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",THATS 70sFM 
 http://los.cdnstream.com/1101_128
 
