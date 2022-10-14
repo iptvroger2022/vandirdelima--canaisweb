@@ -908,9 +908,6 @@ http://s3.voscast.com:10038//;stream.mp3
 https://radio2.vip-radios.fm:18039/stream-192kmp3-BaySmoothJazz
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",FAUSTEK CLASS
-http://78.129.139.48:8084/;stream.mp3
-
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",MUSICLASSICAL
 http://s3.voscast.com:10018/;stream/1
@@ -918,10 +915,6 @@ http://s3.voscast.com:10018/;stream/1
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",CLASSIC 100.9FM
 https://media-ice.musicradio.com/ClassicFMMP3
-
-
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/25058466cc8e137b9f38771b8fa4f174.jpg" group-title="RÁDIOS",BPM FM 
-https://player.xcast.com.br/proxy/9594
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",RÁDIO HERTZ
@@ -1028,6 +1021,10 @@ https://listen.181fm.com/181-reggae_128k.mp3
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",REGGAECITY
 https://s9.voscast.com:7729/stream
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/25058466cc8e137b9f38771b8fa4f174.jpg" group-title="RÁDIOS",BPM FM 
+https://player.xcast.com.br/proxy/9594
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/186055cbf0a0efa02faceaa0c6ba83a8.jpg" group-title="RÁDIOS",MEGAHITS
