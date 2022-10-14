@@ -993,13 +993,24 @@ https://ais-edge08-live365-dal02.cdnstream.com/a64799
 https://s23.maxcast.com.br:8118/live
 
 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",B4B DISCOFANK
+https://eu10.fastcast4u.com:8120/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",TROPICAL100
+https://servidor32.brlogic.com:8198/live
+
+
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",ITALIADANCE
 http://91.121.118.99:8032//;stream.mp3
 
 
-
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",USADANCE
 https://livessl.rcast.net/stream/66780
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",DANCEMIX USA
+https://ais-sa3.cdnstream1.com/1366_128.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",PLANETADANCE
@@ -1010,8 +1021,7 @@ https://livessl.rcast.net/stream/66780
 https://ais-sa2.cdnstream1.com/1373_128
 
 
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",TOTALHITSDANCE
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RADIODENCE
 https://servidor32.brlogic.com:8198/live
 
 
@@ -1085,9 +1095,8 @@ https://manager.conceptradio.fr:1185/stream
 http://stm9.srvstm.com:13544//;stream.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SAUDADE
-https://stream-48.zeno.fm/xt7hzq0nshruv?zs=sxIuSsBaRA6g3SHqF5sIGw
-
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOUTODISCO 70
+https://centova5.transmissaodigital.com:20013/;stream.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",REMIX 70
@@ -1102,6 +1111,9 @@ https://1-oldies.stream.laut.fm/1-oldies?t302=2021-09-20_04-32-19&uuid=2aca1c23-
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",THATS 70sFM 
 http://los.cdnstream.com/1101_128
 
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SAUDADE
+https://stream-48.zeno.fm/xt7hzq0nshruv?zs=sxIuSsBaRA6g3SHqF5sIGw
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/ad8b05586d50a3a4905fd3ee89cdf61b.png" group-title="RÁDIOS",ROUTE66 ROCK
