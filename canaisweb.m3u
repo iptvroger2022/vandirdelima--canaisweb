@@ -1027,13 +1027,17 @@ https://wglt-ice.streamguys1.com/highway309-mp3
 https://listen.181fm.com/181-reggae_128k.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CACOTEO REGGAE
-https://ais-edge08-live365-dal02.cdnstream.com/a64799
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RÁDIO REGGAE
+http://s03.transmissaodigital.com:6788//;stream.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CONEXÃO REGGAE
-https://s23.maxcast.com.br:8118/live
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",181FM REGGAE
+https://listen.181fm.com/181-reggae_128k.mp3
 
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",REGGAECITY
+https://s9.voscast.com:7729/stream
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/186055cbf0a0efa02faceaa0c6ba83a8.jpg" group-title="RÁDIOS",MEGAHITS
@@ -1163,6 +1167,23 @@ http://stm9.srvstm.com:13544//;stream.mp3
 https://stream-48.zeno.fm/xt7hzq0nshruv?zs=sxIuSsBaRA6g3SHqF5sIGw
 
 
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/684a95e68b0462a77181063bbf55ed53.jpg" group-title="RÁDIOS",181FM COUNTRY
+https://listen.181fm.com/181-90scountry_128k.mp3
+
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",NASH FM 106.5
+https://17553.live.streamtheworld.com/WLFFFMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=8def231b-7f9d-4cb4-b183-9d17e818fef3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",NASH WSM FM
+https://19313.live.streamtheworld.com/WWSMFMAAC.aac
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",WRVK 1460
+http://147.135.84.28/wrvk-am
+
+
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/ad8b05586d50a3a4905fd3ee89cdf61b.png" group-title="RÁDIOS",ROUTE66 ROCK
 https://servidor32.brlogic.com:8056/live
 
@@ -1215,10 +1236,6 @@ https://radio.metal-invasion.fr/radio/8000/stream.mp3
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",METAL SINFÔNICO
 https://stream.vagalume.fm/hls/1477592024431906/aac.m3u8
-
-
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/684a95e68b0462a77181063bbf55ed53.jpg" group-title="RÁDIOS",181FM COUNTRY
-https://listen.181fm.com/181-90scountry_128k.mp3
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/e1b5f32ee15abeb232e2e3655a8e353e.jpg" group-title="RÁDIOS",K-JOE 106.1FM
