@@ -993,12 +993,27 @@ https://ais-edge08-live365-dal02.cdnstream.com/a64799
 https://s23.maxcast.com.br:8118/live
 
 
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",181FM THEBUZZ
+https://listen.181fm.com/181-buzz_128k.mp3
+
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CLUB SOUNDZ
+https://manager.conceptradio.fr:1185/stream
+
+
+
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",B4B DISCOFANK
 https://eu10.fastcast4u.com:8120/;stream.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",TROPICAL100
 https://servidor32.brlogic.com:8198/live
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",IBIZADANCE
+https://radio2.vip-radios.fm:18021/stream-128kmp3-IbizaDance
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",ITALIADANCE
@@ -1037,8 +1052,6 @@ https://servidor32.brlogic.com:8198/live
 https://stream-47.zeno.fm/f2qdea6zheruv?zs=DCWdWyDFQCCUHjHtoXVLcQ
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",IBIZADANCE
-https://radio2.vip-radios.fm:18021/stream-128kmp3-IbizaDance
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/eaab7148ba2deb9c592d20c535e24dd5.jpg" group-title="RÁDIOS",MUSIC 2000
@@ -1085,12 +1098,6 @@ https://ssl.xcast.com.br:6864/stream/;stream.mp3
 https://s35.maxcast.com.br:8074/live
 
 
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CLUB SOUNDZ
-https://manager.conceptradio.fr:1185/stream
-
-
-
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/60bfd8dcd44e834be6ee4bd39f9e8b59.png" group-title="RÁDIOS",FLASHBACK
 http://stm9.srvstm.com:13544//;stream.mp3
 
@@ -1118,11 +1125,6 @@ https://stream-48.zeno.fm/xt7hzq0nshruv?zs=sxIuSsBaRA6g3SHqF5sIGw
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/ad8b05586d50a3a4905fd3ee89cdf61b.png" group-title="RÁDIOS",ROUTE66 ROCK
 https://servidor32.brlogic.com:8056/live
-
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",181FM THEBUZZ
-https://listen.181fm.com/181-buzz_128k.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",ROCK FMBRASIL
