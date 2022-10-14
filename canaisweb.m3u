@@ -994,6 +994,14 @@ https://s23.maxcast.com.br:8118/live
 
 
 
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/186055cbf0a0efa02faceaa0c6ba83a8.jpg" group-title="RÁDIOS",MEGAHITS
+https://ssl.xcast.com.br:6864/stream/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/6bfd302dfb2a99639f8fec96e3b554f9.png" group-title="RÁDIOS",SUPERHITS
+https://s35.maxcast.com.br:8074/live
+
+
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",181FM THEBUZZ
 https://listen.181fm.com/181-buzz_128k.mp3
 
@@ -1102,14 +1110,6 @@ https://sonicpanel.oficialserver.com/9968//;stream.mp3
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",THATS 70sFM 
 http://los.cdnstream.com/1101_128
-
-
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/186055cbf0a0efa02faceaa0c6ba83a8.jpg" group-title="RÁDIOS",MEGAHITS
-https://ssl.xcast.com.br:6864/stream/;stream.mp3
-
-
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/6bfd302dfb2a99639f8fec96e3b554f9.png" group-title="RÁDIOS",SUPERHITS
-https://s35.maxcast.com.br:8074/live
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/60bfd8dcd44e834be6ee4bd39f9e8b59.png" group-title="RÁDIOS",FLASHBACK
