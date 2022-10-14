@@ -1082,12 +1082,26 @@ http://stm27.xcast.com.br:10120/;stream.mp3
 https://hts03.kshost.com.br:9416/live/;stream.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RADIOBOOGIE
-https://srv4.radioup.net/radio/8000/stream	
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOUTODISCO 70
+https://centova5.transmissaodigital.com:20013/;stream.mp3
+
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",VOYAGE 70-80
 https://stream-51.zeno.fm/q6p6v39ygchvv?zs=DPR0KoV_SFW8XJ8XY9mJOw
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RADIOBOOGIE
+https://srv4.radioup.net/radio/8000/stream	
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",REMIX 70
+https://sonicpanel.oficialserver.com/9968//;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",THATS 70sFM 
+http://los.cdnstream.com/1101_128
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/186055cbf0a0efa02faceaa0c6ba83a8.jpg" group-title="RÁDIOS",MEGAHITS
@@ -1101,17 +1115,6 @@ https://s35.maxcast.com.br:8074/live
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/60bfd8dcd44e834be6ee4bd39f9e8b59.png" group-title="RÁDIOS",FLASHBACK
 http://stm9.srvstm.com:13544//;stream.mp3
 
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOUTODISCO 70
-https://centova5.transmissaodigital.com:20013/;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",REMIX 70
-https://sonicpanel.oficialserver.com/9968//;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",THATS 70sFM 
-http://los.cdnstream.com/1101_128
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",SAUDADE
