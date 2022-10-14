@@ -892,6 +892,34 @@ https://cdn.tcncountry.net/scte35_aws/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOFT INSTR
+http://station.radionanet.com:6012/1
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",GOLD INSTR
+https://centova.svdns.com.br:19373/stream/1//;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",BEAUTIFUL INSTR
+http://s3.voscast.com:10038//;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",INSTR SMOOTH JAZZ
+https://radio2.vip-radios.fm:18039/stream-192kmp3-BaySmoothJazz
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",FAUSTEK CLASS
+http://78.129.139.48:8084/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",MUSICLASSICAL
+http://s3.voscast.com:10018/;stream/1
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CLASSIC 100.9FM
+https://media-ice.musicradio.com/ClassicFMMP3
+
+
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/25058466cc8e137b9f38771b8fa4f174.jpg" group-title="RÁDIOS",BPM FM 
 https://player.xcast.com.br/proxy/9594
 
@@ -934,11 +962,6 @@ https://centova5.transmissaodigital.com:20032/;stream.mp3
 https://player.srvsh.com.br/proxy/6966
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/bb784200cc21c1467a2cc2543a920914.jpg" group-title="RÁDIOS",JOVEM GUARDA
-http://srv1.cordeiroplasticos.com.br:7022//;stream.mp3
-
-
-
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOUTO VERSÃO BR
 https://centova5.transmissaodigital.com:20043/;stream.mp3
 
@@ -947,50 +970,12 @@ https://centova5.transmissaodigital.com:20043/;stream.mp3
 https://centova5.transmissaodigital.com:20010/;stream.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",BREEZE FM
-https://streamingv2.shoutcast.com/TheBreez
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",BOSSA NOVA 
+https://stream-54.zeno.fm/ctphz1qknxhvv?zs=BBMNLTfUQq2Tcd_wTMzMkg
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",OUROVERDE FM
-https://servidor18.brlogic.com:7484/live
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SOFT INSTR
-http://station.radionanet.com:6012/1
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",GOLD INSTR
-https://centova.svdns.com.br:19373/stream/1//;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",BEAUTIFUL INSTR
-http://s3.voscast.com:10038//;stream.mp3
-
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",FAUSTEK CLASS
-http://78.129.139.48:8084/;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",MUSICLASSICAL
-http://s3.voscast.com:10018/;stream/1
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",100CREATEST CLASS
-https://giorgia.radiobellissima.it/radio/8140/radio.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CLASSIC 100.9FM
-https://media-ice.musicradio.com/ClassicFMMP3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",100CREATEST JAZZ
-http://mpc.mediacp.eu:8566/stream/;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",BIGBAND LAND
-https://pureplay.cdnstream1.com/6004_128.mp3
-
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",BOSSA NOVA BR
+http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",JP.BOSSA NOVA
@@ -999,6 +984,11 @@ http://6d9a.webradio.upx.net.br:9974/stream
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",BOSSA JAZZ BR
 https://centova5.transmissaodigital.com:20104//;stream.mp3
+
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",100CREATEST JAZZ
+http://mpc.mediacp.eu:8566/stream/;stream.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",BAYSMOOTH JAZZ
@@ -1165,6 +1155,12 @@ http://stm9.srvstm.com:13544//;stream.mp3
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",SAUDADE
 https://stream-48.zeno.fm/xt7hzq0nshruv?zs=sxIuSsBaRA6g3SHqF5sIGw
+
+
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",OUROVERDE FM
+https://servidor18.brlogic.com:7484/live
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/684a95e68b0462a77181063bbf55ed53.jpg" group-title="RÁDIOS",181FM COUNTRY
