@@ -993,31 +993,42 @@ https://ais-edge08-live365-dal02.cdnstream.com/a64799
 https://s23.maxcast.com.br:8118/live
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/186055cbf0a0efa02faceaa0c6ba83a8.jpg" group-title="RÁDIOS",MEGAHITS
-https://ssl.xcast.com.br:6864/stream/;stream.mp3
-
-
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/6bfd302dfb2a99639f8fec96e3b554f9.png" group-title="RÁDIOS",SUPERHITS
-https://s35.maxcast.com.br:8074/live
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ITALIADANCE
+http://91.121.118.99:8032//;stream.mp3
 
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",EURODANCE
-https://daydeeeurodance.stream.laut.fm/daydeeeurodance?t302=2021-09-15_00-46-04&uuid=9fa08e97-6a81-48e4-a333-1728e7252ef3
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",USADANCE
+https://livessl.rcast.net/stream/66780
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CLUB SOUNDZ
-https://manager.conceptradio.fr:1185/stream
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",PLANETADANCE
+https://livessl.rcast.net/stream/66780
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",EDM DANCE
+https://ais-sa2.cdnstream1.com/1373_128
 
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",DISCOTAPE
-http://stm27.xcast.com.br:10120/;stream.mp3
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",TOTALHITSDANCE
+https://servidor32.brlogic.com:8198/live
 
 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",TOTALHITSDANCE
+https://stream-47.zeno.fm/f2qdea6zheruv?zs=DCWdWyDFQCCUHjHtoXVLcQ
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/60bfd8dcd44e834be6ee4bd39f9e8b59.png" group-title="RÁDIOS",FLASHBACK
-http://stm9.srvstm.com:13544//;stream.mp3
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",NEXUSDANCE
+https://servidor32.brlogic.com:8198/live
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",MIXBALADA
+https://stream-47.zeno.fm/f2qdea6zheruv?zs=DCWdWyDFQCCUHjHtoXVLcQ
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",IBIZADANCE
+https://radio2.vip-radios.fm:18021/stream-128kmp3-IbizaDance
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/eaab7148ba2deb9c592d20c535e24dd5.jpg" group-title="RÁDIOS",MUSIC 2000
@@ -1030,12 +1041,53 @@ http://hts06.kshost.com.br:11900/;stream.mp3
 
 
 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",EURODANCE 90
+http://listen1.myradio24.com:9000/5967
+
+
 #EXTINF:0 tvg-logo="http://stm18.srvstm.com:6096/;stream.mp3" group-title="RÁDIOS",DANCEBEM 70-90
 http://stm18.srvstm.com:6096/;stream.mp3
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/a78bfdb9fa317986235e295345f8a11c.jpg" group-title="RÁDIOS",TOP 80
-https://s4.radioforge.com:7669//;stream.mp3
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",DISCOTAPE
+http://stm27.xcast.com.br:10120/;stream.mp3
+
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",HOT BOOGIE
+https://hts03.kshost.com.br:9416/live/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RADIOBOOGIE
+https://srv4.radioup.net/radio/8000/stream	
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",VOYAGE 70-80
+https://stream-51.zeno.fm/q6p6v39ygchvv?zs=DPR0KoV_SFW8XJ8XY9mJOw
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/186055cbf0a0efa02faceaa0c6ba83a8.jpg" group-title="RÁDIOS",MEGAHITS
+https://ssl.xcast.com.br:6864/stream/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/6bfd302dfb2a99639f8fec96e3b554f9.png" group-title="RÁDIOS",SUPERHITS
+https://s35.maxcast.com.br:8074/live
+
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CLUB SOUNDZ
+https://manager.conceptradio.fr:1185/stream
+
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/60bfd8dcd44e834be6ee4bd39f9e8b59.png" group-title="RÁDIOS",FLASHBACK
+http://stm9.srvstm.com:13544//;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SAUDADE
+https://stream-48.zeno.fm/xt7hzq0nshruv?zs=sxIuSsBaRA6g3SHqF5sIGw
+
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",REMIX 70
@@ -1046,13 +1098,14 @@ https://sonicpanel.oficialserver.com/9968//;stream.mp3
 https://1-oldies.stream.laut.fm/1-oldies?t302=2021-09-20_04-32-19&uuid=2aca1c23-a951-4fd5-8995-3a55fce534a3
 
 
-#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/ad8b05586d50a3a4905fd3ee89cdf61b.png" group-title="RÁDIOS",ROUTE66 ROCK
-https://servidor32.brlogic.com:8056/live
-
-
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",THATS 70sFM 
 http://los.cdnstream.com/1101_128
+
+
+
+#EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/ad8b05586d50a3a4905fd3ee89cdf61b.png" group-title="RÁDIOS",ROUTE66 ROCK
+https://servidor32.brlogic.com:8056/live
 
 
 
