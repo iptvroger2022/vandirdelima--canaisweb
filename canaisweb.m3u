@@ -352,9 +352,6 @@ https://stmv1.srvstm.com/tiago4617/tiago4617/chunklist_w1451480741.m3u8
 #EXTINF:0 tvg-logo="" group-title="",#### VARIEDADES ####
 
 
-#EXTINF:0 tvg-logo="" group-title="",NPC
-https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w1042708165.m3u8
-
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0048ba30afe4808a9a7ed1722c22b994.png" group-title="VARIEDADES", MON 
 https://srv1.zcast.com.br/tvmon/tvmon/chunklist_w1603955057.m3u8
@@ -885,6 +882,11 @@ https://edge2.tikilive.com/unrestricted_tikilive/57785/amlst:dnwgXOywj4D7/playli
 https://cdn.tcncountry.net/scte35_aws/tracks-v1a1/mono.m3u8
 
 
+
+
+#EXTINF:0 tvg-logo="" group-title="MUSICA",NPC
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w1042708165.m3u8
+
 ########################################################
 ##################### MUSICAL RÁDIOS ###################
 ########################################################
@@ -907,6 +909,17 @@ http://s3.voscast.com:10038//;stream.mp3
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",INSTR SMOOTH JAZZ
 https://radio2.vip-radios.fm:18039/stream-192kmp3-BaySmoothJazz
 
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RSRADIO
+https://s01.maxcast.com.br:8130/live?id=630212365760
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ARTEVIVA INSTR
+https://hts09.kshost.com.br:11594/live/;stream.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",COQUEIRO
+https://s09.maxcast.com.br:8190/live
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",MUSICLASSICAL
