@@ -922,10 +922,6 @@ https://stream-37.zeno.fm/00rt0rdm7k8uv?zs=YQgiBjsFRdWgTubYCcvoHA&rj-ttl=5&rj-to
 https://s01.maxcast.com.br:8130/live?id=630212365760
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ARTEVIVA INSTR
-https://hts09.kshost.com.br:11594/live/;stream.mp3
-
-
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",MUSICLASSICAL
 http://s3.voscast.com:10018/;stream/1
 
@@ -1010,6 +1006,12 @@ https://giorgia.radiobellissima.it/radio/8120/radio.mp3
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",COQUEIROPRAIA
 https://s09.maxcast.com.br:8190/live
+
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ARTEVIVA 
+https://hts09.kshost.com.br:11594/live/;stream.mp3
+
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/4135812648b2554b8459910d528c0c41.jpg" group-title="RÁDIOS",BLUES ATHENS
