@@ -906,8 +906,16 @@ https://centova.svdns.com.br:19373/stream/1//;stream.mp3
 http://s3.voscast.com:10038//;stream.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",INSTR SMOOTH JAZZ
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",BAYSMOOTHJAZZ INSTR
 https://radio2.vip-radios.fm:18039/stream-192kmp3-BaySmoothJazz
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SMOOTHJAZZLUXE INSTR
+https://mpc1.mediacp.eu/stream/smoothjazzdeluxe/stream
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",SMOOTHJAZZ INSTR
+https://stream-37.zeno.fm/00rt0rdm7k8uv?zs=YQgiBjsFRdWgTubYCcvoHA&rj-ttl=5&rj-tok=AAABd7dwP1UA-HPECQ1mxuNaLA
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",RSRADIO
@@ -918,16 +926,16 @@ https://s01.maxcast.com.br:8130/live?id=630212365760
 https://hts09.kshost.com.br:11594/live/;stream.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",COQUEIRO
-https://s09.maxcast.com.br:8190/live
-
-
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",MUSICLASSICAL
 http://s3.voscast.com:10018/;stream/1
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",CLASSIC 100.9FM
 https://media-ice.musicradio.com/ClassicFMMP3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",FAUSTEX CLASSIC
+http://78.129.139.48:8084/;stream.mp3
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",RÁDIO HERTZ
@@ -992,13 +1000,16 @@ http://6d9a.webradio.upx.net.br:9974/stream
 https://centova5.transmissaodigital.com:20104//;stream.mp3
 
 
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RIOVERDE JAZZ
+http://paineldj5.com.br:8147/stream
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",100CREATEST JAZZ
-http://mpc.mediacp.eu:8566/stream/;stream.mp3
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",JAZZLOUNGEBAR
+https://giorgia.radiobellissima.it/radio/8120/radio.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",BAYSMOOTH JAZZ
-https://radio2.vip-radios.fm:18039/stream-192kmp3-BaySmoothJazz
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",COQUEIROPRAIA
+https://s09.maxcast.com.br:8190/live
 
 
 #EXTINF:0 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/4135812648b2554b8459910d528c0c41.jpg" group-title="RÁDIOS",BLUES ATHENS
