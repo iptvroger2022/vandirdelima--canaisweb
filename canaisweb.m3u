@@ -463,6 +463,9 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",SBT INT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8ce8f1a9e2406d2acde94e2ac5d0f671.png" group-title="VARIEDADES",SBT PI
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w193816281.m3u8
@@ -494,9 +497,6 @@ https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-XR6Q2CVUGpY/XP8vFvvb_JI/AAAAAAAABBc/NSr20PLxk6gG0w-Hc6iYY-Akdl_UjczFACPcBGAYYCw/s320/Screenshot_2019-06-11-00-52-56.png" group-title="VARIEDADES",TVCI LITORAL PR
 https://5e837408ea907.streamlock.net:1936/tvci/tvci/chunklist_w1823141722.m3u8
 
-
-#EXTINF:0 tvg-logo="" group-title="VARIEDADES",GLOBO
-https://live-rpc-pr-06.video.globo.com/d/s/hls-globo-cur/hls-globo-cur_2359/playlist.m3u8
 
 ##################NOTICIAS ###################
 
