@@ -438,8 +438,20 @@ http://200.189.113.201/hls/tve.m3u8
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b3559796c3af8698f1de6163c34454cb.jpg" group-title="VARIEDADES",CATVE PR
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1912280323.m3u8
 
+
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",TV BRASIL
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjk7z1cwM-aSFpTthHDtoHj46OieHyFkUiVraNQECs-h)/dm/3/x82pp99/d/live-2.m3u8#cell=lnyc
+
+
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES",CULTURA (GUARÁ)
 https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w488754077.m3u8
+
+
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",BAND
+https://stream-02.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm49I-ypzMLT6n-Ob8rHFkbo5-ZoZwr1-qTRwg2bq_-7MN)/dm/3/x83vbd6/s/live-3.m3u8#cell=lnyc
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="VARIEDADES",BAND PA
@@ -447,8 +459,14 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8ce8f1a9e2406d2acde94e2ac5d0f671.png" group-title="VARIEDADES",SBT PIAUI
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",SBT SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8ce8f1a9e2406d2acde94e2ac5d0f671.png" group-title="VARIEDADES",SBT PI
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w193816281.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="VARIEDADES", RECORD SC
@@ -459,8 +477,10 @@ https://caikron.com.br:19360/floripa/floripa.m3u8
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
 
 
+
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES",RECORD MG 
 https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
+
 
 
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES",REDETV PB
@@ -475,6 +495,8 @@ https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
 https://5e837408ea907.streamlock.net:1936/tvci/tvci/chunklist_w1823141722.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",GLOBO
+https://live-rpc-pr-06.video.globo.com/d/s/hls-globo-cur/hls-globo-cur_2359/playlist.m3u8
 
 ##################NOTICIAS ###################
 
