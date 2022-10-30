@@ -87,10 +87,17 @@ https://stmv1.srvif.com/channel1/channel1/chunklist_w192471995.m3u8
 https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
 
 
-
-
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/s320/Screenshot_2019-06-20-21-12-40.png" group-title="FILMES SÉRIES",JSID
 https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LASS
+https://tv02.zas.media:1936/lasstv/lasstv/chunklist_w574669255.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",GLN
+https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w757904335.m3u8
 
 
 
@@ -119,14 +126,6 @@ https://srv1.paineldevideo.com/encaucafm/encaucafm/chunklist_w55789487.m3u8
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-jGLoFHYizBU/XvP9YTPEZuI/AAAAAAAADDA/3zgVhWsfXv4v5pIKW5O0-1-NdMEYv9kZQCLcBGAsYHQ/s320/2020-06-24%2B22.12.15.png" group-title="FILMES SÉRIES",TVSUL 
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LASS
-https://tv02.zas.media:1936/lasstv/lasstv/chunklist_w574669255.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",GLN
-https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w757904335.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AWTV
