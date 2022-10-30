@@ -14,11 +14,11 @@ http://los.cdnstream.com/1101_128
 https://ssl.srvstm.com:8212/;stream.mp3
 
 
-#EXTINF:0 group-title="CONTATO",PSICANALISTA ONLINE
+#EXTINF:0 group-title="CONTATO",PSICANALISE ONLINE
 https://listen.181fm.com/181-hardrock_128k.mp3
 
 
-#EXTINF:0 group-title="CONTATO",-41-99188.4160 
+#EXTINF:0 group-title="CONTATO",41-99188.4160 
 https://node-04.zeno.fm/wmb9se6bseruv?rj-ttl=5&rj-tok=AAABe2cheBoA4ghTh_s5MlsWzA
 
 
@@ -40,29 +40,38 @@ https://servidor16-3.brlogic.com:7614/live
 
 
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-6Q_s4tbCd7M/XryzwCYcJGI/AAAAAAAACyk/cMTBHT_RNWA2Um6gcRlrh2RSf9v0KxJAwCLcBGAsYHQ/s320/Screenshot_2020-05-13-23-48-42.png"group-title="ANIMECARTOON",RETRO CARTOON
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-6Q_s4tbCd7M/XryzwCYcJGI/AAAAAAAACyk/cMTBHT_RNWA2Um6gcRlrh2RSf9v0KxJAwCLcBGAsYHQ/s320/Screenshot_2020-05-13-23-48-42.png"group-title="CARTOON",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w318448940.m3u8
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0Iq6wbVRaAg/YFDNyFtWiqI/AAAAAAAAEZk/N-oqR72a8Qsc5_0zN7DpoBalbUuienn-gCLcBGAsYHQ/s0/JETSONS%2BTV.png" group-title="ANIMECARTOON",JETSONS
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0Iq6wbVRaAg/YFDNyFtWiqI/AAAAAAAAEZk/N-oqR72a8Qsc5_0zN7DpoBalbUuienn-gCLcBGAsYHQ/s0/JETSONS%2BTV.png" group-title="CARTOON",JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w279459319.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s320/Screenshot_2019-06-21-15-12-44.png"group-title="ANIMECARTOON",GOSPEL CARTOON
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s320/Screenshot_2019-06-21-15-12-44.png"group-title="CARTOON",GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="ANIMECARTOON",ANIME 
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="CARTOON",ANIME 
 https://stmv1.srvif.com/animetv/animetv/chunklist_w617070452.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="ANIMECARTOON",CONTV
+#EXTINF:0 tvg-logo="" group-title="CARTOON",CONTV
 https://contvanime-plex-ingest.cinedigm.com/masterR1080p.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="ANIMECARTOON",ANITV
+#EXTINF:0 tvg-logo="" group-title="CARTOON",ANITV
 https://tv01.livemustv.com.br/livemustv1358/livemustv1358/chunklist_w469658989.m3u8
 
+
+
+#EXTINF:0 tvg-logo="" group-title="CARTOON",MANCHETE
+https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/chunklist_w959038302.m3u8
+
+
+
+#EXTINF:0 tvg-logo="" group-title="CARTOON",LOADING
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1224704461.m3u8
 
 
 
@@ -243,21 +252,14 @@ https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/chunklist_w478706324.m3u8
 https://srv5.zcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MANCHETE
-https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/chunklist_w959038302.m3u8
-
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LOADING
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1224704461.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",HITSTV
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",3PASSOS
-https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/chunklist_w443210537.m3u8
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ULBTV
+https://tv01.livemustv.com.br/livemustv8590/livemustv8590/playlist.m3u8
+
+
 
 ############## FILMES e VARIEDADES ############
 #EXTINF:0 tvg-logo="" group-title="",## FILMES E VARIEDADES ##
