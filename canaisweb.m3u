@@ -316,15 +316,6 @@ https://stmv1.srvif.com/tvrevista/tvrevista/chunklist_w1543990302.m3u8
 https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1299121312.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLUBWEB
-https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w365439755.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-uFUJMSnjUKA/YNioqLvHZYI/AAAAAAAAE74/4NyA0_hMLNElHVxQMWUTitdFb3W5MbbzACLcBGAsYHQ/s0/TV%2BRIO%2BGRANDE.png" group-title="FILMES SÉRIES",RIO GRANDE
-https://stmv1.srvif.com/tvriogrande/tvriogrande/chunklist_w1806433696.m3u8
-
-
 
 #EXTINF:0 tvg-logo="https://pa.srvsite.com/arquivos/3541/cabecalho-3541-20180609200716.png"group-title="FILMES SÉRIES", ARACATI
 https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
@@ -336,35 +327,8 @@ https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1906819755.m3u8
 
 
 
-
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-LD36niJFGDE/YC6XNzyao8I/AAAAAAAAETQ/pUqePw9UBN4Rhi7Q-yfti0GaOeWzAB9CACLcBGAsYHQ/s0/TV%2BWTJMINAS.png" group-title="FILMES SÉRIES",WTJ MINAS
 https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/chunklist_w1405490315.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-TGSGVdZZOoc/X9WNLXJ_o7I/AAAAAAAAD-M/cX7eVto2L-E9ZSeHh0Z4QCPPkN9eFx1ugCLcBGAsYHQ/s0/TV%2BNAZA.png" group-title="FILMES SÉRIES", NAZA
-https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV LAGOA
-https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w1262479325.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ECOVALE
-https://livefocamundo.com:8081/tvecovale/index.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",YELLOW
-https://serv3.videovox.pw/gilferson4004/gilferson4004/chunklist_w1951483569.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",RABELO
-https://cdn.jmvstream.com/w/AVJ-10593/playlist/playlist.m3u8
-
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SONATA
-https://stmv1.srvstm.com/tiago4617/tiago4617/chunklist_w1451480741.m3u8
 
 
 ################ VARIEDADES  ####################
