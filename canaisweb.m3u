@@ -207,8 +207,7 @@ https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w500798363.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLÁSSICOS
-https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
-
+https://stmv1.srvif.com/masterdancer/masterdancer/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CARAVANAPLAY
 https://stmv5.samcast.com.br/keynnidouglas9516/keynnidouglas9516/chunklist_w1203557173.m3u8
@@ -319,11 +318,6 @@ https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1299121312.m3u8
 
 #EXTINF:0 tvg-logo="https://pa.srvsite.com/arquivos/3541/cabecalho-3541-20180609200716.png"group-title="FILMES SÉRIES", ARACATI
 https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7515ca2d1bf2c4d20cce62a10b9f4b8e.png" group-title="FILMES SÉRIES", JAPI 
-https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1906819755.m3u8
 
 
 
