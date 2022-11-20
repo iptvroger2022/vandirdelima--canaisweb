@@ -310,12 +310,12 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
 https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",PLEX
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",GRINGO
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489bc190b96ef5e0eb327c.m3u8?includeAllStreams=1&X-Plex-Token=17LnaP27S1JzJUbGyknm
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",PLEX2
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489bc190b96ef5e0eb327c.m3u8
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINDIE
+https://stream.ads.ottera.tv/cl/ca2a76ec-afd7-468e-9b40-92de19b96873/1280x720_3071200_0_f.m3u8
 
 ################ VARIEDADES  ####################
 #EXTINF:0 tvg-logo="" group-title="",#### VARIEDADES ####
