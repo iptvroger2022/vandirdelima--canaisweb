@@ -10,20 +10,28 @@
 #EXTINF:0 group-title="CONTATO",CONTATO WHATSAPP
 http://los.cdnstream.com/1101_128
 
+
 #EXTINF:0 group-title="CONTATO",FALE SOBRE A LISTA
 https://ssl.srvstm.com:8212/;stream.mp3
-
-
-#EXTINF:0 group-title="CONTATO",PSICANALISE ONLINE
-https://listen.181fm.com/181-hardrock_128k.mp3
 
 
 #EXTINF:0 group-title="CONTATO",41-99188.4160 
 https://node-04.zeno.fm/wmb9se6bseruv?rj-ttl=5&rj-tok=AAABe2cheBoA4ghTh_s5MlsWzA
 
 
-#EXTINF:0 group-title="CONTATO",
+#EXTINF:0 group-title="CONTATO",TERAPIA ONLINE
 http://199.195.194.94:8103/stream/;stream.mp3
+
+#EXTINF:0 group-title="CONTATO",TERAPEUTA ONLINE
+http://199.195.194.94:8103/stream/;stream.mp3
+
+#EXTINF:0 group-title="CONTATO",PSICANALISTA ONLINE
+https://listen.181fm.com/181-hardrock_128k.mp3
+
+
+#EXTINF:0 group-title="CONTATO",vandirdelima@gmail.com
+https://servidor16-3.brlogic.com:7614/live
+
 
 #EXTINF:0 group-title="CONTATO",
 http://199.195.194.140:8300//;stream.mp3
@@ -32,8 +40,6 @@ http://199.195.194.140:8300//;stream.mp3
 #EXTINF:0 group-title="CONTATO",
 http://streaming15.hstbr.net:8288/autodj
 
-#EXTINF:0 group-title="CONTATO",vandirdelima@gmail.com
-https://servidor16-3.brlogic.com:7614/live
 
 ###################### CARTOONS  #####################
 #EXTINF:0 tvg-logo=""group-title="",#### ANIMECARTOON ####
@@ -91,6 +97,9 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1212094222.m3u8
 https://stmv1.srvif.com/channel1/channel1/chunklist_w192471995.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LASS
+https://tv02.zas.media:1936/lasstv/lasstv/chunklist_w574669255.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLC 
 https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
@@ -101,9 +110,6 @@ https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LASS
-https://tv02.zas.media:1936/lasstv/lasstv/chunklist_w574669255.m3u8
-
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",GLN
 https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w757904335.m3u8
@@ -113,6 +119,9 @@ https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjo
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",IMPERIAL
 https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w609975464.m3u8
 
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AWTV
+https://cast.ebosystems.com.br:19360/awtv/awtv.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b6989c697a1327a22d41bf4ff435320b.jpg" group-title="FILMES SÉRIES",VILA 
@@ -135,15 +144,6 @@ https://srv1.paineldevideo.com/encaucafm/encaucafm/chunklist_w55789487.m3u8
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-jGLoFHYizBU/XvP9YTPEZuI/AAAAAAAADDA/3zgVhWsfXv4v5pIKW5O0-1-NdMEYv9kZQCLcBGAsYHQ/s320/2020-06-24%2B22.12.15.png" group-title="FILMES SÉRIES",TVSUL 
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AWTV
-https://cast.ebosystems.com.br:19360/awtv/awtv.m3u8
-
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",DUEMUNDI
-https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",FRONTEIRA
@@ -216,10 +216,11 @@ https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w500798363.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLÁSSICOS
-https://stmv1.srvif.com/masterdancer/masterdancer/playlist.m3u8
+https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CARAVANAPLAY
-https://stmv5.samcast.com.br/keynnidouglas9516/keynnidouglas9516/chunklist_w1203557173.m3u8
+https://srv4.zcast.com.br/keynnidouglas9516/keynnidouglas9516/chunklist_w253989987.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-d-mnTNCYp_I/X77N431tLcI/AAAAAAAAD28/BGqvxaVveZQtW-eArJwOuarVS2YEQ5kZACLcBGAsYHQ/s0/BONS%2BTEMPOS%2BTV.png" group-title="FILMES SÉRIES",BONS TEMPOS
@@ -254,10 +255,6 @@ https://srv5.zcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",HITSTV
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ULBTV
-https://tv01.livemustv.com.br/livemustv8590/livemustv8590/playlist.m3u8
 
 
 
@@ -304,27 +301,10 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1138149130.m3u8
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ALIANÇA
-https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
-
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",REVISTA
-https://stmv1.srvif.com/tvrevista/tvrevista/chunklist_w1543990302.m3u8
-
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",XPLUS
 https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1299121312.m3u8
 
-
-
-#EXTINF:0 tvg-logo="https://pa.srvsite.com/arquivos/3541/cabecalho-3541-20180609200716.png"group-title="FILMES SÉRIES", ARACATI
-https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-LD36niJFGDE/YC6XNzyao8I/AAAAAAAAETQ/pUqePw9UBN4Rhi7Q-yfti0GaOeWzAB9CACLcBGAsYHQ/s0/TV%2BWTJMINAS.png" group-title="FILMES SÉRIES",WTJ MINAS
-https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/chunklist_w1405490315.m3u8
 
 
 ################ VARIEDADES  ####################
@@ -334,12 +314,6 @@ https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/chunklist_w14054903
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0048ba30afe4808a9a7ed1722c22b994.png" group-title="VARIEDADES", MON 
 https://srv1.zcast.com.br/tvmon/tvmon/chunklist_w1603955057.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.coLm/-1FNIsoc9cWk/YCFMQdNbMyI/AAAAAAAAEPg/XxZ05jL57_I5_uf1HR4O5yo3aJwTLfHlwCLcBGAsYHQ/s0/DEMAIS%2BTV.png" group-title="VARIEDADES",D+TV
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1031390030.m3u8
-
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-bkIyVXLI-CE/YJQQSnIrCBI/AAAAAAAAEo8/Jq71Otdn8-Moc543hw77s7hvS5ss1kMiwCLcBGAsYHQ/s0/BS%2BTV.png" group-title="VARIEDADES",BSTV
@@ -917,10 +891,6 @@ https://mpc1.mediacp.eu/stream/smoothjazzdeluxe/stream
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",SMOOTHJAZZ INSTR
 https://stream-37.zeno.fm/00rt0rdm7k8uv?zs=YQgiBjsFRdWgTubYCcvoHA&rj-ttl=5&rj-tok=AAABd7dwP1UA-HPECQ1mxuNaLA
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",RSRADIO
-https://s01.maxcast.com.br:8130/live?id=630212365760
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",MUSICLASSICAL
