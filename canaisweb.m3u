@@ -257,6 +257,13 @@ https://srv5.zcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",XPLUS
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1299121312.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV LAGOA
+https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w1262479325.m3u8
+
 
 ############## FILMES e VARIEDADES ############
 #EXTINF:0 tvg-logo="" group-title="",## FILMES E VARIEDADES ##
@@ -295,20 +302,22 @@ https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w955663795.m3u8
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1138149130.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ALIANÇA
+https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="FILMES SÉRIES",CENTRALTV 
-https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
-
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",XPLUS
-https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1299121312.m3u8
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",DUE MUNDI
+https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8
 
 
 
 ################ VARIEDADES  ####################
 #EXTINF:0 tvg-logo="" group-title="",#### VARIEDADES ####
+
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="VARIEDADES",CENTRALTV 
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
 
 
 
@@ -322,8 +331,6 @@ https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w484750067.m3u8
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7513d543c8cf7945825a92d76a858f26.jpg" group-title="VARIEDADES",TVSOL
 http://streaming03.zas.media:1935/tvsol/tvsol/chunklist_w61744308.m3u8
-
-
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a6085796633d9278fccb8ca555250aef.jpg" group-title="VARIEDADES", GALEGA 
