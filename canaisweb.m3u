@@ -121,7 +121,7 @@ https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w6099
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AWTV
-https://cast.ebosystems.com.br:19360/awtv/awtv.m3u8
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b6989c697a1327a22d41bf4ff435320b.jpg" group-title="FILMES SÉRIES",VILA 
@@ -161,6 +161,10 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png"group-title="FILMES SÉRIES", PROGRESSO
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w163705624.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TVCLASSICOS
+https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
 
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png"group-title="FILMES SÉRIES",CLASSIQUE 
@@ -253,16 +257,20 @@ https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/chunklist_w478706324.m3u8
 https://srv5.zcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",HITSTV
-https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",XPLUS
 https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1299121312.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV LAGOA
 https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w1262479325.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BRASIL HITS 
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1540966671.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",NGT
+https://ebocast.ebosystems.com.br:3922/live/redengtlive.m3u8
 
 
 ############## FILMES e VARIEDADES ############
@@ -289,11 +297,6 @@ https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w765867555.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-V-kyGlOJJLo/YHnZ5_DOhCI/AAAAAAAAEi8/mvmOxMXf5LEW-bgCqDgQhLI3vOOXo2aagCLcBGAsYHQ/s0/TV%2BPLANALTO%2BNORTE.png" group-title="FILMES SÉRIES",PLANALTO NORTE
-https://video01.logicahost.com.br/tvplanalto/tvplanalto/chunklist_w1879163375.m3u8
-
-
-
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-PiyFwhywwQM/XhjHNxYD4SI/AAAAAAAACWY/SNj6eLf_65sT3fBzTRlXJgPvg0BfkVjjACLcBGAsYHQ/s320/Screenshot_2020-01-10-15-46-42.png" group-title="FILMES SÉRIES",MAISBR 
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w955663795.m3u8
 
@@ -310,16 +313,11 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
 https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",GRINGO
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489bc190b96ef5e0eb327c.m3u8?includeAllStreams=1&X-Plex-Token=17LnaP27S1JzJUbGyknm
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CINDIE
-https://stream.ads.ottera.tv/cl/ca2a76ec-afd7-468e-9b40-92de19b96873/1280x720_3071200_0_f.m3u8
-
 ################ VARIEDADES  ####################
 #EXTINF:0 tvg-logo="" group-title="",#### VARIEDADES ####
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV DIVERSIDADE
+https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/chunklist_w1388974422.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="VARIEDADES",CENTRALTV 
