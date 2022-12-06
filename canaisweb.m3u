@@ -217,11 +217,6 @@ https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w554878438.m3u8
 https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w500798363.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLÁSSICOS
-https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
-
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TVCLASSICOS
 https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
 
@@ -272,10 +267,6 @@ https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w1262479325.m
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1540966671.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",NGT
-https://ebocast.ebosystems.com.br:3922/live/redengtlive.m3u8
-
-
 ############## FILMES e VARIEDADES ############
 #EXTINF:0 tvg-logo="" group-title="",## FILMES E VARIEDADES ##
 
@@ -319,7 +310,15 @@ https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8
 ################ VARIEDADES  ####################
 #EXTINF:0 tvg-logo="" group-title="",#### VARIEDADES ####
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV DIVERSIDADE
+
+
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",NGT
+https://ebocast.ebosystems.com.br:3922/live/redengtlive.m3u8
+
+
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",TV DIVERSIDADE
 https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/chunklist_w1388974422.m3u8
 
 
@@ -465,6 +464,36 @@ https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
 https://5e837408ea907.streamlock.net:1936/tvci/tvci/chunklist_w1823141722.m3u8
 
 
+
+
+#EXTINF:0 tvg-logo="" group-title="",#### GOSPEL ####
+#############################################
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Enl7AUQBwxU/XlQOGaJ0MuI/AAAAAAAACg0/2Md-i_i8HcQW9yE1IEbU7cB100y_3ifzQCLcBGAsYHQ/s320/2020-02-24%2B14.51.15.png" group-title="GOSPEL",CNT
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_180p248k/index.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d8fb419ad2b89ff1302e149a9774bc5.png" group-title="GOSPEL",UNIVERSAL
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_1335d542-ff81-4504-950a-3f114cc082ff.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8aee277c6f0b673837d4a25a9109a177.png" group-title="GOSPEL", NOVO TEMPO
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-53AZAPOU02s/X_CUYPId-BI/AAAAAAAAEFQ/sRGx_Fxm_6UMfT6kAuHbv4WnLvREc3mAACLcBGAsYHQ/s0/TV%2BGERMANA.png" group-title="GOSPEL", GERMANA
+https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklist_w1129428753.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5cfae87cb8a191172ff08ff1b13c3c05.jpg" group-title="GOSPEL",GOSPEL MUSIC
+https://stmv6.srvstm.com/gmusic/gmusic/chunklist_w1118991287.m3u8
+
+
+
 ##################   NOTICIAS  ###################
 
 #EXTINF:0,## NOTICIAS RADIOS ##
@@ -588,41 +617,6 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:0 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="NOTICIAS",NEWSMAXTV 
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-
-
-
-#EXTINF:0 tvg-logo="" group-title="",#### GOSPEL ####
-#############################################
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Enl7AUQBwxU/XlQOGaJ0MuI/AAAAAAAACg0/2Md-i_i8HcQW9yE1IEbU7cB100y_3ifzQCLcBGAsYHQ/s320/2020-02-24%2B14.51.15.png" group-title="GOSPEL",CNT
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_180p248k/index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d8fb419ad2b89ff1302e149a9774bc5.png" group-title="GOSPEL",UNIVERSAL
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_1335d542-ff81-4504-950a-3f114cc082ff.m3u8
-
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8aee277c6f0b673837d4a25a9109a177.png" group-title="GOSPEL", NOVO TEMPO
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-4tlx75RBcj4/YFDQ2ZeMJVI/AAAAAAAAEZo/OQCgzrl5RzYwCQjCqDMhK-lsgV3y6PlYACLcBGAsYHQ/s0/AISH%2BTV%2BBRASIL.png" group-title="GOSPEL",XPLUS 
-https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w389366152.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-53AZAPOU02s/X_CUYPId-BI/AAAAAAAAEFQ/sRGx_Fxm_6UMfT6kAuHbv4WnLvREc3mAACLcBGAsYHQ/s0/TV%2BGERMANA.png" group-title="GOSPEL", GERMANA
-https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklist_w1129428753.m3u8
-
-
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5cfae87cb8a191172ff08ff1b13c3c05.jpg" group-title="GOSPEL",GOSPEL MUSIC
-https://stmv6.srvstm.com/gmusic/gmusic/chunklist_w1118991287.m3u8
-
 
 
 
