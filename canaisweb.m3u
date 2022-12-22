@@ -1,4 +1,4 @@
-#LISTA IPTV GRÁTIS, CANAIS DE FILMES SÉRIES E DESENHOS COM ACESSO LIVRE# #vandirdelima@gmail.com #
+#LISTA IPTV GRÁTIS CANAIS DE FILMES SÉRIES E DESENHOS COM ACESSO LIVRE#  vandirdelima@gmail.com #
 
 
 
@@ -303,7 +303,7 @@ https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="VARIEDADES",CENTRALTV 
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="FILMES SÉRIES",CENTRALTV 
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
 
 
@@ -905,6 +905,11 @@ https://mpc1.mediacp.eu/stream/smoothjazzdeluxe/stream
 https://stream-37.zeno.fm/00rt0rdm7k8uv?zs=YQgiBjsFRdWgTubYCcvoHA&rj-ttl=5&rj-tok=AAABd7dwP1UA-HPECQ1mxuNaLA
 
 
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",W.SOUTHERN FM
+https://streamingv2.shoutcast.com/WUNKSouthernSoulBluesRadio
+
+
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",MUSICLASSICAL
 http://s3.voscast.com:10018/;stream/1
 
@@ -963,6 +968,12 @@ https://centova5.transmissaodigital.com:20043/;stream.mp3
 https://centova5.transmissaodigital.com:20010/;stream.mp3
 
 
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",COQUEIROPRAIA
+https://s09.maxcast.com.br:8190/live
+
+
+
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",BOSSA NOVA 
 https://stream-54.zeno.fm/ctphz1qknxhvv?zs=BBMNLTfUQq2Tcd_wTMzMkg
 
@@ -987,13 +998,26 @@ http://paineldj5.com.br:8147/stream
 https://giorgia.radiobellissima.it/radio/8120/radio.mp3
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",COQUEIROPRAIA
-https://s09.maxcast.com.br:8190/live
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",GOTRADIO BLUES 
+https://pureplay.cdnstream1.com/6004_128.mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",WUCF 89.9FM
+https://peridot.streamguys1.com:7835/WUCF
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",61 BLUES
+http://hts06.kshost.com.br:10182/live/;stream.mp3
 
 
 
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ARTEVIVA 
-https://hts09.kshost.com.br:11594/live/;stream.mp3
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CLT BLUES
+https://wglt-ice.streamguys1.com/highway309-mp3
+
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",MISSISSIPI BLUES
+https://jenny.torontocast.com:2000/stream/amississippiblues/stream
 
 
 
@@ -1001,18 +1025,8 @@ https://hts09.kshost.com.br:11594/live/;stream.mp3
 http://live.bluesradio.gr:8352//;stream.mp3
 
 
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",W.SOUTHERN FM
-https://streamingv2.shoutcast.com/WUNKSouthernSoulBluesRadio
-
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",61 BLUES
-http://hts06.kshost.com.br:10182/live/;stream.mp3
-
-
-#EXTINF:0 tvg-logo="" group-title="RÁDIOS",CLT BLUES
-https://wglt-ice.streamguys1.com/highway309-mp3
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",BLUESWAVE
+https://blueswave.radio:8000/blueswave
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",REGGAE ROOTS
@@ -1190,12 +1204,18 @@ http://147.135.84.28/wrvk-am
 https://servidor32.brlogic.com:8056/live
 
 
+
+#EXTINF:0 tvg-logo="" group-title="RÁDIOS",ARTEVIVA 
+https://hts09.kshost.com.br:11594/live/;stream.mp3
+
+
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",ROCK FMBRASIL
 https://www.autodj.club:8000/stream
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",THE ROCKERS
 http://stm9.xcast.com.br:11850/;stream.mp3
+
 
 
 #EXTINF:0 tvg-logo="" group-title="RÁDIOS",RUN ROCK
