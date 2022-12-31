@@ -112,8 +112,7 @@ https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",GLN
-https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w757904335.m3u8
-
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w2030558459.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",IMPERIAL
@@ -122,10 +121,6 @@ https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w6099
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AWTV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SANJONES
-https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w1766823961.m3u8
 
 
 
@@ -152,21 +147,10 @@ https://srv1.paineldevideo.com/encaucafm/encaucafm/chunklist_w55789487.m3u8
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",FRONTEIRA
-https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w1487374814.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png"group-title="FILMES SÉRIES",GOSPEL MOVIES
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
-
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",FLOUCINE
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/d0ac6727-6614-454b-a3ae-7c60637baeb1/2.m3u8
 
 ########### FILMES SÉRIES CLÁSSICOS  #########
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png"group-title="FILMES SÉRIES", PROGRESSO
-https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w163705624.m3u8
 
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png"group-title="FILMES SÉRIES",CLASSIQUE WESTERN
@@ -270,16 +254,6 @@ https://stmv1.srvif.com/cinepix/cinepix/chunklist_w2128509316.m3u8
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1344776575.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV LAGOA
-https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w1262479325.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BRASIL HITS 
-https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1540966671.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MUNDI
-https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8
-
 ############## FILMES e VARIEDADES ############
 #EXTINF:0 tvg-logo="" group-title="",## FILMES E VARIEDADES ##
 
@@ -319,11 +293,41 @@ https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w955663795.m3u8
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1138149130.m3u8
 
 
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png"group-title="FILMES SÉRIES", PROGRESSO
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w163705624.m3u8
+
+
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ALIANÇA
 https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
 
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ARCERTE
+https://srv1.zcast.com.br/arcertetv/arcertetv/chunklist_w1476722741.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SONATA
 https://stmv1.srvstm.com/tiago4617/tiago4617/chunklist_w1454621499.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CWTV
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w1423781271.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV LAGOA
+https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w1262479325.m3u8
+
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SANJONES
+https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w1766823961.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",FRONTEIRA
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w1487374814.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png"group-title="FILMES SÉRIES",GOSPEL MOVIES
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
 
 
 ################ VARIEDADES  ####################
@@ -383,7 +387,7 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w1883670134.m3u8
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",#### REDES#### 
+#EXTINF:0 tvg-logo="" group-title="",#### REDES #### 
 #########################################
 
 
@@ -616,13 +620,20 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-HukihvtCSF4/Xa44b3MUTJI/AAAAAAAACK0/kqvcXUq9AtQZmTIZ7ykCqLjbpIOvRTglwCLcBGAsYHQ/s320/Screenshot_2019-10-21-19-49-29.png"  group-title="NOTICIAS",ALJAZEERA Ing
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="NOTICIAS",NEWSMAXTV 
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",EURONEWS
+https://stream.ads.ottera.tv/cl/nt8fYiIk376uR2TDwF1KP/1280x720_1500000_0_f.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",PRESSTV
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 
 ############### DOCUMENTÁRIOS ##############
 #EXTINF:0 tvg-logo="" group-title="",#### DOCUMENTÁRIOS ####
@@ -754,6 +765,10 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1726693761_b1296000_
 
 #EXTINF:0 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2010/04/canale-7-200x141.png" group title="ESPORTES",CANALE 7
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",CANELA
+https://stream.ads.ottera.tv/cl/B9jepETs6BZ7Xn-wMQU6J/1280x720_2996967_0_f.m3u8
 
 
 ##############  MUSICAL  ########################
