@@ -127,7 +127,8 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b6989c697a1327a22d41bf4ff435320b.jpg" group-title="FILMES SÉRIES",VILA 
-https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1219598114.m3u8
+https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-ELV1e2LJlYU/YCaxFOrmHvI/AAAAAAAAERE/sBOPPVuvQIw0dobCP2RoBxux_0f-iiRRgCLcBGAsYHQ/s0/TELA%2BVIVA%2BTV.png" group-title="FILMES SÉRIES",TELA VIVA
@@ -269,8 +270,9 @@ https://video1.earthcam.com//myearthcam//535638654b85727ae1cb10838215d406.flv//c
 https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w765867555.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BRSUPER
-https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",REDE BRASIL
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1658903474.m3u8
+
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="FILMES SÉRIES",CENTRALTV 
