@@ -386,7 +386,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" group-title="VARIEDADES",REDEFAMILIA
-https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/chunklist_b846000.m3u8
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b2270208.m3u8
 
 
 
@@ -576,10 +576,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/559c38874d0ba37800d727925e1654b4.png" group-title="NOTICIAS",HISPANTV
-https://live.presstv.ir/live/smil:live.smil/chunklist_w1530469419_b644100_slen.m3u8
-
-
 #EXTINF:0 tvg-logo="https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" group-title="NOTICIAS",CGTN Esp
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
@@ -608,17 +604,23 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
-
 #EXTINF:0 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="NOTICIAS",NEWSMAXTV 
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="NOTICIAS",CBS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+
+
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",EURONEWS
-https://stream.ads.ottera.tv/cl/nt8fYiIk376uR2TDwF1KP/1280x720_1500000_0_f.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2571
 
 
 #EXTINF:0 tvg-logo="" group-title="NOTICIAS",PRESSTV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
+
+
+
 
 ############### DOCUMENTÁRIOS ##############
 #EXTINF:0 tvg-logo="" group-title="",#### DOCUMENTÁRIOS ####
