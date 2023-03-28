@@ -53,6 +53,10 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w318448940.m3u8
 https://stmv1.painelvideo.top/jetsontv/jetsontv/chunklist_w1561929312.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="CARTOON",PANTERA COR DE ROSA
+https://stmv1.painelvideo.top/pinktv/pinktv/chunklist_w2127979962.m3u8
+
+
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s320/Screenshot_2019-06-21-15-12-44.png"group-title="CARTOON",GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 
@@ -105,10 +109,6 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w2030558459.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://www.locomotiontv.com.br/assets/img/logo-cghost.png" group-title="FILMES SÉRIES",GHOSTTV
-https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w500798363.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",IMPERIAL
 https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w609975464.m3u8
 
@@ -133,10 +133,6 @@ https://srv1.paineldevideo.com/encaucafm/encaucafm/chunklist_w55789487.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-jGLoFHYizBU/XvP9YTPEZuI/AAAAAAAADDA/3zgVhWsfXv4v5pIKW5O0-1-NdMEYv9kZQCLcBGAsYHQ/s320/2020-06-24%2B22.12.15.png" group-title="FILMES SÉRIES",TVSUL 
-https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8
-
-
 #EXTINF:0 tvg-logo="http://www.tvaguaboa.com.br/banners/04092019115122.jpg" group-title="FILMES SÉRIES", AGUA BOA
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1116467602.m3u8
 
@@ -148,10 +144,6 @@ https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SONATA
 https://stmv1.srvstm.com/tiago4617/tiago4617/chunklist_w1454621499.m3u8
 
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MY TIME
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
 ########### FILMES SÉRIES CLÁSSICOS  #########
 
@@ -259,6 +251,10 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1100067141.m3
 https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w1014550536.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",KTV
+https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/chunklist_w219124577.m3u8
+
+
 ############## FILMES e VARIEDADES ############
 #EXTINF:0 tvg-logo="" group-title="",## FILMES E VARIEDADES ##
 
@@ -323,6 +319,11 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES",DIVERSIDADE
 https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/chunklist_w1388974422.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-jGLoFHYizBU/XvP9YTPEZuI/AAAAAAAADDA/3zgVhWsfXv4v5pIKW5O0-1-NdMEYv9kZQCLcBGAsYHQ/s320/2020-06-24%2B22.12.15.png" group-title="VARIEDADES",TVSUL 
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8
 
 
 
