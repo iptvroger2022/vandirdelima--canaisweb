@@ -239,14 +239,6 @@ https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ABC
-https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w1014550536.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",KTV
-https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/chunklist_w219124577.m3u8
-
-
 ############## FILMES e VARIEDADES ############
 #EXTINF:0 tvg-logo="" group-title="",## FILMES E VARIEDADES ##
 
@@ -296,6 +288,15 @@ https://stm1.rbsystv.com/joseroberto9307/joseroberto9307/chunklist_w546678306.m3
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SANTA
 https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1200153215.m3u8
+
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ABC
+https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w1014550536.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",KTV
+https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/chunklist_w219124577.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",FRONTEIRA
