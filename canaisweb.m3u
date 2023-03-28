@@ -57,20 +57,12 @@ https://stmv1.painelvideo.top/jetsontv/jetsontv/chunklist_w1561929312.m3u8
 https://stmv1.painelvideo.top/pinktv/pinktv/chunklist_w2127979962.m3u8
 
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s320/Screenshot_2019-06-21-15-12-44.png"group-title="CARTOON",GOSPEL CARTOON
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
-
-
-
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="CARTOON",ANIME 
 https://stmv1.srvif.com/animetv/animetv/chunklist_w617070452.m3u8
 
 
-
-#EXTINF:0 tvg-logo="" group-title="CARTOON",LOADING
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8.
-
-
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s320/Screenshot_2019-06-21-15-12-44.png"group-title="CARTOON",GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 
 
 ######### FILMES SÉRIES DESENHOS  ##########
@@ -233,10 +225,6 @@ https://acesso.ecast.site:3613/live/csnlive.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CANAL29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
 
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-d-mnTNCYp_I/X77N431tLcI/AAAAAAAAD28/BGqvxaVveZQtW-eArJwOuarVS2YEQ5kZACLcBGAsYHQ/s0/BONS%2BTEMPOS%2BTV.png" group-title="FILMES SÉRIES",BONS TEMPOS
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w186200016.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-lKMka-gm-Tw/X5tuToPtoLI/AAAAAAAADow/kULmTt_ZgZ8Z-ypKXVxJKDGs2msf4TNdgCPcBGAYYCw/s0/VINTAGE%2BTV.png" group-title="FILMES SÉRIES",VINTAGE
