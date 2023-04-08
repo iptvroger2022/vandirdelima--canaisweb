@@ -15,22 +15,18 @@ http://los.cdnstream.com/1101_128
 https://ssl.srvstm.com:8212/;stream.mp3
 
 
-#EXTINF:0 group-title="CONTATO",41-99188.4160 
-https://node-04.zeno.fm/wmb9se6bseruv?rj-ttl=5&rj-tok=AAABe2cheBoA4ghTh_s5MlsWzA
-
+#EXTINF:0 group-title="CONTATO",PSICANALISTA ONLINE
+http://199.195.194.94:8103/stream/;stream.mp3
 
 #EXTINF:0 group-title="CONTATO",TERAPIA ONLINE
-http://199.195.194.94:8103/stream/;stream.mp3
-
-#EXTINF:0 group-title="CONTATO",TERAPEUTA ONLINE
-http://199.195.194.94:8103/stream/;stream.mp3
-
-#EXTINF:0 group-title="CONTATO",PSICANALISTA ONLINE
 https://listen.181fm.com/181-hardrock_128k.mp3
 
 
-#EXTINF:0 group-title="CONTATO",vandirdelima@gmail.com
+#EXTINF:0 group-title="CONTATO",vandir.psicanalise@gmail.com
 https://servidor16-3.brlogic.com:7614/live
+
+#EXTINF:0 group-title="CONTATO",41-99188.4160 
+https://node-04.zeno.fm/wmb9se6bseruv?rj-ttl=5&rj-tok=AAABe2cheBoA4ghTh_s5MlsWzA
 
 
 #EXTINF:0 group-title="CONTATO",
