@@ -187,9 +187,15 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
 https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLASSIQUE 2
+https://stmv1.painelvideo.top/classiquetv1/classiquetv1/chunklist_w1532068052.m3u8
+
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png"group-title="FILMES SÉRIES",CLASSIQUE WESTERN
 https://stmv1.painelvideo.top/classiquew/classiquew/chunklist_w237050014.m3u8
 
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLASSIQUE SÉRIES
+https://stmv4.voxtvhd.com.br/tvseries/tvseries/chunklist_w776821197.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2wJWDKQtd4w/X5Hf-KMMXBI/AAAAAAAADgk/eGIma0JURzI_xqRcCYPGykmQ3wifE5KQgCLcBGAsYHQ/s0/AS%2BPANTERAS.png"group-title="FILMES SÉRIES",AS PANTERAS 
@@ -290,8 +296,40 @@ https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1200153215.m
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944568546.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ITV
+https://stmv1.paineltv.net/miguel1318/miguel1318/chunklist_w1394480652.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV100
+https://serv3.videovox.pw/video78531/video78531/chunklist_w1184741389.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",RBC
+https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ULB
+https://video01.kshost.com.br/alan4876/alan4876/chunklist_w386830378.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BRASIL HITS
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1591126773.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CAMPOS
+https://stm1.rbsys.radio.br/joseroberto9307/joseroberto9307/chunklist_w1617925944.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TELEWEB
+https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w567459976.m3u8
+
+
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",FRONTEIRA
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w1487374814.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",THE BIBLE
+https://stmv4.voxtvhd.com.br/thebible/thebible/chunklist_w89390320.m3u8
 
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png"group-title="FILMES SÉRIES",GOSPEL MOVIES
