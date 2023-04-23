@@ -169,7 +169,7 @@ https://stmv1.samcast.com.br/ctvpb/ctvpb/chunklist_w19140926.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TVCLASSICOS
-https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
 
 
 
@@ -187,52 +187,8 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
 https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLASSIQUE 2
-https://stmv1.painelvideo.top/classiquetv1/classiquetv1/chunklist_w1532068052.m3u8
-
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png"group-title="FILMES SÉRIES",CLASSIQUE WESTERN
-https://stmv1.painelvideo.top/classiquew/classiquew/chunklist_w237050014.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLASSIQUE SÉRIES
 https://stmv4.voxtvhd.com.br/tvseries/tvseries/chunklist_w776821197.m3u8
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2wJWDKQtd4w/X5Hf-KMMXBI/AAAAAAAADgk/eGIma0JURzI_xqRcCYPGykmQ3wifE5KQgCLcBGAsYHQ/s0/AS%2BPANTERAS.png"group-title="FILMES SÉRIES",AS PANTERAS 
-https://stmv1.painelvideo.top/tvserie/tvserie/chunklist_w332191279.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Vwn-6-cgyZ4/X5HnLPZ8TlI/AAAAAAAADg4/0E3x3g1wEDgaHfCxa4MmNvHmXhKssg1VQCLcBGAsYHQ/s0/A%2BMULHER%2BBI%25C3%2594NICA.png"group-title="FILMES SÉRIES",MULHER BIONICA
-https://stmv1.painelvideo.top/tvserie2/tvserie2/chunklist_w22295240.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-T4ejZp3RbpE/X49JM5K2hdI/AAAAAAAADd8/2PvwOy_mnS09HXIcaC2sGLmSVpVVtvGOQCLcBGAsYHQ/s0/STAR%2BTREK.png" group-title="FILMES SÉRIES",STAR TREK
-https://stmv1.painelvideo.top/tvserie3/tvserie3/chunklist_w849638441.m3u8
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-_YURHwLOTdY/X_sfomVkvHI/AAAAAAAAEHs/LSMWc19qjxUylwoEcI4YINE2YBHGsMC5wCLcBGAsYHQ/s0/CHIPS.png" group-title="FILMES SÉRIES",CHIPS
-https://stmv1.painelvideo.top/tvserie4/tvserie4/chunklist_w126681295.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-w43wGnoTyGk/YCLF2uzS16I/AAAAAAAAEP0/xJguFMvzNZQQvYI_pU9CLJAovuCkUBeIwCLcBGAsYHQ/s0/GUERRA%252C%2BSOMBRA%2BE%2B%25C3%2581GUA%2BFRESCA.png" group-title="FILMES SÉRIES",HOGANSHEROES
-https://stmv1.painelvideo.top/tvserie5/tvserie5/chunklist_w1508827033.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TRES PATETAS
-https://stmv1.painelvideo.top/tvserie6/tvserie6/chunklist_w1255457122.m3u8
-
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AGENTE 86
-https://stmv1.painelvideo.top/tvserie7/tvserie7/chunklist_w380607263.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",HOMEM DE 6 MILHÕES
-https://stmv1.painelvideo.top/tvserie8/tvserie8/chunklist_w706199861.m3u8
-
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",AWTV
