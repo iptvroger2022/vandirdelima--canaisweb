@@ -73,6 +73,11 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
 
 
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ITV
+https://stmv1.paineltv.net/miguel1318/miguel1318/chunklist_w1394480652.m3u8
+
+
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-1lRRmfoFjqw/YJLdfKPVFjI/AAAAAAAAEos/RKs26haVlcU4N1pH8JUyadk71S7IECBVgCLcBGAsYHQ/s0/TV%2BNOVA%2BPLAY%2B2.png" group-title="FILMES SÉRIES",NOVAPLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1212094222.m3u8
 
@@ -250,10 +255,6 @@ https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1200153215.m
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",XPLUS
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944568546.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ITV
-https://stmv1.paineltv.net/miguel1318/miguel1318/chunklist_w1394480652.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV100
