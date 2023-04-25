@@ -137,6 +137,13 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1116467602.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV CEI
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",RBC
+https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ULB
+https://video01.kshost.com.br/alan4876/alan4876/chunklist_w386830378.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SONATA
 https://stmv1.srvstm.com/tiago4617/tiago4617/chunklist_w1454621499.m3u8
@@ -191,6 +198,10 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png"group-title="FILMES SÉRIES",CLASSIQUE 
 https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
 
+
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png"group-title="FILMES SÉRIES",CLASSIQUE WESTERN
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w230143934.m3u8
+ 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLASSIQUE SÉRIES
 https://stmv4.voxtvhd.com.br/tvseries/tvseries/chunklist_w776821197.m3u8
@@ -259,18 +270,6 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944568546.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV100
 https://serv3.videovox.pw/video78531/video78531/chunklist_w1184741389.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",RBC
-https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",ULB
-https://video01.kshost.com.br/alan4876/alan4876/chunklist_w386830378.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",BRASIL HITS
-https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1591126773.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CAMPOS
