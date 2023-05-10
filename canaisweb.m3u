@@ -83,8 +83,7 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1212094222.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CHANNEL1
-https://stmv1.painelvideo.top/channel1/channel1/chunklist_w872431715.m3u8
-
+https://stmv1.srvif.com/channel1/channel1/chunklist_w285237757.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV CEI
@@ -96,13 +95,8 @@ https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1761855764.m3u8
 
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",LASS
-https://tv02.zas.media:1936/lasstv/lasstv/chunklist_w574669255.m3u8
-
-
-
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/s320/Screenshot_2019-06-20-21-12-40.png" group-title="FILMES SÉRIES",JSID
-https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0Bb7qlBYScY/X6Aug7qQzGI/AAAAAAAADrs/b6QSHfY8TZoj0UJ5tegjhVAoaabLtkBWQCLcBGAsYHQ/s0/TV%2BENCAUCA.png" group-title="FILMES SÉRIES",ENCAUCA
@@ -115,7 +109,8 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w2030558459.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",IMPERIAL
-https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w609975464.m3u8
+https://node2.ecast.site:3428/live/imperiallive.m3u8
+
 
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b6989c697a1327a22d41bf4ff435320b.jpg" group-title="FILMES SÉRIES",VILA 
@@ -139,20 +134,8 @@ https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
 https://video01.kshost.com.br/alan4876/alan4876/chunklist_w386830378.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SONATA
-https://stmv1.srvstm.com/tiago4617/tiago4617/chunklist_w1454621499.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",GHOST
-https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w2037380283.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",EMOTION
 https://stmv1.srvif.com/emotiontv/emotiontv/chunklist_w648766402.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",EURO-ONE
-https://stmv4.voxtvhd.com.br/euroone/euroone/chunklist_w1429454900.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",MY TIME
@@ -161,7 +144,7 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 ########### FILMES SÉRIES CLÁSSICOS  #########
 
 
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLONE
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CLOUDING
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
 
 
@@ -281,9 +264,6 @@ https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w56745997
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",FRONTEIRA
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w1487374814.m3u8
 
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",THE BIBLE
-https://stmv4.voxtvhd.com.br/thebible/thebible/chunklist_w89390320.m3u8
 
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png"group-title="FILMES SÉRIES",GOSPEL MOVIES
