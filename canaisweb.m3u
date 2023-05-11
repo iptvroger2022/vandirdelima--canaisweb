@@ -145,10 +145,8 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
 
 
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CTV
-https://stmv1.samcast.com.br/ctvpb/ctvpb/chunklist_w19140926.m3u8
-
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",XPLUS
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944568546.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TVCLASSICOS
@@ -199,9 +197,14 @@ https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w2011427906.m
 #EXTINF:0 tvg-logo="" group-title="",## FILMES E VARIEDADES ##
 
 
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Dz8hWPkHzyU/XWAeyKtSHxI/AAAAAAAABjQ/GQCk1qkykk8I3dfqTtUOSNGTgI9cji-vwCLcBGAs/s320/Screenshot_2019-08-23-14-11-58.png" group-title="FILMES SÉRIES",ISTV 
-https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 
+
+#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",CTV
+https://stmv1.samcast.com.br/ctvpb/ctvpb/chunklist_w19140926.m3u8
+
+
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Dz8hWPkHzyU/XWAeyKtSHxI/AAAAAAAABjQ/GQCk1qkykk8I3dfqTtUOSNGTgI9cji-vwCLcBGAs/s320/Screenshot_2019-08-23-14-11-58.png" group-title="FILMES SÉRIES",ISTV 
+https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-4YhZ8LozzVI/X5C1dZCh6vI/AAAAAAAADe4/Z_ylY4Wq-181AqnY-WRRgv6eCfM59S0vgCLcBGAsYHQ/s0/ENTORNO%2BSUL%2BWEB%2BTV.png" group-title="FILMES SÉRIES",ENTORNOSUL
@@ -239,11 +242,6 @@ https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w1107678837.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",SANTA
 https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1200153215.m3u8
-
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",XPLUS
-https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944568546.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES SÉRIES",TV100
