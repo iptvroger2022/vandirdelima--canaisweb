@@ -1195,3 +1195,5 @@ http://game.shiuk.re:80/live/Roberto09/Robertoabuse09/523.m3u8
 http://game.shiuk.re:80/live/Roberto09/Robertoabuse09/890.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS • FILMES",melodysheep
 https://archive.org/download/melodysheep-symphony-of-science-collection/Videos (branded both SoS%2C Melodysheep)/THE MUSIC OF SOUND_4K.mp4
+#EXTINF:-1 tvg-id="https://tmwpix.com/pixtv" tvg-logo="https://i.imgur.com/1tZkyIv.png" group-title="CANAIS | NOTICIAS",PIXTV (NOTICIAS DIREITA)
+https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
