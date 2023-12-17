@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://shiuk.re:80/xmltv.php?username=Roberto09&password=Robertoabuse09&type=m3u"
 #EXTINF:-1 tvg-id="" tvg-name="24h A Família Addams" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS • 24H",24h A Família Addams
 http://game.shiuk.re:80/live/Roberto09/Robertoabuse09/157.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24h A Formiga Atômica" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS • 24H",24h A Formiga Atômica
